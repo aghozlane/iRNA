@@ -1,0 +1,120 @@
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat}{
+\section{i\-R\-N\-A\-\_\-pred\-:\-:\-Stat\-:\-:\-Stat \-Class \-Reference}
+\label{classiRNA__pred_1_1Stat_1_1Stat}\index{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat@{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat}}
+}
+
+
+\-: \-Compute different statistic on sequences \-: \-G\-C percent and mean length  
+
+
+
+
+\-Inheritance diagram for i\-R\-N\-A\-\_\-pred\-:\-:\-Stat\-:\-:\-Stat\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=206pt]{classiRNA__pred_1_1Stat_1_1Stat__inherit__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_a326772f7e0d8702eb16834e70aa803c5}{
+def \hyperlink{classiRNA__pred_1_1Stat_1_1Stat_a326772f7e0d8702eb16834e70aa803c5}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_a326772f7e0d8702eb16834e70aa803c5}
+
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Stat_1_1Stat}{\-Stat} constructor. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_a60f46af0b7a53da44d4b0f8df4818f5c}{
+def {\bfseries \-Compute\-G\-C}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_a60f46af0b7a53da44d4b0f8df4818f5c}
+
+\item 
+def \hyperlink{classiRNA__pred_1_1Stat_1_1Stat_abe17a96a8c002d79765af314cd6eb7e7}{\-Get\-G\-C}
+\begin{DoxyCompactList}\small\item\em \-Get the \-G\-C percentage. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Stat_1_1Stat_a65aa8b73f36d17ffb5c9de897b6bbd34}{\-Get\-Len\-Seq}
+\begin{DoxyCompactList}\small\item\em \-Get the mean length of sequence. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_aada3e0e9e2c4746f95bb15a108470232}{
+def \hyperlink{classiRNA__pred_1_1Stat_1_1Stat_aada3e0e9e2c4746f95bb15a108470232}{\-Seq\-Inf}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_aada3e0e9e2c4746f95bb15a108470232}
+
+\begin{DoxyCompactList}\small\item\em \-Write \-Seq \-Inf data. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_a9d89bd33206da0426191f60587386d13}{
+def \hyperlink{classiRNA__pred_1_1Stat_1_1Stat_a9d89bd33206da0426191f60587386d13}{open\-Seq\-Inf}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_a9d89bd33206da0426191f60587386d13}
+
+\begin{DoxyCompactList}\small\item\em \-Open seq\-\_\-inf file and write header. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_a38496ae60fd0afe303c397ccc3d535eb}{
+def \hyperlink{classiRNA__pred_1_1Stat_1_1Stat_a38496ae60fd0afe303c397ccc3d535eb}{\-Close\-Seq\-Inf}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_a38496ae60fd0afe303c397ccc3d535eb}
+
+\begin{DoxyCompactList}\small\item\em \-Close the \-Seq \-Inf file. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_a00b3f83e42d1b156efd9fa1e5f0073bc}{
+{\bfseries file}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_a00b3f83e42d1b156efd9fa1e5f0073bc}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+tuple \hyperlink{classiRNA__pred_1_1Stat_1_1Stat_a3a7dafa5e97f208ef4f625abec21d8d5}{seqlen} = len(seq)
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Compute different statistic on sequences \-: \-G\-C percent and mean length 
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_abe17a96a8c002d79765af314cd6eb7e7}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat@{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat}!\-Get\-G\-C@{\-Get\-G\-C}}
+\index{\-Get\-G\-C@{\-Get\-G\-C}!iRNA_pred::Stat::Stat@{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat}}
+\subsubsection[{\-Get\-G\-C}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat\-::\-Get\-G\-C (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_abe17a96a8c002d79765af314cd6eb7e7}
+
+
+\-Get the \-G\-C percentage. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-The \-G\-C percentage 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_a65aa8b73f36d17ffb5c9de897b6bbd34}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat@{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat}!\-Get\-Len\-Seq@{\-Get\-Len\-Seq}}
+\index{\-Get\-Len\-Seq@{\-Get\-Len\-Seq}!iRNA_pred::Stat::Stat@{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat}}
+\subsubsection[{\-Get\-Len\-Seq}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat\-::\-Get\-Len\-Seq (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_a65aa8b73f36d17ffb5c9de897b6bbd34}
+
+
+\-Get the mean length of sequence. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Mean length 
+\end{DoxyReturn}
+
+
+\subsection{\-Member \-Data \-Documentation}
+\hypertarget{classiRNA__pred_1_1Stat_1_1Stat_a3a7dafa5e97f208ef4f625abec21d8d5}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat@{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat}!seqlen@{seqlen}}
+\index{seqlen@{seqlen}!iRNA_pred::Stat::Stat@{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat}}
+\subsubsection[{seqlen}]{\setlength{\rightskip}{0pt plus 5cm}tuple {\bf i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat\-::seqlen} = len(seq)\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classiRNA__pred_1_1Stat_1_1Stat_a3a7dafa5e97f208ef4f625abec21d8d5}
+\begin{DoxyVerb}
+Compute the length and the number of GC
+@param name: Name of the sequence
+@param seq: RNA sequence
+\end{DoxyVerb}
+ 
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-pred/\-Stat.\-py\end{DoxyCompactItemize}

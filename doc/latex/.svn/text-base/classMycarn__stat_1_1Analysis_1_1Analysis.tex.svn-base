@@ -1,0 +1,59 @@
+\hypertarget{classMycarn__stat_1_1Analysis_1_1Analysis}{
+\section{\-Mycarn\-\_\-stat\-:\-:\-Analysis\-:\-:\-Analysis \-Class \-Reference}
+\label{classMycarn__stat_1_1Analysis_1_1Analysis}\index{\-Mycarn\-\_\-stat\-::\-Analysis\-::\-Analysis@{\-Mycarn\-\_\-stat\-::\-Analysis\-::\-Analysis}}
+}
+
+
+\-Inheritance diagram for \-Mycarn\-\_\-stat\-:\-:\-Analysis\-:\-:\-Analysis\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classMycarn__stat_1_1Analysis_1_1Analysis__inherit__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Analysis_1_1Analysis_a38fe13579fba1ee627d29895563c1001}{
+def \hyperlink{classMycarn__stat_1_1Analysis_1_1Analysis_a38fe13579fba1ee627d29895563c1001}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classMycarn__stat_1_1Analysis_1_1Analysis_a38fe13579fba1ee627d29895563c1001}
+
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classMycarn__stat_1_1Analysis_1_1Analysis}{\-Analysis} object. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1Analysis_1_1Analysis_a0d1ce398ef5fdc08d5b58b7569d50f52}{
+def \hyperlink{classMycarn__stat_1_1Analysis_1_1Analysis_a0d1ce398ef5fdc08d5b58b7569d50f52}{commun\-\_\-values}}
+\label{classMycarn__stat_1_1Analysis_1_1Analysis_a0d1ce398ef5fdc08d5b58b7569d50f52}
+
+\begin{DoxyCompactList}\small\item\em \-Detect commune nan values. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Analysis_1_1Analysis_ae57b9d91229d015911a74de50664393e}{get\-Range\-Posit}
+\begin{DoxyCompactList}\small\item\em \-Get one column. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn__stat_1_1Analysis_1_1Analysis_ae57b9d91229d015911a74de50664393e}{
+\index{\-Mycarn\-\_\-stat\-::\-Analysis\-::\-Analysis@{\-Mycarn\-\_\-stat\-::\-Analysis\-::\-Analysis}!get\-Range\-Posit@{get\-Range\-Posit}}
+\index{get\-Range\-Posit@{get\-Range\-Posit}!Mycarn_stat::Analysis::Analysis@{\-Mycarn\-\_\-stat\-::\-Analysis\-::\-Analysis}}
+\subsubsection[{get\-Range\-Posit}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Analysis\-::\-Analysis\-::get\-Range\-Posit (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{array, }
+\item[{}]{col}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Analysis_1_1Analysis_ae57b9d91229d015911a74de50664393e}
+
+
+\-Get one column. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em array,\-:} & \-Matrix array of data \\
+\hline
+{\em col,\-:} & \-Selected column \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn\-\_\-stat/\-Analysis.\-py\end{DoxyCompactItemize}

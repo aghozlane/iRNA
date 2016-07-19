@@ -1,0 +1,34 @@
+\hypertarget{namespaceirna_1_1David2tulip_1_1David2tulip}{
+\section{irna\-:\-:\-David2tulip\-:\-:\-David2tulip \-Namespace \-Reference}
+\label{namespaceirna_1_1David2tulip_1_1David2tulip}\index{irna\-::\-David2tulip\-::\-David2tulip@{irna\-::\-David2tulip\-::\-David2tulip}}
+}
+\subsection*{\-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{namespaceirna_1_1David2tulip_1_1David2tulip_a0768ed594b7a0698394c4a8a92daf612}{main}
+\begin{DoxyCompactList}\small\item\em \-Main program \#\#\#. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{\-Function \-Documentation}
+\hypertarget{namespaceirna_1_1David2tulip_1_1David2tulip_a0768ed594b7a0698394c4a8a92daf612}{
+\index{irna\-::\-David2tulip\-::\-David2tulip@{irna\-::\-David2tulip\-::\-David2tulip}!main@{main}}
+\index{main@{main}!irna::David2tulip::David2tulip@{irna\-::\-David2tulip\-::\-David2tulip}}
+\subsubsection[{main}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::\-David2tulip\-::\-David2tulip\-::main (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}
+\label{namespaceirna_1_1David2tulip_1_1David2tulip_a0768ed594b7a0698394c4a8a92daf612}
+
+
+\-Main program \#\#\#. 
+
+\-Determine les fichiers fournis en arguments def get\-Argument()\-: \char`\"{}\char`\"{}" \-Determine the argument \begin{DoxyReturn}{\-Returns}
+\-: arguments \char`\"{}\char`\"{}" \#\-Parsing arguments parser = argparse.\-Argument\-Parser(description='\-Create nodes and edge csv for \-Tulip from multiple datasets.') parser.\-add\-\_\-argument('-\/m', '-\/-\/multilist',help='\-Multilist file from \-Mycarn',required=\-True) parser.\-set\-\_\-defaults(\hyperlink{namespaceirna_1_1David2tulip_1_1pValue}{p\-Value}=\-None) parser.\-add\-\_\-argument('-\/l', '-\/-\/filter',help='\-Filter multilist for only known metabolites and use it for analysis') parser.\-add\-\_\-argument('-\/s','-\/-\/similarity',help='\-Set similarity of s\-R\-N\-A groups') parser.\-add\-\_\-argument('-\/p', '-\/-\/p\-Value',help='p\-Value of selected files') parser.\-add\-\_\-argument('-\/r', '-\/-\/results',help='\-Path to result repertory',required=\-True) parser.\-add\-\_\-argument('-\/d', '-\/-\/david',help='\-Submit multilist to \-D\-A\-V\-I\-D',action='store\-\_\-true') parser.\-add\-\_\-argument('-\/i', '-\/-\/interact',help='\-Path to interaction file') parser.\-add\-\_\-argument('-\/e', '-\/-\/enrichment',help='\-Path to \-D\-A\-V\-I\-D enrichment file') parser.\-add\-\_\-argument('-\/y','-\/-\/mycarn',help='\-Path to \-Mycarn db file') parser.\-add\-\_\-argument('-\/f', '-\/-\/fastmode',help='\-Use sqlitebck package to get faster sqlite implementation',action='store\-\_\-true') args = parser.\-parse\-\_\-args()
+\end{DoxyReturn}
+\#\-Verify usage usage(parser,args) return args
+
+\-Main program function 
+
+\-Definition at line 114 of file \-David2tulip.\-py.
+

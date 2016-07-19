@@ -1,0 +1,340 @@
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction}{
+\section{i\-R\-N\-A\-\_\-pred\-:\-:\-Interaction\-:\-:\-Interaction \-Class \-Reference}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction}\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+}
+
+
+\-: \-Store information on interaction.  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a068604af8d5786cdf32161759aa9b27d}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Init object. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a66f32ad3e3e9701bb16b8aca846f82ff}{set\-Soft}
+\begin{DoxyCompactList}\small\item\em \-Set software node. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_aaa4f5f2bbc2d435d5f3680a7fe8ac1e8}{getlastm\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Get m\-R\-N\-A attribute. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_aa2694d98f70ebc01302e2b151f23eb86}{getlasts\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Get s\-R\-N\-A attribute. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_acc2e23ab48c48d443f001b2824afa806}{add\-List\-Of\-Comparison}
+\begin{DoxyCompactList}\small\item\em \-Add a list of comparison node. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a50a9b6fd2b36fb1330af4677531262b9}{add\-Comparison}
+\begin{DoxyCompactList}\small\item\em \-Add a comparison node. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a3d2848310280e8d14e00c64c474f1d0a}{get\-Lastchildnode}
+\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a71c27d68c31c6ac9738e4256de7fe8ed}{set\-Score\-List}
+\begin{DoxyCompactList}\small\item\em \-Set \-List\-Of\-Comparison score. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a03d99f6c3298ad4a9922c64bc619ccfc}{get\-Result}
+\item 
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a8336dd6cdc25e8011edf6d2c02a6256a}{
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a8336dd6cdc25e8011edf6d2c02a6256a}{println}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a8336dd6cdc25e8011edf6d2c02a6256a}
+
+\begin{DoxyCompactList}\small\item\em \-Print object data. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_af62ad9d36d250a58dcd6d7e175fe094a}{set\-Matrix}
+\begin{DoxyCompactList}\small\item\em \-Manage matrix load and format. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a1c7a38ca00389e2e4c7bc69cb1c1458c}{format\-Matrix}
+\begin{DoxyCompactList}\small\item\em \-Format into integer the matrix. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a53ef0c21712a28c85055a205301b3cae}{load\-Matrix}
+\begin{DoxyCompactList}\small\item\em \-Load the matrix of score. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_a671b45c3dc89e7b9d30e29849b8238b7}{get\-Position}
+\begin{DoxyCompactList}\small\item\em \-Get the position on matrix. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction_ad0c1d53e168ad4dcce5f6583af945eae}{score\-Sequence}
+\begin{DoxyCompactList}\small\item\em \-Score two sequences. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a52352c9fca3cf47298711255ceabda32}{
+{\bfseries root}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a52352c9fca3cf47298711255ceabda32}
+
+\item 
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_ad1c238c3fa3cedcd2e8ecac3894b8e9c}{
+{\bfseries schema\-\_\-root}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_ad1c238c3fa3cedcd2e8ecac3894b8e9c}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_aa5f8ab32655be2c406adc240d190cb82}{
+{\bfseries matrix} = \-None}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_aa5f8ab32655be2c406adc240d190cb82}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Store information on interaction. 
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a068604af8d5786cdf32161759aa9b27d}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a068604af8d5786cdf32161759aa9b27d}
+
+
+\-Init object. 
+
+\begin{DoxyRefDesc}{\-Todo}
+\item[\hyperlink{todo__todo000003}{\-Todo}]\-: etree \end{DoxyRefDesc}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a50a9b6fd2b36fb1330af4677531262b9}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!add\-Comparison@{add\-Comparison}}
+\index{add\-Comparison@{add\-Comparison}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{add\-Comparison}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::add\-Comparison (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a50a9b6fd2b36fb1330af4677531262b9}
+
+
+\-Add a comparison node. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Comparison result \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_acc2e23ab48c48d443f001b2824afa806}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!add\-List\-Of\-Comparison@{add\-List\-Of\-Comparison}}
+\index{add\-List\-Of\-Comparison@{add\-List\-Of\-Comparison}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{add\-List\-Of\-Comparison}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::add\-List\-Of\-Comparison (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{m\-R\-N\-A, }
+\item[{}]{s\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_acc2e23ab48c48d443f001b2824afa806}
+
+
+\-Add a list of comparison node. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em m\-R\-N\-A,\-:} & m\-R\-N\-A id \\
+\hline
+{\em s\-R\-N\-A,\-:} & s\-R\-N\-A id \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a1c7a38ca00389e2e4c7bc69cb1c1458c}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!format\-Matrix@{format\-Matrix}}
+\index{format\-Matrix@{format\-Matrix}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{format\-Matrix}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::format\-Matrix (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{mat}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a1c7a38ca00389e2e4c7bc69cb1c1458c}
+
+
+\-Format into integer the matrix. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em mat,\-:} & \-Matrix data in string format \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Matrix in integer format 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a3d2848310280e8d14e00c64c474f1d0a}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!get\-Lastchildnode@{get\-Lastchildnode}}
+\index{get\-Lastchildnode@{get\-Lastchildnode}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{get\-Lastchildnode}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::get\-Lastchildnode (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a3d2848310280e8d14e00c64c474f1d0a}
+\begin{DoxyReturn}{\-Returns}
+\-: \-The last child from root 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_aaa4f5f2bbc2d435d5f3680a7fe8ac1e8}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!getlastm\-R\-N\-A@{getlastm\-R\-N\-A}}
+\index{getlastm\-R\-N\-A@{getlastm\-R\-N\-A}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{getlastm\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::getlastm\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_aaa4f5f2bbc2d435d5f3680a7fe8ac1e8}
+
+
+\-Get m\-R\-N\-A attribute. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Value of m\-R\-N\-A attribute 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_aa2694d98f70ebc01302e2b151f23eb86}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!getlasts\-R\-N\-A@{getlasts\-R\-N\-A}}
+\index{getlasts\-R\-N\-A@{getlasts\-R\-N\-A}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{getlasts\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::getlasts\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_aa2694d98f70ebc01302e2b151f23eb86}
+
+
+\-Get s\-R\-N\-A attribute. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Value of s\-R\-N\-A attribute 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a671b45c3dc89e7b9d30e29849b8238b7}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!get\-Position@{get\-Position}}
+\index{get\-Position@{get\-Position}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{get\-Position}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::get\-Position (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{letter}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a671b45c3dc89e7b9d30e29849b8238b7}
+
+
+\-Get the position on matrix. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em letter,\-:} & \-One letter in the sequence \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-The position on matrix 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a03d99f6c3298ad4a9922c64bc619ccfc}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!get\-Result@{get\-Result}}
+\index{get\-Result@{get\-Result}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{get\-Result}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::get\-Result (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a03d99f6c3298ad4a9922c64bc619ccfc}
+\begin{DoxyReturn}{\-Returns}
+\-: \-The tree in text format 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a53ef0c21712a28c85055a205301b3cae}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!load\-Matrix@{load\-Matrix}}
+\index{load\-Matrix@{load\-Matrix}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{load\-Matrix}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::load\-Matrix (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{matrix}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a53ef0c21712a28c85055a205301b3cae}
+
+
+\-Load the matrix of score. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em matrix,\-:} & \-Matrix file \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Matrix of score 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_ad0c1d53e168ad4dcce5f6583af945eae}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!score\-Sequence@{score\-Sequence}}
+\index{score\-Sequence@{score\-Sequence}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{score\-Sequence}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::score\-Sequence (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{seqs}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_ad0c1d53e168ad4dcce5f6583af945eae}
+
+
+\-Score two sequences. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em seqs,\-:} & \-Table of two sequences \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-The score of the alignement 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_af62ad9d36d250a58dcd6d7e175fe094a}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!set\-Matrix@{set\-Matrix}}
+\index{set\-Matrix@{set\-Matrix}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{set\-Matrix}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::set\-Matrix (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{matrix}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_af62ad9d36d250a58dcd6d7e175fe094a}
+
+
+\-Manage matrix load and format. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em matrix,\-:} & \-Matrix file \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a71c27d68c31c6ac9738e4256de7fe8ed}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!set\-Score\-List@{set\-Score\-List}}
+\index{set\-Score\-List@{set\-Score\-List}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{set\-Score\-List}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::set\-Score\-List (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a71c27d68c31c6ac9738e4256de7fe8ed}
+
+
+\-Set \-List\-Of\-Comparison score. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score the whole comparison \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Interaction_1_1Interaction_a66f32ad3e3e9701bb16b8aca846f82ff}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}!set\-Soft@{set\-Soft}}
+\index{set\-Soft@{set\-Soft}!iRNA_pred::Interaction::Interaction@{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{set\-Soft}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction\-::set\-Soft (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{soft\-\_\-name, }
+\item[{}]{ref}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Interaction_1_1Interaction_a66f32ad3e3e9701bb16b8aca846f82ff}
+
+
+\-Set software node. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em soft\-\_\-name,\-:} & \-Software name \\
+\hline
+{\em ref,\-:} & \-Software num \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-pred/\-Interaction.\-py\end{DoxyCompactItemize}

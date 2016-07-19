@@ -1,0 +1,264 @@
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger}{
+\section{irna\-:\-:i\-R\-N\-A\-\_\-pred\-:\-:\-Merger\-:\-:\-Merger \-Class \-Reference}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger}\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+}
+
+
+\-Merge the xml files in a sqlite database.  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_abd0b8f8b66883163fed46bc2e4ef85d2}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Initiate the constructor. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_abab2e55be9532a718f8caebf6545a7ab}{build\-Tree}
+\begin{DoxyCompactList}\small\item\em \-Read the xml tree and copy the data into the sqlite database. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_aad2bf9d952bfb24750e992ae561413ab}{get\-Data}
+\begin{DoxyCompactList}\small\item\em \hyperlink{namespaceirna_1_1iRNA__pred_1_1Parse}{\-Parse} xml tree. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a34d637e86420774f9ef883a30431774a}{set\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \hyperlink{namespaceirna_1_1iRNA__pred_1_1Parse}{\-Parse} \-R\-N\-A\-\_\-inf file. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a8f11d43f13cf8b846282313a51296179}{merge}
+\begin{DoxyCompactList}\small\item\em \-Merge mycarn xml files into a sqlite database. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_ae8f8e80b7aaa4023de24bdacb738b8c8}{rep\-In}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a0632e77e3715619f6d34ba9b0db4a5f5}{files}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a64c835ab8723a4fc6ad13b3628792eb2}{softprevious}
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+tuple \hyperlink{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a9aa078b271a636dc346f019b2d0739fb}{result\-\_\-data} = etree.\-Element(\char`\"{}result\char`\"{})
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-Merge the xml files in a sqlite database. 
+
+\-Definition at line 14 of file \-Merger.\-py.
+
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_abd0b8f8b66883163fed46bc2e4ef85d2}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{rep\-In}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_abd0b8f8b66883163fed46bc2e4ef85d2}
+
+
+\-Initiate the constructor. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em rep\-In,\-:} & \-Result repertory \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 23 of file \-Merger.\-py.
+
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_abab2e55be9532a718f8caebf6545a7ab}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!build\-Tree@{build\-Tree}}
+\index{build\-Tree@{build\-Tree}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{build\-Tree}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::build\-Tree (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{tree, }
+\item[{}]{dbmanage}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_abab2e55be9532a718f8caebf6545a7ab}
+
+
+\-Read the xml tree and copy the data into the sqlite database. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em tree,\-:} & xml tree parsed \\
+\hline
+{\em dbmanage,\-:} & \-Database manager \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 38 of file \-Merger.\-py.
+
+
+
+\-References get\-Data(), and softprevious.
+
+
+
+\-Referenced by merge().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_aad2bf9d952bfb24750e992ae561413ab}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!get\-Data@{get\-Data}}
+\index{get\-Data@{get\-Data}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{get\-Data}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::get\-Data (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{file}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_aad2bf9d952bfb24750e992ae561413ab}
+
+
+\hyperlink{namespaceirna_1_1iRNA__pred_1_1Parse}{\-Parse} xml tree. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em file,\-:} & \-Result part in \-Xml format \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: resulting tree 
+\end{DoxyReturn}
+
+
+\-Definition at line 71 of file \-Merger.\-py.
+
+
+
+\-References set\-R\-N\-A().
+
+
+
+\-Referenced by build\-Tree(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data\-::getall\-Softs(), and merge().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a8f11d43f13cf8b846282313a51296179}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!merge@{merge}}
+\index{merge@{merge}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{merge}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::merge (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{dbmanage}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a8f11d43f13cf8b846282313a51296179}
+
+
+\-Merge mycarn xml files into a sqlite database. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em dbmanage,\-:} & \-Database manager \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 101 of file \-Merger.\-py.
+
+
+
+\-References build\-Tree(), get\-Data(), and rep\-In.
+
+
+
+\-Referenced by set\-R\-N\-A().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a34d637e86420774f9ef883a30431774a}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!set\-R\-N\-A@{set\-R\-N\-A}}
+\index{set\-R\-N\-A@{set\-R\-N\-A}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{set\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::set\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{dbmanage, }
+\item[{}]{\-R\-N\-A\-\_\-inf, }
+\item[{}]{type}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a34d637e86420774f9ef883a30431774a}
+
+
+\hyperlink{namespaceirna_1_1iRNA__pred_1_1Parse}{\-Parse} \-R\-N\-A\-\_\-inf file. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-R\-N\-A\-\_\-inf,\-:} & \-Path to \-R\-N\-A\-\_\-inf file \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+{\em type,\-:} & \-Type of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 87 of file \-Merger.\-py.
+
+
+
+\-References files, and merge().
+
+
+
+\-Referenced by get\-Data().
+
+
+
+\subsection{\-Member \-Data \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a0632e77e3715619f6d34ba9b0db4a5f5}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!files@{files}}
+\index{files@{files}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{files}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::files}}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a0632e77e3715619f6d34ba9b0db4a5f5}
+
+
+\-Definition at line 23 of file \-Merger.\-py.
+
+
+
+\-Referenced by set\-R\-N\-A().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_ae8f8e80b7aaa4023de24bdacb738b8c8}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!rep\-In@{rep\-In}}
+\index{rep\-In@{rep\-In}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{rep\-In}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::rep\-In}}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_ae8f8e80b7aaa4023de24bdacb738b8c8}
+
+
+\-Definition at line 23 of file \-Merger.\-py.
+
+
+
+\-Referenced by merge().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a9aa078b271a636dc346f019b2d0739fb}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!result\-\_\-data@{result\-\_\-data}}
+\index{result\-\_\-data@{result\-\_\-data}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{result\-\_\-data}]{\setlength{\rightskip}{0pt plus 5cm}tuple {\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::result\-\_\-data} = etree.\-Element(\char`\"{}result\char`\"{})\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a9aa078b271a636dc346f019b2d0739fb}
+
+
+\-Definition at line 16 of file \-Merger.\-py.
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a64c835ab8723a4fc6ad13b3628792eb2}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!softprevious@{softprevious}}
+\index{softprevious@{softprevious}!irna::iRNA_pred::Merger::Merger@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{softprevious}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::softprevious}}}
+\label{classirna_1_1iRNA__pred_1_1Merger_1_1Merger_a64c835ab8723a4fc6ad13b3628792eb2}
+
+
+\-Definition at line 23 of file \-Merger.\-py.
+
+
+
+\-Referenced by build\-Tree().
+
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/i\-R\-N\-A/irna/i\-R\-N\-A\-\_\-pred/\hyperlink{Merger_8py}{\-Merger.\-py}\end{DoxyCompactItemize}

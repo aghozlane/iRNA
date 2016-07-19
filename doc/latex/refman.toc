@@ -1,0 +1,1000 @@
+\contentsline {chapter}{\numberline {1}\discretionary {-}{}{}Namespace \discretionary {-}{}{}Index}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}\discretionary {-}{}{}Namespace \discretionary {-}{}{}List}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}\discretionary {-}{}{}Class \discretionary {-}{}{}Index}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}\discretionary {-}{}{}Class \discretionary {-}{}{}Hierarchy}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}\discretionary {-}{}{}Class \discretionary {-}{}{}Index}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}\discretionary {-}{}{}Class \discretionary {-}{}{}List}{5}{section.3.1}
+\contentsline {chapter}{\numberline {4}\discretionary {-}{}{}File \discretionary {-}{}{}Index}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}\discretionary {-}{}{}File \discretionary {-}{}{}List}{7}{section.4.1}
+\contentsline {chapter}{\numberline {5}\discretionary {-}{}{}Namespace \discretionary {-}{}{}Documentation}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}irna \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{9}{section.5.2}
+\contentsline {section}{\numberline {5.3}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{10}{section.5.3}
+\contentsline {section}{\numberline {5.4}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{10}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}\discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{10}{subsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.1.1}main}{10}{subsubsection.5.4.1.1}
+\contentsline {section}{\numberline {5.5}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Davidconfig \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{10}{section.5.5}
+\contentsline {section}{\numberline {5.6}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Edge \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{11}{section.5.6}
+\contentsline {section}{\numberline {5.7}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{11}{section.5.7}
+\contentsline {section}{\numberline {5.8}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Gene\discretionary {-}{}{}\_\discretionary {-}{}{}list \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{11}{section.5.8}
+\contentsline {section}{\numberline {5.9}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Graph \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{11}{section.5.9}
+\contentsline {section}{\numberline {5.10}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interact \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{11}{section.5.10}
+\contentsline {section}{\numberline {5.11}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Multilist \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{12}{section.5.11}
+\contentsline {section}{\numberline {5.12}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mycarn\discretionary {-}{}{}\_\discretionary {-}{}{}data \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{12}{section.5.12}
+\contentsline {section}{\numberline {5.13}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Name \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{12}{section.5.13}
+\contentsline {section}{\numberline {5.14}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Node \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{12}{section.5.14}
+\contentsline {section}{\numberline {5.15}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parser \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{12}{section.5.15}
+\contentsline {section}{\numberline {5.16}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{12}{section.5.16}
+\contentsline {section}{\numberline {5.17}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Similarity \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{13}{section.5.17}
+\contentsline {section}{\numberline {5.18}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{13}{section.5.18}
+\contentsline {section}{\numberline {5.19}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{13}{section.5.19}
+\contentsline {section}{\numberline {5.20}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Comparison \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{13}{section.5.20}
+\contentsline {section}{\numberline {5.21}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Fasta \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{13}{section.5.21}
+\contentsline {section}{\numberline {5.22}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{14}{section.5.22}
+\contentsline {section}{\numberline {5.23}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interaction \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{14}{section.5.23}
+\contentsline {section}{\numberline {5.24}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{14}{section.5.24}
+\contentsline {subsection}{\numberline {5.24.1}\discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{14}{subsection.5.24.1}
+\contentsline {subsubsection}{\numberline {5.24.1.1}main}{14}{subsubsection.5.24.1.1}
+\contentsline {subsubsection}{\numberline {5.24.1.2}save\discretionary {-}{}{}Data}{15}{subsubsection.5.24.1.2}
+\contentsline {subsubsection}{\numberline {5.24.1.3}\discretionary {-}{}{}Write\discretionary {-}{}{}All\discretionary {-}{}{}Exec\discretionary {-}{}{}Time}{15}{subsubsection.5.24.1.3}
+\contentsline {section}{\numberline {5.25}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Merger \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{15}{section.5.25}
+\contentsline {section}{\numberline {5.26}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mpi \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{15}{section.5.26}
+\contentsline {section}{\numberline {5.27}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parse \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{15}{section.5.27}
+\contentsline {section}{\numberline {5.28}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Ran\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{16}{section.5.28}
+\contentsline {subsection}{\numberline {5.28.1}\discretionary {-}{}{}Variable \discretionary {-}{}{}Documentation}{16}{subsection.5.28.1}
+\contentsline {subsubsection}{\numberline {5.28.1.1}generator}{16}{subsubsection.5.28.1.1}
+\contentsline {section}{\numberline {5.29}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{16}{section.5.29}
+\contentsline {section}{\numberline {5.30}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Stat \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{16}{section.5.30}
+\contentsline {section}{\numberline {5.31}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{16}{section.5.31}
+\contentsline {section}{\numberline {5.32}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{17}{section.5.32}
+\contentsline {section}{\numberline {5.33}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Genbank \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{17}{section.5.33}
+\contentsline {section}{\numberline {5.34}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{17}{section.5.34}
+\contentsline {subsection}{\numberline {5.34.1}\discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{17}{subsection.5.34.1}
+\contentsline {subsubsection}{\numberline {5.34.1.1}main}{17}{subsubsection.5.34.1.1}
+\contentsline {section}{\numberline {5.35}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sequences \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{17}{section.5.35}
+\contentsline {section}{\numberline {5.36}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{17}{section.5.36}
+\contentsline {section}{\numberline {5.37}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{18}{section.5.37}
+\contentsline {section}{\numberline {5.38}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Analysis \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{18}{section.5.38}
+\contentsline {section}{\numberline {5.39}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Communication \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{18}{section.5.39}
+\contentsline {section}{\numberline {5.40}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Computer \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{18}{section.5.40}
+\contentsline {section}{\numberline {5.41}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Draw\discretionary {-}{}{}\_\discretionary {-}{}{}data \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{19}{section.5.41}
+\contentsline {subsection}{\numberline {5.41.1}\discretionary {-}{}{}Variable \discretionary {-}{}{}Documentation}{19}{subsection.5.41.1}
+\contentsline {subsubsection}{\numberline {5.41.1.1}base}{19}{subsubsection.5.41.1.1}
+\contentsline {subsubsection}{\numberline {5.41.1.2}\discretionary {-}{}{}Cairo}{19}{subsubsection.5.41.1.2}
+\contentsline {subsubsection}{\numberline {5.41.1.3}graphics}{19}{subsubsection.5.41.1.3}
+\contentsline {subsubsection}{\numberline {5.41.1.4}grdevices}{19}{subsubsection.5.41.1.4}
+\contentsline {subsubsection}{\numberline {5.41.1.5}p\discretionary {-}{}{}R\discretionary {-}{}{}O\discretionary {-}{}{}C}{19}{subsubsection.5.41.1.5}
+\contentsline {subsubsection}{\numberline {5.41.1.6}stats}{19}{subsubsection.5.41.1.6}
+\contentsline {section}{\numberline {5.42}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Ecdf \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{20}{section.5.42}
+\contentsline {section}{\numberline {5.43}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Execute \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{20}{section.5.43}
+\contentsline {section}{\numberline {5.44}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Exp\discretionary {-}{}{}\_\discretionary {-}{}{}data \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{20}{section.5.44}
+\contentsline {section}{\numberline {5.45}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{20}{section.5.45}
+\contentsline {section}{\numberline {5.46}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interaction \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{20}{section.5.46}
+\contentsline {section}{\numberline {5.47}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{20}{section.5.47}
+\contentsline {subsection}{\numberline {5.47.1}\discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{21}{subsection.5.47.1}
+\contentsline {subsubsection}{\numberline {5.47.1.1}main}{21}{subsubsection.5.47.1.1}
+\contentsline {subsubsection}{\numberline {5.47.1.2}usage}{21}{subsubsection.5.47.1.2}
+\contentsline {section}{\numberline {5.48}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mpi \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{21}{section.5.48}
+\contentsline {section}{\numberline {5.49}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Norm\discretionary {-}{}{}Score \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{21}{section.5.49}
+\contentsline {section}{\numberline {5.50}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parser \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{22}{section.5.50}
+\contentsline {section}{\numberline {5.51}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Pickling \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{22}{section.5.51}
+\contentsline {section}{\numberline {5.52}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{22}{section.5.52}
+\contentsline {section}{\numberline {5.53}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value\discretionary {-}{}{}\_\discretionary {-}{}{}selection \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{22}{section.5.53}
+\contentsline {section}{\numberline {5.54}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Rand\discretionary {-}{}{}\_\discretionary {-}{}{}data \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{22}{section.5.54}
+\contentsline {section}{\numberline {5.55}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Regression \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{22}{section.5.55}
+\contentsline {section}{\numberline {5.56}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Soft \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{23}{section.5.56}
+\contentsline {section}{\numberline {5.57}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{23}{section.5.57}
+\contentsline {section}{\numberline {5.58}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Threshold \discretionary {-}{}{}Namespace \discretionary {-}{}{}Reference}{23}{section.5.58}
+\contentsline {chapter}{\numberline {6}\discretionary {-}{}{}Class \discretionary {-}{}{}Documentation}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Analysis\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Analysis \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{25}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{25}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{26}{subsection.6.1.2}
+\contentsline {subsubsection}{\numberline {6.1.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{26}{subsubsection.6.1.2.1}
+\contentsline {subsection}{\numberline {6.1.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{26}{subsection.6.1.3}
+\contentsline {subsubsection}{\numberline {6.1.3.1}commun\discretionary {-}{}{}\_\discretionary {-}{}{}values}{26}{subsubsection.6.1.3.1}
+\contentsline {subsubsection}{\numberline {6.1.3.2}get\discretionary {-}{}{}Range\discretionary {-}{}{}Posit}{26}{subsubsection.6.1.3.2}
+\contentsline {section}{\numberline {6.2}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Communication\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Communication \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{26}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{27}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{27}{subsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{27}{subsubsection.6.2.2.1}
+\contentsline {section}{\numberline {6.3}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Comparison\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Comparaison \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{27}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{28}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{28}{subsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6.3.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{28}{subsubsection.6.3.2.1}
+\contentsline {subsection}{\numberline {6.3.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{29}{subsection.6.3.3}
+\contentsline {subsubsection}{\numberline {6.3.3.1}create\discretionary {-}{}{}Couple}{29}{subsubsection.6.3.3.1}
+\contentsline {subsubsection}{\numberline {6.3.3.2}create\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Acofold\discretionary {-}{}{}Couple}{29}{subsubsection.6.3.3.2}
+\contentsline {subsubsection}{\numberline {6.3.3.3}get\discretionary {-}{}{}Command}{29}{subsubsection.6.3.3.3}
+\contentsline {subsubsection}{\numberline {6.3.3.4}get\discretionary {-}{}{}Comparison}{30}{subsubsection.6.3.3.4}
+\contentsline {subsubsection}{\numberline {6.3.3.5}get\discretionary {-}{}{}Couple}{30}{subsubsection.6.3.3.5}
+\contentsline {subsubsection}{\numberline {6.3.3.6}get\discretionary {-}{}{}Fasta\discretionary {-}{}{}Files}{31}{subsubsection.6.3.3.6}
+\contentsline {subsubsection}{\numberline {6.3.3.7}get\discretionary {-}{}{}Name}{31}{subsubsection.6.3.3.7}
+\contentsline {subsubsection}{\numberline {6.3.3.8}get\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Acofold\discretionary {-}{}{}Couple}{31}{subsubsection.6.3.3.8}
+\contentsline {subsubsection}{\numberline {6.3.3.9}get\discretionary {-}{}{}Unique}{32}{subsubsection.6.3.3.9}
+\contentsline {subsubsection}{\numberline {6.3.3.10}manage\discretionary {-}{}{}Couple}{32}{subsubsection.6.3.3.10}
+\contentsline {subsubsection}{\numberline {6.3.3.11}prepare\discretionary {-}{}{}Comparaison}{32}{subsubsection.6.3.3.11}
+\contentsline {subsubsection}{\numberline {6.3.3.12}run\discretionary {-}{}{}Command}{32}{subsubsection.6.3.3.12}
+\contentsline {subsubsection}{\numberline {6.3.3.13}run\discretionary {-}{}{}Comparison}{33}{subsubsection.6.3.3.13}
+\contentsline {subsection}{\numberline {6.3.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{33}{subsection.6.3.4}
+\contentsline {subsubsection}{\numberline {6.3.4.1}comp\discretionary {-}{}{}\_\discretionary {-}{}{}list}{33}{subsubsection.6.3.4.1}
+\contentsline {subsubsection}{\numberline {6.3.4.2}mf\discretionary {-}{}{}\_\discretionary {-}{}{}m\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{33}{subsubsection.6.3.4.2}
+\contentsline {subsubsection}{\numberline {6.3.4.3}m\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}out}{33}{subsubsection.6.3.4.3}
+\contentsline {subsubsection}{\numberline {6.3.4.4}soft\discretionary {-}{}{}\_\discretionary {-}{}{}path}{33}{subsubsection.6.3.4.4}
+\contentsline {subsubsection}{\numberline {6.3.4.5}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}out}{34}{subsubsection.6.3.4.5}
+\contentsline {section}{\numberline {6.4}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Computer\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Computer \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{34}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{34}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{35}{subsection.6.4.2}
+\contentsline {subsubsection}{\numberline {6.4.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{35}{subsubsection.6.4.2.1}
+\contentsline {subsection}{\numberline {6.4.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{35}{subsection.6.4.3}
+\contentsline {subsubsection}{\numberline {6.4.3.1}classtype}{35}{subsubsection.6.4.3.1}
+\contentsline {subsubsection}{\numberline {6.4.3.2}cumneg}{35}{subsubsection.6.4.3.2}
+\contentsline {subsubsection}{\numberline {6.4.3.3}curve\discretionary {-}{}{}\_\discretionary {-}{}{}param}{35}{subsubsection.6.4.3.3}
+\contentsline {subsubsection}{\numberline {6.4.3.4}interact}{35}{subsubsection.6.4.3.4}
+\contentsline {subsubsection}{\numberline {6.4.3.5}interactions}{36}{subsubsection.6.4.3.5}
+\contentsline {subsubsection}{\numberline {6.4.3.6}name}{36}{subsubsection.6.4.3.6}
+\contentsline {subsubsection}{\numberline {6.4.3.7}nbinteract}{36}{subsubsection.6.4.3.7}
+\contentsline {subsubsection}{\numberline {6.4.3.8}norm\discretionary {-}{}{}\_\discretionary {-}{}{}score}{36}{subsubsection.6.4.3.8}
+\contentsline {subsubsection}{\numberline {6.4.3.9}numsoft}{36}{subsubsection.6.4.3.9}
+\contentsline {subsubsection}{\numberline {6.4.3.10}pos}{36}{subsubsection.6.4.3.10}
+\contentsline {subsubsection}{\numberline {6.4.3.11}ppv}{36}{subsubsection.6.4.3.11}
+\contentsline {subsubsection}{\numberline {6.4.3.12}p\discretionary {-}{}{}Value}{37}{subsubsection.6.4.3.12}
+\contentsline {subsubsection}{\numberline {6.4.3.13}p\discretionary {-}{}{}Value\discretionary {-}{}{}\_\discretionary {-}{}{}type}{37}{subsubsection.6.4.3.13}
+\contentsline {subsubsection}{\numberline {6.4.3.14}score\discretionary {-}{}{}\_\discretionary {-}{}{}type}{37}{subsubsection.6.4.3.14}
+\contentsline {subsubsection}{\numberline {6.4.3.15}select}{37}{subsubsection.6.4.3.15}
+\contentsline {subsubsection}{\numberline {6.4.3.16}sensitivity}{37}{subsubsection.6.4.3.16}
+\contentsline {subsubsection}{\numberline {6.4.3.17}softid}{37}{subsubsection.6.4.3.17}
+\contentsline {subsubsection}{\numberline {6.4.3.18}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aid\discretionary {-}{}{}\_\discretionary {-}{}{}tab}{37}{subsubsection.6.4.3.18}
+\contentsline {subsubsection}{\numberline {6.4.3.19}type\discretionary {-}{}{}\_\discretionary {-}{}{}sol}{37}{subsubsection.6.4.3.19}
+\contentsline {subsubsection}{\numberline {6.4.3.20}unique\discretionary {-}{}{}\_\discretionary {-}{}{}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aidinint}{38}{subsubsection.6.4.3.20}
+\contentsline {section}{\numberline {6.5}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{38}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{39}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{39}{subsection.6.5.2}
+\contentsline {subsubsection}{\numberline {6.5.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{39}{subsubsection.6.5.2.1}
+\contentsline {subsection}{\numberline {6.5.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{39}{subsection.6.5.3}
+\contentsline {subsubsection}{\numberline {6.5.3.1}analysis}{39}{subsubsection.6.5.3.1}
+\contentsline {subsubsection}{\numberline {6.5.3.2}david\discretionary {-}{}{}Connection}{40}{subsubsection.6.5.3.2}
+\contentsline {subsubsection}{\numberline {6.5.3.3}parse\discretionary {-}{}{}Chart}{40}{subsubsection.6.5.3.3}
+\contentsline {subsubsection}{\numberline {6.5.3.4}setdata}{40}{subsubsection.6.5.3.4}
+\contentsline {subsubsection}{\numberline {6.5.3.5}writefile}{41}{subsubsection.6.5.3.5}
+\contentsline {subsection}{\numberline {6.5.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{41}{subsection.6.5.4}
+\contentsline {subsubsection}{\numberline {6.5.4.1}david\discretionary {-}{}{}\_\discretionary {-}{}{}chart}{41}{subsubsection.6.5.4.1}
+\contentsline {subsubsection}{\numberline {6.5.4.2}list\discretionary {-}{}{}Type}{41}{subsubsection.6.5.4.2}
+\contentsline {section}{\numberline {6.6}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Davidconfig\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Davidconfig \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{41}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{42}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{42}{subsection.6.6.2}
+\contentsline {subsubsection}{\numberline {6.6.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{42}{subsubsection.6.6.2.1}
+\contentsline {subsection}{\numberline {6.6.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{42}{subsection.6.6.3}
+\contentsline {subsubsection}{\numberline {6.6.3.1}readconfig}{42}{subsubsection.6.6.3.1}
+\contentsline {subsubsection}{\numberline {6.6.3.2}writeconfig}{42}{subsubsection.6.6.3.2}
+\contentsline {subsection}{\numberline {6.6.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{43}{subsection.6.6.4}
+\contentsline {subsubsection}{\numberline {6.6.4.1}config}{43}{subsubsection.6.6.4.1}
+\contentsline {subsubsection}{\numberline {6.6.4.2}davidconfig\discretionary {-}{}{}\_\discretionary {-}{}{}file}{43}{subsubsection.6.6.4.2}
+\contentsline {section}{\numberline {6.7}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Draw\discretionary {-}{}{}\_\discretionary {-}{}{}data\discretionary {-}{}{}:\discretionary {-}{}{}:draw\discretionary {-}{}{}\_\discretionary {-}{}{}data \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{43}{section.6.7}
+\contentsline {subsection}{\numberline {6.7.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{45}{subsection.6.7.1}
+\contentsline {subsection}{\numberline {6.7.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{45}{subsection.6.7.2}
+\contentsline {subsubsection}{\numberline {6.7.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{45}{subsubsection.6.7.2.1}
+\contentsline {subsection}{\numberline {6.7.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{45}{subsection.6.7.3}
+\contentsline {subsubsection}{\numberline {6.7.3.1}exec\discretionary {-}{}{}\_\discretionary {-}{}{}plot}{45}{subsubsection.6.7.3.1}
+\contentsline {subsubsection}{\numberline {6.7.3.2}frequency\discretionary {-}{}{}\_\discretionary {-}{}{}plot}{46}{subsubsection.6.7.3.2}
+\contentsline {subsubsection}{\numberline {6.7.3.3}get\discretionary {-}{}{}Boolselect}{46}{subsubsection.6.7.3.3}
+\contentsline {subsubsection}{\numberline {6.7.3.4}getnames}{46}{subsubsection.6.7.3.4}
+\contentsline {subsubsection}{\numberline {6.7.3.5}get\discretionary {-}{}{}Predplotvect}{46}{subsubsection.6.7.3.5}
+\contentsline {subsubsection}{\numberline {6.7.3.6}mean\discretionary {-}{}{}Array}{46}{subsubsection.6.7.3.6}
+\contentsline {subsubsection}{\numberline {6.7.3.7}plot}{47}{subsubsection.6.7.3.7}
+\contentsline {subsubsection}{\numberline {6.7.3.8}plot\discretionary {-}{}{}\_\discretionary {-}{}{}linear\discretionary {-}{}{}\_\discretionary {-}{}{}regression}{47}{subsubsection.6.7.3.8}
+\contentsline {subsubsection}{\numberline {6.7.3.9}plot\discretionary {-}{}{}\_\discretionary {-}{}{}roc\discretionary {-}{}{}\_\discretionary {-}{}{}curves}{47}{subsubsection.6.7.3.9}
+\contentsline {subsubsection}{\numberline {6.7.3.10}plot\discretionary {-}{}{}\_\discretionary {-}{}{}roc\discretionary {-}{}{}\_\discretionary {-}{}{}curves\discretionary {-}{}{}\_\discretionary {-}{}{}statistics}{48}{subsubsection.6.7.3.10}
+\contentsline {subsubsection}{\numberline {6.7.3.11}pred\discretionary {-}{}{}\_\discretionary {-}{}{}plot}{48}{subsubsection.6.7.3.11}
+\contentsline {subsubsection}{\numberline {6.7.3.12}similarity\discretionary {-}{}{}\_\discretionary {-}{}{}plot}{48}{subsubsection.6.7.3.12}
+\contentsline {subsubsection}{\numberline {6.7.3.13}write\discretionary {-}{}{}\_\discretionary {-}{}{}curve\discretionary {-}{}{}\_\discretionary {-}{}{}param\discretionary {-}{}{}\_\discretionary {-}{}{}data}{48}{subsubsection.6.7.3.13}
+\contentsline {subsubsection}{\numberline {6.7.3.14}write\discretionary {-}{}{}\_\discretionary {-}{}{}frequency}{49}{subsubsection.6.7.3.14}
+\contentsline {subsubsection}{\numberline {6.7.3.15}write\discretionary {-}{}{}\_\discretionary {-}{}{}general\discretionary {-}{}{}\_\discretionary {-}{}{}data}{49}{subsubsection.6.7.3.15}
+\contentsline {subsubsection}{\numberline {6.7.3.16}write\discretionary {-}{}{}\_\discretionary {-}{}{}interaction}{49}{subsubsection.6.7.3.16}
+\contentsline {subsubsection}{\numberline {6.7.3.17}write\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}\_\discretionary {-}{}{}plot}{49}{subsubsection.6.7.3.17}
+\contentsline {subsubsection}{\numberline {6.7.3.18}write\discretionary {-}{}{}\_\discretionary {-}{}{}p\discretionary {-}{}{}Value}{50}{subsubsection.6.7.3.18}
+\contentsline {subsubsection}{\numberline {6.7.3.19}write\discretionary {-}{}{}\_\discretionary {-}{}{}p\discretionary {-}{}{}Value\discretionary {-}{}{}Interact}{50}{subsubsection.6.7.3.19}
+\contentsline {subsubsection}{\numberline {6.7.3.20}write\discretionary {-}{}{}\_\discretionary {-}{}{}p\discretionary {-}{}{}Value\discretionary {-}{}{}Select}{50}{subsubsection.6.7.3.20}
+\contentsline {subsubsection}{\numberline {6.7.3.21}write\discretionary {-}{}{}\_\discretionary {-}{}{}roc\discretionary {-}{}{}Auc}{50}{subsubsection.6.7.3.21}
+\contentsline {subsubsection}{\numberline {6.7.3.22}write\discretionary {-}{}{}\_\discretionary {-}{}{}rocthres\discretionary {-}{}{}Value}{51}{subsubsection.6.7.3.22}
+\contentsline {subsubsection}{\numberline {6.7.3.23}write\discretionary {-}{}{}\_\discretionary {-}{}{}sens\discretionary {-}{}{}\_\discretionary {-}{}{}ppv}{51}{subsubsection.6.7.3.23}
+\contentsline {subsubsection}{\numberline {6.7.3.24}write\discretionary {-}{}{}\_\discretionary {-}{}{}similarity}{51}{subsubsection.6.7.3.24}
+\contentsline {subsection}{\numberline {6.7.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{52}{subsection.6.7.4}
+\contentsline {subsubsection}{\numberline {6.7.4.1}result}{52}{subsubsection.6.7.4.1}
+\contentsline {section}{\numberline {6.8}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Ecdf\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Ecdf \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{52}{section.6.8}
+\contentsline {subsection}{\numberline {6.8.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{52}{subsection.6.8.1}
+\contentsline {subsection}{\numberline {6.8.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{52}{subsection.6.8.2}
+\contentsline {subsubsection}{\numberline {6.8.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{52}{subsubsection.6.8.2.1}
+\contentsline {subsection}{\numberline {6.8.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{52}{subsection.6.8.3}
+\contentsline {subsubsection}{\numberline {6.8.3.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}call\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{52}{subsubsection.6.8.3.1}
+\contentsline {subsection}{\numberline {6.8.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{53}{subsection.6.8.4}
+\contentsline {subsubsection}{\numberline {6.8.4.1}observations}{53}{subsubsection.6.8.4.1}
+\contentsline {section}{\numberline {6.9}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Edge\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Edge \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{53}{section.6.9}
+\contentsline {subsection}{\numberline {6.9.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{53}{subsection.6.9.1}
+\contentsline {subsection}{\numberline {6.9.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{54}{subsection.6.9.2}
+\contentsline {subsubsection}{\numberline {6.9.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{54}{subsubsection.6.9.2.1}
+\contentsline {subsection}{\numberline {6.9.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{54}{subsection.6.9.3}
+\contentsline {subsubsection}{\numberline {6.9.3.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}cmp\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{54}{subsubsection.6.9.3.1}
+\contentsline {subsubsection}{\numberline {6.9.3.2}println}{54}{subsubsection.6.9.3.2}
+\contentsline {subsection}{\numberline {6.9.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{55}{subsection.6.9.4}
+\contentsline {subsubsection}{\numberline {6.9.4.1}category}{55}{subsubsection.6.9.4.1}
+\contentsline {subsubsection}{\numberline {6.9.4.2}category\discretionary {-}{}{}Name}{55}{subsubsection.6.9.4.2}
+\contentsline {subsubsection}{\numberline {6.9.4.3}dbrec}{55}{subsubsection.6.9.4.3}
+\contentsline {subsubsection}{\numberline {6.9.4.4}m\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}deb}{55}{subsubsection.6.9.4.4}
+\contentsline {subsubsection}{\numberline {6.9.4.5}m\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}end}{55}{subsubsection.6.9.4.5}
+\contentsline {subsubsection}{\numberline {6.9.4.6}node1}{55}{subsubsection.6.9.4.6}
+\contentsline {subsubsection}{\numberline {6.9.4.7}node2}{55}{subsubsection.6.9.4.7}
+\contentsline {subsubsection}{\numberline {6.9.4.8}p\discretionary {-}{}{}Value}{55}{subsubsection.6.9.4.8}
+\contentsline {subsubsection}{\numberline {6.9.4.9}similarity}{56}{subsubsection.6.9.4.9}
+\contentsline {subsubsection}{\numberline {6.9.4.10}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}deb}{56}{subsubsection.6.9.4.10}
+\contentsline {subsubsection}{\numberline {6.9.4.11}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}end}{56}{subsubsection.6.9.4.11}
+\contentsline {subsubsection}{\numberline {6.9.4.12}term\discretionary {-}{}{}Name}{56}{subsubsection.6.9.4.12}
+\contentsline {section}{\numberline {6.10}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Execute\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Execute \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{56}{section.6.10}
+\contentsline {subsection}{\numberline {6.10.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{57}{subsection.6.10.1}
+\contentsline {subsection}{\numberline {6.10.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{57}{subsection.6.10.2}
+\contentsline {subsubsection}{\numberline {6.10.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{57}{subsubsection.6.10.2.1}
+\contentsline {subsection}{\numberline {6.10.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{58}{subsection.6.10.3}
+\contentsline {subsubsection}{\numberline {6.10.3.1}get\discretionary {-}{}{}Execinf}{58}{subsubsection.6.10.3.1}
+\contentsline {subsection}{\numberline {6.10.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{58}{subsection.6.10.4}
+\contentsline {subsubsection}{\numberline {6.10.4.1}duration}{58}{subsubsection.6.10.4.1}
+\contentsline {subsubsection}{\numberline {6.10.4.2}soft}{58}{subsubsection.6.10.4.2}
+\contentsline {section}{\numberline {6.11}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Exp\discretionary {-}{}{}\_\discretionary {-}{}{}data\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Exp\discretionary {-}{}{}\_\discretionary {-}{}{}data \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{58}{section.6.11}
+\contentsline {subsection}{\numberline {6.11.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{59}{subsection.6.11.1}
+\contentsline {subsection}{\numberline {6.11.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{60}{subsection.6.11.2}
+\contentsline {subsubsection}{\numberline {6.11.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{60}{subsubsection.6.11.2.1}
+\contentsline {subsection}{\numberline {6.11.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{60}{subsection.6.11.3}
+\contentsline {subsubsection}{\numberline {6.11.3.1}get\discretionary {-}{}{}Expinf}{60}{subsubsection.6.11.3.1}
+\contentsline {subsubsection}{\numberline {6.11.3.2}get\discretionary {-}{}{}Exp\discretionary {-}{}{}Pair}{60}{subsubsection.6.11.3.2}
+\contentsline {subsection}{\numberline {6.11.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{60}{subsection.6.11.4}
+\contentsline {subsubsection}{\numberline {6.11.4.1}combined}{60}{subsubsection.6.11.4.1}
+\contentsline {subsubsection}{\numberline {6.11.4.2}lenexp\discretionary {-}{}{}\_\discretionary {-}{}{}data}{60}{subsubsection.6.11.4.2}
+\contentsline {subsubsection}{\numberline {6.11.4.3}m\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{61}{subsubsection.6.11.4.3}
+\contentsline {subsubsection}{\numberline {6.11.4.4}m\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}deb}{61}{subsubsection.6.11.4.4}
+\contentsline {subsubsection}{\numberline {6.11.4.5}m\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}fin}{61}{subsubsection.6.11.4.5}
+\contentsline {subsubsection}{\numberline {6.11.4.6}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{61}{subsubsection.6.11.4.6}
+\contentsline {subsubsection}{\numberline {6.11.4.7}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}deb}{61}{subsubsection.6.11.4.7}
+\contentsline {subsubsection}{\numberline {6.11.4.8}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}fin}{61}{subsubsection.6.11.4.8}
+\contentsline {section}{\numberline {6.12}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Fasta\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Fasta \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{61}{section.6.12}
+\contentsline {subsection}{\numberline {6.12.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{63}{subsection.6.12.1}
+\contentsline {subsection}{\numberline {6.12.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{63}{subsection.6.12.2}
+\contentsline {subsubsection}{\numberline {6.12.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{63}{subsubsection.6.12.2.1}
+\contentsline {subsection}{\numberline {6.12.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{63}{subsection.6.12.3}
+\contentsline {subsubsection}{\numberline {6.12.3.1}\discretionary {-}{}{}Empty\discretionary {-}{}{}Rep}{63}{subsubsection.6.12.3.1}
+\contentsline {subsubsection}{\numberline {6.12.3.2}\discretionary {-}{}{}Extract\discretionary {-}{}{}Fasta}{63}{subsubsection.6.12.3.2}
+\contentsline {subsubsection}{\numberline {6.12.3.3}\discretionary {-}{}{}Write\discretionary {-}{}{}Fasta}{64}{subsubsection.6.12.3.3}
+\contentsline {subsection}{\numberline {6.12.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{64}{subsection.6.12.4}
+\contentsline {subsubsection}{\numberline {6.12.4.1}a}{64}{subsubsection.6.12.4.1}
+\contentsline {subsubsection}{\numberline {6.12.4.2}cache\discretionary {-}{}{}Data}{64}{subsubsection.6.12.4.2}
+\contentsline {subsubsection}{\numberline {6.12.4.3}cache\discretionary {-}{}{}Fasta}{64}{subsubsection.6.12.4.3}
+\contentsline {subsubsection}{\numberline {6.12.4.4}fastafile}{64}{subsubsection.6.12.4.4}
+\contentsline {subsubsection}{\numberline {6.12.4.5}multifasta}{64}{subsubsection.6.12.4.5}
+\contentsline {subsubsection}{\numberline {6.12.4.6}regex}{64}{subsubsection.6.12.4.6}
+\contentsline {subsubsection}{\numberline {6.12.4.7}regex\discretionary {-}{}{}\_\discretionary {-}{}{}seq}{65}{subsubsection.6.12.4.7}
+\contentsline {subsubsection}{\numberline {6.12.4.8}seqname}{65}{subsubsection.6.12.4.8}
+\contentsline {section}{\numberline {6.13}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{65}{section.6.13}
+\contentsline {subsection}{\numberline {6.13.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{66}{subsection.6.13.1}
+\contentsline {subsection}{\numberline {6.13.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{66}{subsection.6.13.2}
+\contentsline {subsubsection}{\numberline {6.13.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{66}{subsubsection.6.13.2.1}
+\contentsline {subsection}{\numberline {6.13.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{66}{subsection.6.13.3}
+\contentsline {subsubsection}{\numberline {6.13.3.1}case}{66}{subsubsection.6.13.3.1}
+\contentsline {subsubsection}{\numberline {6.13.3.2}data\discretionary {-}{}{}\_\discretionary {-}{}{}format}{66}{subsubsection.6.13.3.2}
+\contentsline {subsubsection}{\numberline {6.13.3.3}getfiles}{66}{subsubsection.6.13.3.3}
+\contentsline {subsubsection}{\numberline {6.13.3.4}usage}{67}{subsubsection.6.13.3.4}
+\contentsline {subsection}{\numberline {6.13.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{67}{subsection.6.13.4}
+\contentsline {subsubsection}{\numberline {6.13.4.1}config}{67}{subsubsection.6.13.4.1}
+\contentsline {subsubsection}{\numberline {6.13.4.2}david}{67}{subsubsection.6.13.4.2}
+\contentsline {subsubsection}{\numberline {6.13.4.3}enrichment}{68}{subsubsection.6.13.4.3}
+\contentsline {subsubsection}{\numberline {6.13.4.4}fastmode}{68}{subsubsection.6.13.4.4}
+\contentsline {subsubsection}{\numberline {6.13.4.5}filter}{68}{subsubsection.6.13.4.5}
+\contentsline {subsubsection}{\numberline {6.13.4.6}interact}{68}{subsubsection.6.13.4.6}
+\contentsline {subsubsection}{\numberline {6.13.4.7}i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}db}{68}{subsubsection.6.13.4.7}
+\contentsline {subsubsection}{\numberline {6.13.4.8}multilist}{68}{subsubsection.6.13.4.8}
+\contentsline {subsubsection}{\numberline {6.13.4.9}name}{68}{subsubsection.6.13.4.9}
+\contentsline {subsubsection}{\numberline {6.13.4.10}p\discretionary {-}{}{}Value}{69}{subsubsection.6.13.4.10}
+\contentsline {subsubsection}{\numberline {6.13.4.11}results}{69}{subsubsection.6.13.4.11}
+\contentsline {subsubsection}{\numberline {6.13.4.12}similarity}{69}{subsubsection.6.13.4.12}
+\contentsline {section}{\numberline {6.14}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{69}{section.6.14}
+\contentsline {subsection}{\numberline {6.14.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{70}{subsection.6.14.1}
+\contentsline {subsection}{\numberline {6.14.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{70}{subsection.6.14.2}
+\contentsline {subsubsection}{\numberline {6.14.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{70}{subsubsection.6.14.2.1}
+\contentsline {subsection}{\numberline {6.14.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{70}{subsection.6.14.3}
+\contentsline {subsubsection}{\numberline {6.14.3.1}case}{70}{subsubsection.6.14.3.1}
+\contentsline {subsubsection}{\numberline {6.14.3.2}data\discretionary {-}{}{}\_\discretionary {-}{}{}format}{70}{subsubsection.6.14.3.2}
+\contentsline {subsubsection}{\numberline {6.14.3.3}getfiles}{71}{subsubsection.6.14.3.3}
+\contentsline {subsubsection}{\numberline {6.14.3.4}usage}{71}{subsubsection.6.14.3.4}
+\contentsline {subsection}{\numberline {6.14.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{71}{subsection.6.14.4}
+\contentsline {subsubsection}{\numberline {6.14.4.1}fasta}{71}{subsubsection.6.14.4.1}
+\contentsline {subsubsection}{\numberline {6.14.4.2}fastmode}{72}{subsubsection.6.14.4.2}
+\contentsline {subsubsection}{\numberline {6.14.4.3}myrank}{72}{subsubsection.6.14.4.3}
+\contentsline {subsubsection}{\numberline {6.14.4.4}operation}{72}{subsubsection.6.14.4.4}
+\contentsline {subsubsection}{\numberline {6.14.4.5}predict}{72}{subsubsection.6.14.4.5}
+\contentsline {subsubsection}{\numberline {6.14.4.6}random}{72}{subsubsection.6.14.4.6}
+\contentsline {section}{\numberline {6.15}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{72}{section.6.15}
+\contentsline {subsection}{\numberline {6.15.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{73}{subsection.6.15.1}
+\contentsline {subsection}{\numberline {6.15.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{73}{subsection.6.15.2}
+\contentsline {subsubsection}{\numberline {6.15.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{73}{subsubsection.6.15.2.1}
+\contentsline {subsection}{\numberline {6.15.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{73}{subsection.6.15.3}
+\contentsline {subsubsection}{\numberline {6.15.3.1}case}{73}{subsubsection.6.15.3.1}
+\contentsline {subsubsection}{\numberline {6.15.3.2}data\discretionary {-}{}{}\_\discretionary {-}{}{}format}{74}{subsubsection.6.15.3.2}
+\contentsline {subsubsection}{\numberline {6.15.3.3}getfiles}{74}{subsubsection.6.15.3.3}
+\contentsline {subsubsection}{\numberline {6.15.3.4}usage}{75}{subsubsection.6.15.3.4}
+\contentsline {subsection}{\numberline {6.15.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{75}{subsection.6.15.4}
+\contentsline {subsubsection}{\numberline {6.15.4.1}exec\discretionary {-}{}{}\_\discretionary {-}{}{}inf}{75}{subsubsection.6.15.4.1}
+\contentsline {subsubsection}{\numberline {6.15.4.2}exp\discretionary {-}{}{}\_\discretionary {-}{}{}inf}{75}{subsubsection.6.15.4.2}
+\contentsline {subsubsection}{\numberline {6.15.4.3}fastmode}{75}{subsubsection.6.15.4.3}
+\contentsline {subsubsection}{\numberline {6.15.4.4}i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}db}{75}{subsubsection.6.15.4.4}
+\contentsline {subsubsection}{\numberline {6.15.4.5}myrank}{76}{subsubsection.6.15.4.5}
+\contentsline {subsubsection}{\numberline {6.15.4.6}overwrite}{76}{subsubsection.6.15.4.6}
+\contentsline {subsubsection}{\numberline {6.15.4.7}p\discretionary {-}{}{}Value}{76}{subsubsection.6.15.4.7}
+\contentsline {subsubsection}{\numberline {6.15.4.8}rand\discretionary {-}{}{}\_\discretionary {-}{}{}inf}{76}{subsubsection.6.15.4.8}
+\contentsline {subsubsection}{\numberline {6.15.4.9}random}{76}{subsubsection.6.15.4.9}
+\contentsline {subsubsection}{\numberline {6.15.4.10}results}{76}{subsubsection.6.15.4.10}
+\contentsline {subsubsection}{\numberline {6.15.4.11}save}{76}{subsubsection.6.15.4.11}
+\contentsline {subsubsection}{\numberline {6.15.4.12}soft\discretionary {-}{}{}\_\discretionary {-}{}{}inf}{76}{subsubsection.6.15.4.12}
+\contentsline {subsubsection}{\numberline {6.15.4.13}thres\discretionary {-}{}{}\_\discretionary {-}{}{}inf}{77}{subsubsection.6.15.4.13}
+\contentsline {section}{\numberline {6.16}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Files \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{77}{section.6.16}
+\contentsline {subsection}{\numberline {6.16.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{77}{subsection.6.16.1}
+\contentsline {subsection}{\numberline {6.16.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{77}{subsection.6.16.2}
+\contentsline {subsubsection}{\numberline {6.16.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{77}{subsubsection.6.16.2.1}
+\contentsline {subsection}{\numberline {6.16.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{78}{subsection.6.16.3}
+\contentsline {subsubsection}{\numberline {6.16.3.1}case}{78}{subsubsection.6.16.3.1}
+\contentsline {subsubsection}{\numberline {6.16.3.2}data\discretionary {-}{}{}\_\discretionary {-}{}{}format}{78}{subsubsection.6.16.3.2}
+\contentsline {subsubsection}{\numberline {6.16.3.3}getfiles}{78}{subsubsection.6.16.3.3}
+\contentsline {subsubsection}{\numberline {6.16.3.4}usage}{79}{subsubsection.6.16.3.4}
+\contentsline {subsection}{\numberline {6.16.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{79}{subsection.6.16.4}
+\contentsline {subsubsection}{\numberline {6.16.4.1}begin}{79}{subsubsection.6.16.4.1}
+\contentsline {subsubsection}{\numberline {6.16.4.2}complete}{79}{subsubsection.6.16.4.2}
+\contentsline {subsubsection}{\numberline {6.16.4.3}end}{79}{subsubsection.6.16.4.3}
+\contentsline {subsubsection}{\numberline {6.16.4.4}genbank}{79}{subsubsection.6.16.4.4}
+\contentsline {subsubsection}{\numberline {6.16.4.5}nucleo}{79}{subsubsection.6.16.4.5}
+\contentsline {subsubsection}{\numberline {6.16.4.6}results}{80}{subsubsection.6.16.4.6}
+\contentsline {subsubsection}{\numberline {6.16.4.7}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}file}{80}{subsubsection.6.16.4.7}
+\contentsline {section}{\numberline {6.17}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Genbank\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Genbank \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{80}{section.6.17}
+\contentsline {subsection}{\numberline {6.17.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{80}{subsection.6.17.1}
+\contentsline {subsection}{\numberline {6.17.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{81}{subsection.6.17.2}
+\contentsline {subsubsection}{\numberline {6.17.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{81}{subsubsection.6.17.2.1}
+\contentsline {subsection}{\numberline {6.17.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{81}{subsection.6.17.3}
+\contentsline {subsubsection}{\numberline {6.17.3.1}get\discretionary {-}{}{}D\discretionary {-}{}{}N\discretionary {-}{}{}A}{81}{subsubsection.6.17.3.1}
+\contentsline {subsubsection}{\numberline {6.17.3.2}get\discretionary {-}{}{}Genes}{81}{subsubsection.6.17.3.2}
+\contentsline {subsubsection}{\numberline {6.17.3.3}get\discretionary {-}{}{}Organism}{81}{subsubsection.6.17.3.3}
+\contentsline {subsubsection}{\numberline {6.17.3.4}read\discretionary {-}{}{}Genbank}{81}{subsubsection.6.17.3.4}
+\contentsline {subsubsection}{\numberline {6.17.3.5}setdata}{82}{subsubsection.6.17.3.5}
+\contentsline {subsection}{\numberline {6.17.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{82}{subsection.6.17.4}
+\contentsline {subsubsection}{\numberline {6.17.4.1}genbank\discretionary {-}{}{}String}{82}{subsubsection.6.17.4.1}
+\contentsline {section}{\numberline {6.18}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Gene\discretionary {-}{}{}\_\discretionary {-}{}{}list\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Gene\discretionary {-}{}{}\_\discretionary {-}{}{}list \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{82}{section.6.18}
+\contentsline {subsection}{\numberline {6.18.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{83}{subsection.6.18.1}
+\contentsline {subsection}{\numberline {6.18.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{83}{subsection.6.18.2}
+\contentsline {subsubsection}{\numberline {6.18.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{83}{subsubsection.6.18.2.1}
+\contentsline {subsection}{\numberline {6.18.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{83}{subsection.6.18.3}
+\contentsline {subsubsection}{\numberline {6.18.3.1}category\discretionary {-}{}{}Name}{83}{subsubsection.6.18.3.1}
+\contentsline {subsubsection}{\numberline {6.18.3.2}gene\discretionary {-}{}{}Ids}{84}{subsubsection.6.18.3.2}
+\contentsline {subsubsection}{\numberline {6.18.3.3}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{84}{subsubsection.6.18.3.3}
+\contentsline {subsubsection}{\numberline {6.18.3.4}term\discretionary {-}{}{}Name}{84}{subsubsection.6.18.3.4}
+\contentsline {section}{\numberline {6.19}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Graph\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Graph \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{84}{section.6.19}
+\contentsline {subsection}{\numberline {6.19.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{85}{subsection.6.19.1}
+\contentsline {subsection}{\numberline {6.19.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{85}{subsection.6.19.2}
+\contentsline {subsubsection}{\numberline {6.19.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{85}{subsubsection.6.19.2.1}
+\contentsline {subsection}{\numberline {6.19.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{85}{subsection.6.19.3}
+\contentsline {subsubsection}{\numberline {6.19.3.1}filter\discretionary {-}{}{}Term\discretionary {-}{}{}Name}{85}{subsubsection.6.19.3.1}
+\contentsline {subsubsection}{\numberline {6.19.3.2}get\discretionary {-}{}{}Categories}{85}{subsubsection.6.19.3.2}
+\contentsline {subsubsection}{\numberline {6.19.3.3}get\discretionary {-}{}{}Num\discretionary {-}{}{}Category}{86}{subsubsection.6.19.3.3}
+\contentsline {subsubsection}{\numberline {6.19.3.4}parse}{86}{subsubsection.6.19.3.4}
+\contentsline {subsubsection}{\numberline {6.19.3.5}printedges}{86}{subsubsection.6.19.3.5}
+\contentsline {subsubsection}{\numberline {6.19.3.6}printnodes}{86}{subsubsection.6.19.3.6}
+\contentsline {subsubsection}{\numberline {6.19.3.7}verif}{87}{subsubsection.6.19.3.7}
+\contentsline {subsubsection}{\numberline {6.19.3.8}writefile}{87}{subsubsection.6.19.3.8}
+\contentsline {subsection}{\numberline {6.19.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{87}{subsection.6.19.4}
+\contentsline {subsubsection}{\numberline {6.19.4.1}edge\discretionary {-}{}{}\_\discretionary {-}{}{}objects}{87}{subsubsection.6.19.4.1}
+\contentsline {subsubsection}{\numberline {6.19.4.2}fcategoryid}{87}{subsubsection.6.19.4.2}
+\contentsline {subsubsection}{\numberline {6.19.4.3}fregex}{87}{subsubsection.6.19.4.3}
+\contentsline {subsubsection}{\numberline {6.19.4.4}gocategoryid}{87}{subsubsection.6.19.4.4}
+\contentsline {subsubsection}{\numberline {6.19.4.5}goregex}{88}{subsubsection.6.19.4.5}
+\contentsline {subsubsection}{\numberline {6.19.4.6}node\discretionary {-}{}{}\_\discretionary {-}{}{}objects}{88}{subsubsection.6.19.4.6}
+\contentsline {section}{\numberline {6.20}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interact\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interact \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{88}{section.6.20}
+\contentsline {subsection}{\numberline {6.20.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{89}{subsection.6.20.1}
+\contentsline {subsection}{\numberline {6.20.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{89}{subsection.6.20.2}
+\contentsline {subsubsection}{\numberline {6.20.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{89}{subsubsection.6.20.2.1}
+\contentsline {subsection}{\numberline {6.20.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{90}{subsection.6.20.3}
+\contentsline {subsubsection}{\numberline {6.20.3.1}setdata}{90}{subsubsection.6.20.3.1}
+\contentsline {subsection}{\numberline {6.20.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{90}{subsection.6.20.4}
+\contentsline {subsubsection}{\numberline {6.20.4.1}interact\discretionary {-}{}{}\_\discretionary {-}{}{}file}{90}{subsubsection.6.20.4.1}
+\contentsline {section}{\numberline {6.21}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interaction\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interaction \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{90}{section.6.21}
+\contentsline {subsection}{\numberline {6.21.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{92}{subsection.6.21.1}
+\contentsline {subsection}{\numberline {6.21.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{92}{subsection.6.21.2}
+\contentsline {subsubsection}{\numberline {6.21.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{92}{subsubsection.6.21.2.1}
+\contentsline {subsection}{\numberline {6.21.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{92}{subsection.6.21.3}
+\contentsline {subsubsection}{\numberline {6.21.3.1}compute\discretionary {-}{}{}\_\discretionary {-}{}{}ppv}{92}{subsubsection.6.21.3.1}
+\contentsline {subsubsection}{\numberline {6.21.3.2}compute\discretionary {-}{}{}\_\discretionary {-}{}{}sens\discretionary {-}{}{}\_\discretionary {-}{}{}ppv}{93}{subsubsection.6.21.3.2}
+\contentsline {subsubsection}{\numberline {6.21.3.3}compute\discretionary {-}{}{}\_\discretionary {-}{}{}sensitivity}{93}{subsubsection.6.21.3.3}
+\contentsline {subsubsection}{\numberline {6.21.3.4}defintefunction}{93}{subsubsection.6.21.3.4}
+\contentsline {subsubsection}{\numberline {6.21.3.5}get\discretionary {-}{}{}Interaction}{93}{subsubsection.6.21.3.5}
+\contentsline {subsubsection}{\numberline {6.21.3.6}intebestsol}{94}{subsubsection.6.21.3.6}
+\contentsline {subsubsection}{\numberline {6.21.3.7}inteonesol}{95}{subsubsection.6.21.3.7}
+\contentsline {subsubsection}{\numberline {6.21.3.8}\discretionary {-}{}{}Interaction\discretionary {-}{}{}\_\discretionary {-}{}{}data}{95}{subsubsection.6.21.3.8}
+\contentsline {subsubsection}{\numberline {6.21.3.9}inteseveralcontact}{95}{subsubsection.6.21.3.9}
+\contentsline {subsubsection}{\numberline {6.21.3.10}ncbp}{96}{subsubsection.6.21.3.10}
+\contentsline {subsubsection}{\numberline {6.21.3.11}run}{96}{subsubsection.6.21.3.11}
+\contentsline {subsection}{\numberline {6.21.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{96}{subsection.6.21.4}
+\contentsline {subsubsection}{\numberline {6.21.4.1}classtype}{96}{subsubsection.6.21.4.1}
+\contentsline {subsubsection}{\numberline {6.21.4.2}dbmanage}{96}{subsubsection.6.21.4.2}
+\contentsline {subsubsection}{\numberline {6.21.4.3}exp\discretionary {-}{}{}\_\discretionary {-}{}{}inf}{96}{subsubsection.6.21.4.3}
+\contentsline {subsubsection}{\numberline {6.21.4.4}intefuncmap}{96}{subsubsection.6.21.4.4}
+\contentsline {subsubsection}{\numberline {6.21.4.5}interactions}{97}{subsubsection.6.21.4.5}
+\contentsline {subsubsection}{\numberline {6.21.4.6}pos}{97}{subsubsection.6.21.4.6}
+\contentsline {subsubsection}{\numberline {6.21.4.7}ppv}{97}{subsubsection.6.21.4.7}
+\contentsline {subsubsection}{\numberline {6.21.4.8}sensitivity}{97}{subsubsection.6.21.4.8}
+\contentsline {subsubsection}{\numberline {6.21.4.9}type\discretionary {-}{}{}\_\discretionary {-}{}{}sol}{97}{subsubsection.6.21.4.9}
+\contentsline {section}{\numberline {6.22}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interaction\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Interaction \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{97}{section.6.22}
+\contentsline {subsection}{\numberline {6.22.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{98}{subsection.6.22.1}
+\contentsline {subsection}{\numberline {6.22.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{99}{subsection.6.22.2}
+\contentsline {subsubsection}{\numberline {6.22.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{99}{subsubsection.6.22.2.1}
+\contentsline {subsection}{\numberline {6.22.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{99}{subsection.6.22.3}
+\contentsline {subsubsection}{\numberline {6.22.3.1}add\discretionary {-}{}{}Comparison}{99}{subsubsection.6.22.3.1}
+\contentsline {subsubsection}{\numberline {6.22.3.2}add\discretionary {-}{}{}List\discretionary {-}{}{}Of\discretionary {-}{}{}Comparison}{99}{subsubsection.6.22.3.2}
+\contentsline {subsubsection}{\numberline {6.22.3.3}format\discretionary {-}{}{}Matrix}{99}{subsubsection.6.22.3.3}
+\contentsline {subsubsection}{\numberline {6.22.3.4}get\discretionary {-}{}{}Lastchildnode}{100}{subsubsection.6.22.3.4}
+\contentsline {subsubsection}{\numberline {6.22.3.5}getlastm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{100}{subsubsection.6.22.3.5}
+\contentsline {subsubsection}{\numberline {6.22.3.6}getlasts\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{100}{subsubsection.6.22.3.6}
+\contentsline {subsubsection}{\numberline {6.22.3.7}get\discretionary {-}{}{}Position}{100}{subsubsection.6.22.3.7}
+\contentsline {subsubsection}{\numberline {6.22.3.8}get\discretionary {-}{}{}Result}{101}{subsubsection.6.22.3.8}
+\contentsline {subsubsection}{\numberline {6.22.3.9}load\discretionary {-}{}{}Matrix}{101}{subsubsection.6.22.3.9}
+\contentsline {subsubsection}{\numberline {6.22.3.10}println}{101}{subsubsection.6.22.3.10}
+\contentsline {subsubsection}{\numberline {6.22.3.11}score\discretionary {-}{}{}Sequence}{102}{subsubsection.6.22.3.11}
+\contentsline {subsubsection}{\numberline {6.22.3.12}set\discretionary {-}{}{}Matrix}{102}{subsubsection.6.22.3.12}
+\contentsline {subsubsection}{\numberline {6.22.3.13}set\discretionary {-}{}{}Score\discretionary {-}{}{}List}{102}{subsubsection.6.22.3.13}
+\contentsline {subsubsection}{\numberline {6.22.3.14}set\discretionary {-}{}{}Soft}{102}{subsubsection.6.22.3.14}
+\contentsline {subsection}{\numberline {6.22.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{103}{subsection.6.22.4}
+\contentsline {subsubsection}{\numberline {6.22.4.1}matrix}{103}{subsubsection.6.22.4.1}
+\contentsline {subsubsection}{\numberline {6.22.4.2}root}{103}{subsubsection.6.22.4.2}
+\contentsline {subsubsection}{\numberline {6.22.4.3}schema\discretionary {-}{}{}\_\discretionary {-}{}{}root}{103}{subsubsection.6.22.4.3}
+\contentsline {section}{\numberline {6.23}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Merger\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Merger \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{103}{section.6.23}
+\contentsline {subsection}{\numberline {6.23.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{104}{subsection.6.23.1}
+\contentsline {subsection}{\numberline {6.23.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{104}{subsection.6.23.2}
+\contentsline {subsubsection}{\numberline {6.23.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{104}{subsubsection.6.23.2.1}
+\contentsline {subsection}{\numberline {6.23.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{104}{subsection.6.23.3}
+\contentsline {subsubsection}{\numberline {6.23.3.1}build\discretionary {-}{}{}Tree}{104}{subsubsection.6.23.3.1}
+\contentsline {subsubsection}{\numberline {6.23.3.2}get\discretionary {-}{}{}Data}{105}{subsubsection.6.23.3.2}
+\contentsline {subsubsection}{\numberline {6.23.3.3}merge}{105}{subsubsection.6.23.3.3}
+\contentsline {subsubsection}{\numberline {6.23.3.4}set\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{105}{subsubsection.6.23.3.4}
+\contentsline {subsection}{\numberline {6.23.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{106}{subsection.6.23.4}
+\contentsline {subsubsection}{\numberline {6.23.4.1}files}{106}{subsubsection.6.23.4.1}
+\contentsline {subsubsection}{\numberline {6.23.4.2}rep\discretionary {-}{}{}In}{106}{subsubsection.6.23.4.2}
+\contentsline {subsubsection}{\numberline {6.23.4.3}result\discretionary {-}{}{}\_\discretionary {-}{}{}data}{106}{subsubsection.6.23.4.3}
+\contentsline {subsubsection}{\numberline {6.23.4.4}softprevious}{106}{subsubsection.6.23.4.4}
+\contentsline {section}{\numberline {6.24}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mpi\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mpi \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{106}{section.6.24}
+\contentsline {subsection}{\numberline {6.24.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{107}{subsection.6.24.1}
+\contentsline {subsection}{\numberline {6.24.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{107}{subsection.6.24.2}
+\contentsline {subsubsection}{\numberline {6.24.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{107}{subsubsection.6.24.2.1}
+\contentsline {subsection}{\numberline {6.24.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{108}{subsection.6.24.3}
+\contentsline {subsubsection}{\numberline {6.24.3.1}get\discretionary {-}{}{}Analysis}{108}{subsubsection.6.24.3.1}
+\contentsline {subsubsection}{\numberline {6.24.3.2}get\discretionary {-}{}{}Corresponding\discretionary {-}{}{}Soft}{108}{subsubsection.6.24.3.2}
+\contentsline {subsubsection}{\numberline {6.24.3.3}get\discretionary {-}{}{}Interaction}{108}{subsubsection.6.24.3.3}
+\contentsline {subsubsection}{\numberline {6.24.3.4}get\discretionary {-}{}{}Interaction\discretionary {-}{}{}\_\discretionary {-}{}{}data}{108}{subsubsection.6.24.3.4}
+\contentsline {subsubsection}{\numberline {6.24.3.5}get\discretionary {-}{}{}Norm\discretionary {-}{}{}Score}{109}{subsubsection.6.24.3.5}
+\contentsline {subsubsection}{\numberline {6.24.3.6}getp\discretionary {-}{}{}Value}{109}{subsubsection.6.24.3.6}
+\contentsline {subsubsection}{\numberline {6.24.3.7}get\discretionary {-}{}{}Regression}{109}{subsubsection.6.24.3.7}
+\contentsline {subsubsection}{\numberline {6.24.3.8}get\discretionary {-}{}{}Send\discretionary {-}{}{}Com}{109}{subsubsection.6.24.3.8}
+\contentsline {subsubsection}{\numberline {6.24.3.9}instanciate\discretionary {-}{}{}\_\discretionary {-}{}{}analysis}{109}{subsubsection.6.24.3.9}
+\contentsline {subsubsection}{\numberline {6.24.3.10}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}end\discretionary {-}{}{}\_\discretionary {-}{}{}processus}{110}{subsubsection.6.24.3.10}
+\contentsline {subsubsection}{\numberline {6.24.3.11}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}finalize}{110}{subsubsection.6.24.3.11}
+\contentsline {subsubsection}{\numberline {6.24.3.12}run}{110}{subsubsection.6.24.3.12}
+\contentsline {subsubsection}{\numberline {6.24.3.13}waiting}{110}{subsubsection.6.24.3.13}
+\contentsline {subsubsection}{\numberline {6.24.3.14}worker}{111}{subsubsection.6.24.3.14}
+\contentsline {subsubsection}{\numberline {6.24.3.15}working\discretionary {-}{}{}\_\discretionary {-}{}{}step}{111}{subsubsection.6.24.3.15}
+\contentsline {subsection}{\numberline {6.24.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{111}{subsection.6.24.4}
+\contentsline {subsubsection}{\numberline {6.24.4.1}comm}{111}{subsubsection.6.24.4.1}
+\contentsline {subsubsection}{\numberline {6.24.4.2}myrank}{111}{subsubsection.6.24.4.2}
+\contentsline {subsubsection}{\numberline {6.24.4.3}name}{111}{subsubsection.6.24.4.3}
+\contentsline {subsubsection}{\numberline {6.24.4.4}nprocs}{111}{subsubsection.6.24.4.4}
+\contentsline {subsubsection}{\numberline {6.24.4.5}setdata}{112}{subsubsection.6.24.4.5}
+\contentsline {section}{\numberline {6.25}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mpi\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mpi \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{112}{section.6.25}
+\contentsline {subsection}{\numberline {6.25.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{113}{subsection.6.25.1}
+\contentsline {subsection}{\numberline {6.25.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{113}{subsection.6.25.2}
+\contentsline {subsubsection}{\numberline {6.25.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{113}{subsubsection.6.25.2.1}
+\contentsline {subsection}{\numberline {6.25.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{113}{subsection.6.25.3}
+\contentsline {subsubsection}{\numberline {6.25.3.1}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}end\discretionary {-}{}{}\_\discretionary {-}{}{}processus}{113}{subsubsection.6.25.3.1}
+\contentsline {subsubsection}{\numberline {6.25.3.2}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}exit\discretionary {-}{}{}\_\discretionary {-}{}{}processus}{113}{subsubsection.6.25.3.2}
+\contentsline {subsubsection}{\numberline {6.25.3.3}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}finalize}{114}{subsubsection.6.25.3.3}
+\contentsline {subsubsection}{\numberline {6.25.3.4}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}get\discretionary {-}{}{}Comm}{114}{subsubsection.6.25.3.4}
+\contentsline {subsubsection}{\numberline {6.25.3.5}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}getmyrank}{114}{subsubsection.6.25.3.5}
+\contentsline {subsubsection}{\numberline {6.25.3.6}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}getname}{114}{subsubsection.6.25.3.6}
+\contentsline {subsubsection}{\numberline {6.25.3.7}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}getnprocs}{114}{subsubsection.6.25.3.7}
+\contentsline {subsubsection}{\numberline {6.25.3.8}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}get\discretionary {-}{}{}Soft}{115}{subsubsection.6.25.3.8}
+\contentsline {subsubsection}{\numberline {6.25.3.9}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}master}{115}{subsubsection.6.25.3.9}
+\contentsline {subsubsection}{\numberline {6.25.3.10}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}run}{115}{subsubsection.6.25.3.10}
+\contentsline {subsubsection}{\numberline {6.25.3.11}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}slave}{116}{subsubsection.6.25.3.11}
+\contentsline {subsubsection}{\numberline {6.25.3.12}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}sup\discretionary {-}{}{}\_\discretionary {-}{}{}process}{116}{subsubsection.6.25.3.12}
+\contentsline {subsubsection}{\numberline {6.25.3.13}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}write\discretionary {-}{}{}\_\discretionary {-}{}{}data}{116}{subsubsection.6.25.3.13}
+\contentsline {subsubsection}{\numberline {6.25.3.14}\discretionary {-}{}{}Mpi\discretionary {-}{}{}\_\discretionary {-}{}{}write\discretionary {-}{}{}\_\discretionary {-}{}{}exectime}{117}{subsubsection.6.25.3.14}
+\contentsline {subsection}{\numberline {6.25.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{117}{subsection.6.25.4}
+\contentsline {subsubsection}{\numberline {6.25.4.1}comm}{117}{subsubsection.6.25.4.1}
+\contentsline {subsubsection}{\numberline {6.25.4.2}myrank}{117}{subsubsection.6.25.4.2}
+\contentsline {subsubsection}{\numberline {6.25.4.3}name}{117}{subsubsection.6.25.4.3}
+\contentsline {subsubsection}{\numberline {6.25.4.4}nprocs}{117}{subsubsection.6.25.4.4}
+\contentsline {section}{\numberline {6.26}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Multilist\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Multilist \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{118}{section.6.26}
+\contentsline {subsection}{\numberline {6.26.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{119}{subsection.6.26.1}
+\contentsline {subsection}{\numberline {6.26.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{119}{subsection.6.26.2}
+\contentsline {subsubsection}{\numberline {6.26.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{119}{subsubsection.6.26.2.1}
+\contentsline {subsection}{\numberline {6.26.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{119}{subsection.6.26.3}
+\contentsline {subsubsection}{\numberline {6.26.3.1}createedges}{119}{subsubsection.6.26.3.1}
+\contentsline {subsubsection}{\numberline {6.26.3.2}get\discretionary {-}{}{}Filter}{120}{subsubsection.6.26.3.2}
+\contentsline {subsubsection}{\numberline {6.26.3.3}getnodelists}{120}{subsubsection.6.26.3.3}
+\contentsline {subsubsection}{\numberline {6.26.3.4}get\discretionary {-}{}{}Pos\discretionary {-}{}{}Table}{120}{subsubsection.6.26.3.4}
+\contentsline {subsubsection}{\numberline {6.26.3.5}\discretionary {-}{}{}G\discretionary {-}{}{}Ofilter}{121}{subsubsection.6.26.3.5}
+\contentsline {subsubsection}{\numberline {6.26.3.6}setdata}{121}{subsubsection.6.26.3.6}
+\contentsline {subsubsection}{\numberline {6.26.3.7}writefilterlist}{121}{subsubsection.6.26.3.7}
+\contentsline {subsection}{\numberline {6.26.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{121}{subsection.6.26.4}
+\contentsline {subsubsection}{\numberline {6.26.4.1}filtered}{122}{subsubsection.6.26.4.1}
+\contentsline {subsubsection}{\numberline {6.26.4.2}multilist\discretionary {-}{}{}\_\discretionary {-}{}{}file}{122}{subsubsection.6.26.4.2}
+\contentsline {section}{\numberline {6.27}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mycarn\discretionary {-}{}{}\_\discretionary {-}{}{}data\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Mycarn\discretionary {-}{}{}\_\discretionary {-}{}{}data \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{122}{section.6.27}
+\contentsline {subsection}{\numberline {6.27.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{123}{subsection.6.27.1}
+\contentsline {subsection}{\numberline {6.27.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{123}{subsection.6.27.2}
+\contentsline {subsubsection}{\numberline {6.27.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{123}{subsubsection.6.27.2.1}
+\contentsline {subsection}{\numberline {6.27.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{124}{subsection.6.27.3}
+\contentsline {subsubsection}{\numberline {6.27.3.1}setdata}{124}{subsubsection.6.27.3.1}
+\contentsline {subsubsection}{\numberline {6.27.3.2}set\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alength}{124}{subsubsection.6.27.3.2}
+\contentsline {subsection}{\numberline {6.27.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{124}{subsection.6.27.4}
+\contentsline {subsubsection}{\numberline {6.27.4.1}dbmanage}{124}{subsubsection.6.27.4.1}
+\contentsline {section}{\numberline {6.28}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Name\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Name \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{125}{section.6.28}
+\contentsline {subsection}{\numberline {6.28.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{126}{subsection.6.28.1}
+\contentsline {subsection}{\numberline {6.28.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{126}{subsection.6.28.2}
+\contentsline {subsubsection}{\numberline {6.28.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{126}{subsubsection.6.28.2.1}
+\contentsline {subsection}{\numberline {6.28.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{126}{subsection.6.28.3}
+\contentsline {subsubsection}{\numberline {6.28.3.1}setdata}{126}{subsubsection.6.28.3.1}
+\contentsline {subsection}{\numberline {6.28.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{126}{subsection.6.28.4}
+\contentsline {subsubsection}{\numberline {6.28.4.1}name\discretionary {-}{}{}\_\discretionary {-}{}{}file}{126}{subsubsection.6.28.4.1}
+\contentsline {section}{\numberline {6.29}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Node\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Node \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{127}{section.6.29}
+\contentsline {subsection}{\numberline {6.29.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{127}{subsection.6.29.1}
+\contentsline {subsection}{\numberline {6.29.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{128}{subsection.6.29.2}
+\contentsline {subsubsection}{\numberline {6.29.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{128}{subsubsection.6.29.2.1}
+\contentsline {subsection}{\numberline {6.29.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{128}{subsection.6.29.3}
+\contentsline {subsubsection}{\numberline {6.29.3.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}cmp\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{128}{subsubsection.6.29.3.1}
+\contentsline {subsubsection}{\numberline {6.29.3.2}addgroupelement}{128}{subsubsection.6.29.3.2}
+\contentsline {subsubsection}{\numberline {6.29.3.3}printgroupdata}{128}{subsubsection.6.29.3.3}
+\contentsline {subsubsection}{\numberline {6.29.3.4}println}{129}{subsubsection.6.29.3.4}
+\contentsline {subsubsection}{\numberline {6.29.3.5}setuniquegroup}{129}{subsubsection.6.29.3.5}
+\contentsline {subsection}{\numberline {6.29.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{129}{subsection.6.29.4}
+\contentsline {subsubsection}{\numberline {6.29.4.1}code}{129}{subsubsection.6.29.4.1}
+\contentsline {subsubsection}{\numberline {6.29.4.2}gender}{129}{subsubsection.6.29.4.2}
+\contentsline {subsubsection}{\numberline {6.29.4.3}group}{129}{subsubsection.6.29.4.3}
+\contentsline {subsubsection}{\numberline {6.29.4.4}length}{129}{subsubsection.6.29.4.4}
+\contentsline {subsubsection}{\numberline {6.29.4.5}name}{129}{subsubsection.6.29.4.5}
+\contentsline {subsubsection}{\numberline {6.29.4.6}num}{130}{subsubsection.6.29.4.6}
+\contentsline {section}{\numberline {6.30}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Norm\discretionary {-}{}{}Score\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Norm\discretionary {-}{}{}Score \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{130}{section.6.30}
+\contentsline {subsection}{\numberline {6.30.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{130}{subsection.6.30.1}
+\contentsline {subsection}{\numberline {6.30.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{131}{subsection.6.30.2}
+\contentsline {subsubsection}{\numberline {6.30.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{131}{subsubsection.6.30.2.1}
+\contentsline {subsection}{\numberline {6.30.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{131}{subsection.6.30.3}
+\contentsline {subsubsection}{\numberline {6.30.3.1}defnormfunction}{131}{subsubsection.6.30.3.1}
+\contentsline {subsubsection}{\numberline {6.30.3.2}norm\discretionary {-}{}{}Several\discretionary {-}{}{}Contact\discretionary {-}{}{}Score}{131}{subsubsection.6.30.3.2}
+\contentsline {subsubsection}{\numberline {6.30.3.3}norm\discretionary {-}{}{}Several\discretionary {-}{}{}Energy}{132}{subsubsection.6.30.3.3}
+\contentsline {subsubsection}{\numberline {6.30.3.4}norm\discretionary {-}{}{}Several\discretionary {-}{}{}Score}{132}{subsubsection.6.30.3.4}
+\contentsline {subsubsection}{\numberline {6.30.3.5}norm\discretionary {-}{}{}Unique\discretionary {-}{}{}Solution}{132}{subsubsection.6.30.3.5}
+\contentsline {subsubsection}{\numberline {6.30.3.6}run}{133}{subsubsection.6.30.3.6}
+\contentsline {subsection}{\numberline {6.30.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{133}{subsection.6.30.4}
+\contentsline {subsubsection}{\numberline {6.30.4.1}dbmanage}{133}{subsubsection.6.30.4.1}
+\contentsline {subsubsection}{\numberline {6.30.4.2}interactions}{133}{subsubsection.6.30.4.2}
+\contentsline {subsubsection}{\numberline {6.30.4.3}norm\discretionary {-}{}{}\_\discretionary {-}{}{}score}{133}{subsubsection.6.30.4.3}
+\contentsline {subsubsection}{\numberline {6.30.4.4}normfuncmap}{133}{subsubsection.6.30.4.4}
+\contentsline {subsubsection}{\numberline {6.30.4.5}pos}{134}{subsubsection.6.30.4.5}
+\contentsline {subsubsection}{\numberline {6.30.4.6}score\discretionary {-}{}{}\_\discretionary {-}{}{}type}{134}{subsubsection.6.30.4.6}
+\contentsline {subsubsection}{\numberline {6.30.4.7}type\discretionary {-}{}{}\_\discretionary {-}{}{}sol}{134}{subsubsection.6.30.4.7}
+\contentsline {section}{\numberline {6.31}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parse\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parse \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{134}{section.6.31}
+\contentsline {subsection}{\numberline {6.31.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{136}{subsection.6.31.1}
+\contentsline {subsection}{\numberline {6.31.2}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{136}{subsection.6.31.2}
+\contentsline {subsubsection}{\numberline {6.31.2.1}comparaison}{136}{subsubsection.6.31.2.1}
+\contentsline {subsubsection}{\numberline {6.31.2.2}consensus}{136}{subsubsection.6.31.2.2}
+\contentsline {subsubsection}{\numberline {6.31.2.3}elongate\discretionary {-}{}{}Positions\discretionary {-}{}{}\_\discretionary {-}{}{}rip}{137}{subsubsection.6.31.2.3}
+\contentsline {subsubsection}{\numberline {6.31.2.4}forward\discretionary {-}{}{}Table}{137}{subsubsection.6.31.2.4}
+\contentsline {subsubsection}{\numberline {6.31.2.5}getposition\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Acofold0}{137}{subsubsection.6.31.2.5}
+\contentsline {subsubsection}{\numberline {6.31.2.6}getposition\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Acofold1}{138}{subsubsection.6.31.2.6}
+\contentsline {subsubsection}{\numberline {6.31.2.7}get\discretionary {-}{}{}Positions\discretionary {-}{}{}\_\discretionary {-}{}{}rip}{138}{subsubsection.6.31.2.7}
+\contentsline {subsubsection}{\numberline {6.31.2.8}get\discretionary {-}{}{}Result\discretionary {-}{}{}Sequence\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Ahybrid}{138}{subsubsection.6.31.2.8}
+\contentsline {subsubsection}{\numberline {6.31.2.9}get\discretionary {-}{}{}Sequences\discretionary {-}{}{}\_\discretionary {-}{}{}53}{139}{subsubsection.6.31.2.9}
+\contentsline {subsubsection}{\numberline {6.31.2.10}get\discretionary {-}{}{}Sequences\discretionary {-}{}{}\_\discretionary {-}{}{}local\discretionary {-}{}{}\_\discretionary {-}{}{}reversed}{139}{subsubsection.6.31.2.10}
+\contentsline {subsubsection}{\numberline {6.31.2.11}parse\discretionary {-}{}{}Bista\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{140}{subsubsection.6.31.2.11}
+\contentsline {subsubsection}{\numberline {6.31.2.12}parse\discretionary {-}{}{}Blastall}{140}{subsubsection.6.31.2.12}
+\contentsline {subsubsection}{\numberline {6.31.2.13}parse\discretionary {-}{}{}Guugle}{140}{subsubsection.6.31.2.13}
+\contentsline {subsubsection}{\numberline {6.31.2.14}parse\discretionary {-}{}{}Inta\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{141}{subsubsection.6.31.2.14}
+\contentsline {subsubsection}{\numberline {6.31.2.15}parse\discretionary {-}{}{}Pairfold}{141}{subsubsection.6.31.2.15}
+\contentsline {subsubsection}{\numberline {6.31.2.16}parse\discretionary {-}{}{}Ractip}{141}{subsubsection.6.31.2.16}
+\contentsline {subsubsection}{\numberline {6.31.2.17}parse\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Acofold}{142}{subsubsection.6.31.2.17}
+\contentsline {subsubsection}{\numberline {6.31.2.18}parse\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aduplex}{142}{subsubsection.6.31.2.18}
+\contentsline {subsubsection}{\numberline {6.31.2.19}parse\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Ahybrid}{142}{subsubsection.6.31.2.19}
+\contentsline {subsubsection}{\numberline {6.31.2.20}parse\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aplex}{143}{subsubsection.6.31.2.20}
+\contentsline {subsubsection}{\numberline {6.31.2.21}parse\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aup}{143}{subsubsection.6.31.2.21}
+\contentsline {subsubsection}{\numberline {6.31.2.22}parse\discretionary {-}{}{}Ssearch}{143}{subsubsection.6.31.2.22}
+\contentsline {subsubsection}{\numberline {6.31.2.23}parse\discretionary {-}{}{}Yass}{144}{subsubsection.6.31.2.23}
+\contentsline {subsubsection}{\numberline {6.31.2.24}read\discretionary {-}{}{}Compfile}{144}{subsubsection.6.31.2.24}
+\contentsline {subsubsection}{\numberline {6.31.2.25}reverse\discretionary {-}{}{}Elongate}{144}{subsubsection.6.31.2.25}
+\contentsline {subsubsection}{\numberline {6.31.2.26}reverse\discretionary {-}{}{}Min\discretionary {-}{}{}Table}{145}{subsubsection.6.31.2.26}
+\contentsline {subsubsection}{\numberline {6.31.2.27}reverse\discretionary {-}{}{}Sequence}{145}{subsubsection.6.31.2.27}
+\contentsline {subsubsection}{\numberline {6.31.2.28}reverse\discretionary {-}{}{}Tablemax}{145}{subsubsection.6.31.2.28}
+\contentsline {subsubsection}{\numberline {6.31.2.29}run\discretionary {-}{}{}Parsing}{146}{subsubsection.6.31.2.29}
+\contentsline {section}{\numberline {6.32}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parser\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parser \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{147}{section.6.32}
+\contentsline {subsection}{\numberline {6.32.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{147}{subsection.6.32.1}
+\contentsline {subsection}{\numberline {6.32.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{147}{subsection.6.32.2}
+\contentsline {subsubsection}{\numberline {6.32.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{147}{subsubsection.6.32.2.1}
+\contentsline {subsection}{\numberline {6.32.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{148}{subsection.6.32.3}
+\contentsline {subsubsection}{\numberline {6.32.3.1}get\discretionary {-}{}{}Data}{148}{subsubsection.6.32.3.1}
+\contentsline {subsubsection}{\numberline {6.32.3.2}get\discretionary {-}{}{}Unique}{148}{subsubsection.6.32.3.2}
+\contentsline {subsubsection}{\numberline {6.32.3.3}sortdict}{148}{subsubsection.6.32.3.3}
+\contentsline {section}{\numberline {6.33}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parser\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Parser \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{149}{section.6.33}
+\contentsline {subsection}{\numberline {6.33.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{150}{subsection.6.33.1}
+\contentsline {subsection}{\numberline {6.33.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{150}{subsection.6.33.2}
+\contentsline {subsubsection}{\numberline {6.33.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{150}{subsubsection.6.33.2.1}
+\contentsline {subsection}{\numberline {6.33.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{150}{subsection.6.33.3}
+\contentsline {subsubsection}{\numberline {6.33.3.1}addelements}{150}{subsubsection.6.33.3.1}
+\contentsline {subsubsection}{\numberline {6.33.3.2}createnodes}{150}{subsubsection.6.33.3.2}
+\contentsline {subsubsection}{\numberline {6.33.3.3}getlinkedge}{151}{subsubsection.6.33.3.3}
+\contentsline {subsubsection}{\numberline {6.33.3.4}getlinknode}{151}{subsubsection.6.33.3.4}
+\contentsline {subsubsection}{\numberline {6.33.3.5}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{151}{subsubsection.6.33.3.5}
+\contentsline {subsubsection}{\numberline {6.33.3.6}get\discretionary {-}{}{}Target}{152}{subsubsection.6.33.3.6}
+\contentsline {subsubsection}{\numberline {6.33.3.7}load\discretionary {-}{}{}Object}{152}{subsubsection.6.33.3.7}
+\contentsline {subsubsection}{\numberline {6.33.3.8}print\discretionary {-}{}{}Object}{152}{subsubsection.6.33.3.8}
+\contentsline {section}{\numberline {6.34}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Pickling\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Pickling \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{153}{section.6.34}
+\contentsline {subsection}{\numberline {6.34.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{153}{subsection.6.34.1}
+\contentsline {subsection}{\numberline {6.34.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{153}{subsection.6.34.2}
+\contentsline {subsubsection}{\numberline {6.34.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{153}{subsubsection.6.34.2.1}
+\contentsline {subsection}{\numberline {6.34.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{153}{subsection.6.34.3}
+\contentsline {subsubsection}{\numberline {6.34.3.1}loadobj}{153}{subsubsection.6.34.3.1}
+\contentsline {subsubsection}{\numberline {6.34.3.2}saveobj}{154}{subsubsection.6.34.3.2}
+\contentsline {subsection}{\numberline {6.34.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{154}{subsection.6.34.4}
+\contentsline {subsubsection}{\numberline {6.34.4.1}path}{154}{subsubsection.6.34.4.1}
+\contentsline {section}{\numberline {6.35}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{154}{section.6.35}
+\contentsline {subsection}{\numberline {6.35.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{155}{subsection.6.35.1}
+\contentsline {subsection}{\numberline {6.35.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{155}{subsection.6.35.2}
+\contentsline {subsubsection}{\numberline {6.35.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{155}{subsubsection.6.35.2.1}
+\contentsline {subsection}{\numberline {6.35.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{155}{subsection.6.35.3}
+\contentsline {subsubsection}{\numberline {6.35.3.1}run}{155}{subsubsection.6.35.3.1}
+\contentsline {subsection}{\numberline {6.35.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{155}{subsection.6.35.4}
+\contentsline {subsubsection}{\numberline {6.35.4.1}dbmanage}{155}{subsubsection.6.35.4.1}
+\contentsline {subsubsection}{\numberline {6.35.4.2}interactions}{155}{subsubsection.6.35.4.2}
+\contentsline {subsubsection}{\numberline {6.35.4.3}norm\discretionary {-}{}{}\_\discretionary {-}{}{}score}{156}{subsubsection.6.35.4.3}
+\contentsline {subsubsection}{\numberline {6.35.4.4}rand\discretionary {-}{}{}\_\discretionary {-}{}{}inf}{156}{subsubsection.6.35.4.4}
+\contentsline {subsubsection}{\numberline {6.35.4.5}softname}{156}{subsubsection.6.35.4.5}
+\contentsline {section}{\numberline {6.36}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{156}{section.6.36}
+\contentsline {subsection}{\numberline {6.36.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{157}{subsection.6.36.1}
+\contentsline {subsection}{\numberline {6.36.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{157}{subsection.6.36.2}
+\contentsline {subsubsection}{\numberline {6.36.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{157}{subsubsection.6.36.2.1}
+\contentsline {subsection}{\numberline {6.36.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{158}{subsection.6.36.3}
+\contentsline {subsubsection}{\numberline {6.36.3.1}setdata}{158}{subsubsection.6.36.3.1}
+\contentsline {subsection}{\numberline {6.36.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{158}{subsection.6.36.4}
+\contentsline {subsubsection}{\numberline {6.36.4.1}p\discretionary {-}{}{}Value\discretionary {-}{}{}\_\discretionary {-}{}{}file}{158}{subsubsection.6.36.4.1}
+\contentsline {section}{\numberline {6.37}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value\discretionary {-}{}{}\_\discretionary {-}{}{}selection\discretionary {-}{}{}:\discretionary {-}{}{}:p\discretionary {-}{}{}Value\discretionary {-}{}{}\_\discretionary {-}{}{}selection \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{158}{section.6.37}
+\contentsline {subsection}{\numberline {6.37.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{159}{subsection.6.37.1}
+\contentsline {subsection}{\numberline {6.37.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{160}{subsection.6.37.2}
+\contentsline {subsubsection}{\numberline {6.37.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{160}{subsubsection.6.37.2.1}
+\contentsline {subsection}{\numberline {6.37.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{160}{subsection.6.37.3}
+\contentsline {subsubsection}{\numberline {6.37.3.1}compute\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Davidmatrix}{160}{subsubsection.6.37.3.1}
+\contentsline {subsubsection}{\numberline {6.37.3.2}compute\discretionary {-}{}{}\_\discretionary {-}{}{}frequency}{160}{subsubsection.6.37.3.2}
+\contentsline {subsubsection}{\numberline {6.37.3.3}compute\discretionary {-}{}{}\_\discretionary {-}{}{}similarity}{161}{subsubsection.6.37.3.3}
+\contentsline {subsubsection}{\numberline {6.37.3.4}get\discretionary {-}{}{}Commune}{161}{subsubsection.6.37.3.4}
+\contentsline {subsubsection}{\numberline {6.37.3.5}getnums\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{161}{subsubsection.6.37.3.5}
+\contentsline {subsubsection}{\numberline {6.37.3.6}run}{162}{subsubsection.6.37.3.6}
+\contentsline {subsection}{\numberline {6.37.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{162}{subsection.6.37.4}
+\contentsline {subsubsection}{\numberline {6.37.4.1}p\discretionary {-}{}{}Value\discretionary {-}{}{}\_\discretionary {-}{}{}thres}{162}{subsubsection.6.37.4.1}
+\contentsline {section}{\numberline {6.38}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Rand\discretionary {-}{}{}\_\discretionary {-}{}{}data\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Rand\discretionary {-}{}{}\_\discretionary {-}{}{}data \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{163}{section.6.38}
+\contentsline {subsection}{\numberline {6.38.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{164}{subsection.6.38.1}
+\contentsline {subsection}{\numberline {6.38.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{164}{subsection.6.38.2}
+\contentsline {subsubsection}{\numberline {6.38.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{164}{subsubsection.6.38.2.1}
+\contentsline {subsection}{\numberline {6.38.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{164}{subsection.6.38.3}
+\contentsline {subsubsection}{\numberline {6.38.3.1}getall\discretionary {-}{}{}Softs}{164}{subsubsection.6.38.3.1}
+\contentsline {subsubsection}{\numberline {6.38.3.2}get\discretionary {-}{}{}Randinf}{164}{subsubsection.6.38.3.2}
+\contentsline {subsubsection}{\numberline {6.38.3.3}get\discretionary {-}{}{}Rand\discretionary {-}{}{}Rna}{165}{subsubsection.6.38.3.3}
+\contentsline {subsection}{\numberline {6.38.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{165}{subsection.6.38.4}
+\contentsline {subsubsection}{\numberline {6.38.4.1}combined}{165}{subsubsection.6.38.4.1}
+\contentsline {subsubsection}{\numberline {6.38.4.2}intercept}{165}{subsubsection.6.38.4.2}
+\contentsline {subsubsection}{\numberline {6.38.4.3}slope}{165}{subsubsection.6.38.4.3}
+\contentsline {subsubsection}{\numberline {6.38.4.4}soft}{165}{subsubsection.6.38.4.4}
+\contentsline {subsubsection}{\numberline {6.38.4.5}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{165}{subsubsection.6.38.4.5}
+\contentsline {subsubsection}{\numberline {6.38.4.6}unique\discretionary {-}{}{}\_\discretionary {-}{}{}soft}{165}{subsubsection.6.38.4.6}
+\contentsline {section}{\numberline {6.39}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Ran\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Ran\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{166}{section.6.39}
+\contentsline {subsection}{\numberline {6.39.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{166}{subsection.6.39.1}
+\contentsline {subsection}{\numberline {6.39.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{166}{subsection.6.39.2}
+\contentsline {subsubsection}{\numberline {6.39.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{166}{subsubsection.6.39.2.1}
+\contentsline {subsection}{\numberline {6.39.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{167}{subsection.6.39.3}
+\contentsline {subsubsection}{\numberline {6.39.3.1}\discretionary {-}{}{}Generate\discretionary {-}{}{}File}{167}{subsubsection.6.39.3.1}
+\contentsline {subsubsection}{\numberline {6.39.3.2}\discretionary {-}{}{}Generate\discretionary {-}{}{}Seq}{167}{subsubsection.6.39.3.2}
+\contentsline {subsubsection}{\numberline {6.39.3.3}\discretionary {-}{}{}Get\discretionary {-}{}{}Int\discretionary {-}{}{}Values}{167}{subsubsection.6.39.3.3}
+\contentsline {subsubsection}{\numberline {6.39.3.4}\discretionary {-}{}{}Get\discretionary {-}{}{}Values}{167}{subsubsection.6.39.3.4}
+\contentsline {subsubsection}{\numberline {6.39.3.5}\discretionary {-}{}{}Set\discretionary {-}{}{}Letters}{168}{subsubsection.6.39.3.5}
+\contentsline {subsubsection}{\numberline {6.39.3.6}\discretionary {-}{}{}Write\discretionary {-}{}{}Fasta}{168}{subsubsection.6.39.3.6}
+\contentsline {subsection}{\numberline {6.39.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{168}{subsection.6.39.4}
+\contentsline {subsubsection}{\numberline {6.39.4.1}\discretionary {-}{}{}G\discretionary {-}{}{}C}{168}{subsubsection.6.39.4.1}
+\contentsline {subsubsection}{\numberline {6.39.4.2}\discretionary {-}{}{}Nb\discretionary {-}{}{}Seq}{168}{subsubsection.6.39.4.2}
+\contentsline {subsubsection}{\numberline {6.39.4.3}\discretionary {-}{}{}Out\discretionary {-}{}{}Rep}{169}{subsubsection.6.39.4.3}
+\contentsline {subsubsection}{\numberline {6.39.4.4}\discretionary {-}{}{}Seq\discretionary {-}{}{}Length}{169}{subsubsection.6.39.4.4}
+\contentsline {section}{\numberline {6.40}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Regression\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Regression \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{169}{section.6.40}
+\contentsline {subsection}{\numberline {6.40.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{170}{subsection.6.40.1}
+\contentsline {subsection}{\numberline {6.40.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{170}{subsection.6.40.2}
+\contentsline {subsubsection}{\numberline {6.40.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{170}{subsubsection.6.40.2.1}
+\contentsline {subsection}{\numberline {6.40.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{171}{subsection.6.40.3}
+\contentsline {subsubsection}{\numberline {6.40.3.1}ecdf\discretionary {-}{}{}\_\discretionary {-}{}{}estimate}{171}{subsubsection.6.40.3.1}
+\contentsline {subsubsection}{\numberline {6.40.3.2}linear\discretionary {-}{}{}\_\discretionary {-}{}{}regression}{171}{subsubsection.6.40.3.2}
+\contentsline {subsubsection}{\numberline {6.40.3.3}run}{171}{subsubsection.6.40.3.3}
+\contentsline {subsection}{\numberline {6.40.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{171}{subsection.6.40.4}
+\contentsline {subsubsection}{\numberline {6.40.4.1}cumneg}{172}{subsubsection.6.40.4.1}
+\contentsline {subsubsection}{\numberline {6.40.4.2}curve\discretionary {-}{}{}\_\discretionary {-}{}{}param}{172}{subsubsection.6.40.4.2}
+\contentsline {subsubsection}{\numberline {6.40.4.3}norm\discretionary {-}{}{}\_\discretionary {-}{}{}score}{172}{subsubsection.6.40.4.3}
+\contentsline {subsubsection}{\numberline {6.40.4.4}p\discretionary {-}{}{}Value\discretionary {-}{}{}\_\discretionary {-}{}{}type}{172}{subsubsection.6.40.4.4}
+\contentsline {subsubsection}{\numberline {6.40.4.5}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aid\discretionary {-}{}{}\_\discretionary {-}{}{}tab}{172}{subsubsection.6.40.4.5}
+\contentsline {subsubsection}{\numberline {6.40.4.6}unique\discretionary {-}{}{}\_\discretionary {-}{}{}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aidinint}{172}{subsubsection.6.40.4.6}
+\contentsline {section}{\numberline {6.41}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sequences\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sequences \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{172}{section.6.41}
+\contentsline {subsection}{\numberline {6.41.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{173}{subsection.6.41.1}
+\contentsline {subsection}{\numberline {6.41.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{173}{subsection.6.41.2}
+\contentsline {subsubsection}{\numberline {6.41.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{173}{subsubsection.6.41.2.1}
+\contentsline {subsection}{\numberline {6.41.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{173}{subsection.6.41.3}
+\contentsline {subsubsection}{\numberline {6.41.3.1}complete\discretionary {-}{}{}Gene}{173}{subsubsection.6.41.3.1}
+\contentsline {subsubsection}{\numberline {6.41.3.2}fractional\discretionary {-}{}{}Gene}{174}{subsubsection.6.41.3.2}
+\contentsline {subsubsection}{\numberline {6.41.3.3}invers\discretionary {-}{}{}\_\discretionary {-}{}{}compl}{174}{subsubsection.6.41.3.3}
+\contentsline {subsubsection}{\numberline {6.41.3.4}parse}{174}{subsubsection.6.41.3.4}
+\contentsline {subsubsection}{\numberline {6.41.3.5}setdefaultm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alen}{175}{subsubsection.6.41.3.5}
+\contentsline {subsubsection}{\numberline {6.41.3.6}set\discretionary {-}{}{}Gene\discretionary {-}{}{}Function}{175}{subsubsection.6.41.3.6}
+\contentsline {subsubsection}{\numberline {6.41.3.7}write\discretionary {-}{}{}Corresponding}{175}{subsubsection.6.41.3.7}
+\contentsline {subsubsection}{\numberline {6.41.3.8}writem\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{176}{subsubsection.6.41.3.8}
+\contentsline {subsubsection}{\numberline {6.41.3.9}writes\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{176}{subsubsection.6.41.3.9}
+\contentsline {subsection}{\numberline {6.41.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{176}{subsection.6.41.4}
+\contentsline {subsubsection}{\numberline {6.41.4.1}\discretionary {-}{}{}D\discretionary {-}{}{}N\discretionary {-}{}{}A}{176}{subsubsection.6.41.4.1}
+\contentsline {subsubsection}{\numberline {6.41.4.2}list\discretionary {-}{}{}\_\discretionary {-}{}{}genes}{176}{subsubsection.6.41.4.2}
+\contentsline {subsubsection}{\numberline {6.41.4.3}organism}{177}{subsubsection.6.41.4.3}
+\contentsline {section}{\numberline {6.42}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Similarity\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Similarity \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{177}{section.6.42}
+\contentsline {subsection}{\numberline {6.42.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{178}{subsection.6.42.1}
+\contentsline {subsection}{\numberline {6.42.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{178}{subsection.6.42.2}
+\contentsline {subsubsection}{\numberline {6.42.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{178}{subsubsection.6.42.2.1}
+\contentsline {subsection}{\numberline {6.42.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{178}{subsection.6.42.3}
+\contentsline {subsubsection}{\numberline {6.42.3.1}setdata}{178}{subsubsection.6.42.3.1}
+\contentsline {subsection}{\numberline {6.42.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{179}{subsection.6.42.4}
+\contentsline {subsubsection}{\numberline {6.42.4.1}similarity\discretionary {-}{}{}\_\discretionary {-}{}{}file}{179}{subsubsection.6.42.4.1}
+\contentsline {section}{\numberline {6.43}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Soft\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Soft \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{179}{section.6.43}
+\contentsline {subsection}{\numberline {6.43.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{180}{subsection.6.43.1}
+\contentsline {subsection}{\numberline {6.43.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{180}{subsection.6.43.2}
+\contentsline {subsubsection}{\numberline {6.43.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{180}{subsubsection.6.43.2.1}
+\contentsline {subsection}{\numberline {6.43.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{180}{subsection.6.43.3}
+\contentsline {subsubsection}{\numberline {6.43.3.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}cmp\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{180}{subsubsection.6.43.3.1}
+\contentsline {subsubsection}{\numberline {6.43.3.2}get\discretionary {-}{}{}Softinf}{180}{subsubsection.6.43.3.2}
+\contentsline {subsubsection}{\numberline {6.43.3.3}get\discretionary {-}{}{}Softnum}{181}{subsubsection.6.43.3.3}
+\contentsline {subsection}{\numberline {6.43.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{181}{subsection.6.43.4}
+\contentsline {subsubsection}{\numberline {6.43.4.1}id}{181}{subsubsection.6.43.4.1}
+\contentsline {subsubsection}{\numberline {6.43.4.2}score\discretionary {-}{}{}\_\discretionary {-}{}{}type}{181}{subsubsection.6.43.4.2}
+\contentsline {subsubsection}{\numberline {6.43.4.3}type\discretionary {-}{}{}\_\discretionary {-}{}{}sol}{181}{subsubsection.6.43.4.3}
+\contentsline {section}{\numberline {6.44}irna\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}David2tulip\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{181}{section.6.44}
+\contentsline {subsection}{\numberline {6.44.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{184}{subsection.6.44.1}
+\contentsline {subsection}{\numberline {6.44.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{184}{subsection.6.44.2}
+\contentsline {subsubsection}{\numberline {6.44.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{184}{subsubsection.6.44.2.1}
+\contentsline {subsection}{\numberline {6.44.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{184}{subsection.6.44.3}
+\contentsline {subsubsection}{\numberline {6.44.3.1}commit\discretionary {-}{}{}Retry}{184}{subsubsection.6.44.3.1}
+\contentsline {subsubsection}{\numberline {6.44.3.2}connect\discretionary {-}{}{}D\discretionary {-}{}{}B}{184}{subsubsection.6.44.3.2}
+\contentsline {subsubsection}{\numberline {6.44.3.3}create\discretionary {-}{}{}Indexes}{185}{subsubsection.6.44.3.3}
+\contentsline {subsubsection}{\numberline {6.44.3.4}create\discretionary {-}{}{}S\discretionary {-}{}{}Q\discretionary {-}{}{}Ldb}{185}{subsubsection.6.44.3.4}
+\contentsline {subsubsection}{\numberline {6.44.3.5}disconnect\discretionary {-}{}{}D\discretionary {-}{}{}B}{185}{subsubsection.6.44.3.5}
+\contentsline {subsubsection}{\numberline {6.44.3.6}disconnect\discretionary {-}{}{}D\discretionary {-}{}{}B2}{185}{subsubsection.6.44.3.6}
+\contentsline {subsubsection}{\numberline {6.44.3.7}get\discretionary {-}{}{}Allm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{185}{subsubsection.6.44.3.7}
+\contentsline {subsubsection}{\numberline {6.44.3.8}getall\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{186}{subsubsection.6.44.3.8}
+\contentsline {subsubsection}{\numberline {6.44.3.9}getall\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alength}{186}{subsubsection.6.44.3.9}
+\contentsline {subsubsection}{\numberline {6.44.3.10}get\discretionary {-}{}{}All\discretionary {-}{}{}Score}{186}{subsubsection.6.44.3.10}
+\contentsline {subsubsection}{\numberline {6.44.3.11}get\discretionary {-}{}{}All\discretionary {-}{}{}Soft}{187}{subsubsection.6.44.3.11}
+\contentsline {subsubsection}{\numberline {6.44.3.12}getalls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{187}{subsubsection.6.44.3.12}
+\contentsline {subsubsection}{\numberline {6.44.3.13}get\discretionary {-}{}{}Alls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aidby\discretionary {-}{}{}Intid}{187}{subsubsection.6.44.3.13}
+\contentsline {subsubsection}{\numberline {6.44.3.14}get\discretionary {-}{}{}Alls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{188}{subsubsection.6.44.3.14}
+\contentsline {subsubsection}{\numberline {6.44.3.15}getalls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aname}{188}{subsubsection.6.44.3.15}
+\contentsline {subsubsection}{\numberline {6.44.3.16}getid\discretionary {-}{}{}Softsbyname}{188}{subsubsection.6.44.3.16}
+\contentsline {subsubsection}{\numberline {6.44.3.17}get\discretionary {-}{}{}Intbys\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aid}{189}{subsubsection.6.44.3.17}
+\contentsline {subsubsection}{\numberline {6.44.3.18}get\discretionary {-}{}{}Interact}{189}{subsubsection.6.44.3.18}
+\contentsline {subsubsection}{\numberline {6.44.3.19}getm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aby\discretionary {-}{}{}Intid}{189}{subsubsection.6.44.3.19}
+\contentsline {subsubsection}{\numberline {6.44.3.20}getm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{190}{subsubsection.6.44.3.20}
+\contentsline {subsubsection}{\numberline {6.44.3.21}get\discretionary {-}{}{}Nb\discretionary {-}{}{}Interact}{190}{subsubsection.6.44.3.21}
+\contentsline {subsubsection}{\numberline {6.44.3.22}get\discretionary {-}{}{}Positionsby\discretionary {-}{}{}Intid}{191}{subsubsection.6.44.3.22}
+\contentsline {subsubsection}{\numberline {6.44.3.23}get\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{191}{subsubsection.6.44.3.23}
+\contentsline {subsubsection}{\numberline {6.44.3.24}get\discretionary {-}{}{}Score}{191}{subsubsection.6.44.3.24}
+\contentsline {subsubsection}{\numberline {6.44.3.25}get\discretionary {-}{}{}Soft}{192}{subsubsection.6.44.3.25}
+\contentsline {subsubsection}{\numberline {6.44.3.26}get\discretionary {-}{}{}Softname}{192}{subsubsection.6.44.3.26}
+\contentsline {subsubsection}{\numberline {6.44.3.27}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aby\discretionary {-}{}{}Intid}{192}{subsubsection.6.44.3.27}
+\contentsline {subsubsection}{\numberline {6.44.3.28}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aidby\discretionary {-}{}{}Intid}{193}{subsubsection.6.44.3.28}
+\contentsline {subsubsection}{\numberline {6.44.3.29}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{193}{subsubsection.6.44.3.29}
+\contentsline {subsubsection}{\numberline {6.44.3.30}\discretionary {-}{}{}Index\discretionary {-}{}{}Interactid\discretionary {-}{}{}On\discretionary {-}{}{}Contact}{194}{subsubsection.6.44.3.30}
+\contentsline {subsubsection}{\numberline {6.44.3.31}\discretionary {-}{}{}Index\discretionary {-}{}{}Mrnaid\discretionary {-}{}{}On\discretionary {-}{}{}Interact}{194}{subsubsection.6.44.3.31}
+\contentsline {subsubsection}{\numberline {6.44.3.32}\discretionary {-}{}{}Index\discretionary {-}{}{}Srnaid\discretionary {-}{}{}On\discretionary {-}{}{}Interact}{194}{subsubsection.6.44.3.32}
+\contentsline {subsubsection}{\numberline {6.44.3.33}listit}{194}{subsubsection.6.44.3.33}
+\contentsline {subsubsection}{\numberline {6.44.3.34}listscore}{194}{subsubsection.6.44.3.34}
+\contentsline {subsubsection}{\numberline {6.44.3.35}set\discretionary {-}{}{}Contact}{195}{subsubsection.6.44.3.35}
+\contentsline {subsubsection}{\numberline {6.44.3.36}set\discretionary {-}{}{}Interact}{195}{subsubsection.6.44.3.36}
+\contentsline {subsubsection}{\numberline {6.44.3.37}set\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{196}{subsubsection.6.44.3.37}
+\contentsline {subsubsection}{\numberline {6.44.3.38}set\discretionary {-}{}{}Soft}{196}{subsubsection.6.44.3.38}
+\contentsline {subsection}{\numberline {6.44.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{196}{subsection.6.44.4}
+\contentsline {subsubsection}{\numberline {6.44.4.1}conn}{196}{subsubsection.6.44.4.1}
+\contentsline {subsubsection}{\numberline {6.44.4.2}conn2}{196}{subsubsection.6.44.4.2}
+\contentsline {subsubsection}{\numberline {6.44.4.3}cur}{197}{subsubsection.6.44.4.3}
+\contentsline {subsubsection}{\numberline {6.44.4.4}db\discretionary {-}{}{}\_\discretionary {-}{}{}file}{197}{subsubsection.6.44.4.4}
+\contentsline {subsubsection}{\numberline {6.44.4.5}db\discretionary {-}{}{}\_\discretionary {-}{}{}path}{197}{subsubsection.6.44.4.5}
+\contentsline {subsubsection}{\numberline {6.44.4.6}fastmode}{197}{subsubsection.6.44.4.6}
+\contentsline {section}{\numberline {6.45}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{197}{section.6.45}
+\contentsline {subsection}{\numberline {6.45.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{200}{subsection.6.45.1}
+\contentsline {subsection}{\numberline {6.45.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{200}{subsection.6.45.2}
+\contentsline {subsubsection}{\numberline {6.45.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{200}{subsubsection.6.45.2.1}
+\contentsline {subsection}{\numberline {6.45.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{200}{subsection.6.45.3}
+\contentsline {subsubsection}{\numberline {6.45.3.1}commit\discretionary {-}{}{}Retry}{200}{subsubsection.6.45.3.1}
+\contentsline {subsubsection}{\numberline {6.45.3.2}connect\discretionary {-}{}{}D\discretionary {-}{}{}B}{200}{subsubsection.6.45.3.2}
+\contentsline {subsubsection}{\numberline {6.45.3.3}create\discretionary {-}{}{}Indexes}{200}{subsubsection.6.45.3.3}
+\contentsline {subsubsection}{\numberline {6.45.3.4}create\discretionary {-}{}{}S\discretionary {-}{}{}Q\discretionary {-}{}{}Ldb}{201}{subsubsection.6.45.3.4}
+\contentsline {subsubsection}{\numberline {6.45.3.5}disconnect\discretionary {-}{}{}D\discretionary {-}{}{}B}{201}{subsubsection.6.45.3.5}
+\contentsline {subsubsection}{\numberline {6.45.3.6}disconnect\discretionary {-}{}{}D\discretionary {-}{}{}B2}{201}{subsubsection.6.45.3.6}
+\contentsline {subsubsection}{\numberline {6.45.3.7}get\discretionary {-}{}{}Allm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{201}{subsubsection.6.45.3.7}
+\contentsline {subsubsection}{\numberline {6.45.3.8}getall\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{202}{subsubsection.6.45.3.8}
+\contentsline {subsubsection}{\numberline {6.45.3.9}getall\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alength}{202}{subsubsection.6.45.3.9}
+\contentsline {subsubsection}{\numberline {6.45.3.10}get\discretionary {-}{}{}All\discretionary {-}{}{}Score}{202}{subsubsection.6.45.3.10}
+\contentsline {subsubsection}{\numberline {6.45.3.11}get\discretionary {-}{}{}All\discretionary {-}{}{}Soft}{203}{subsubsection.6.45.3.11}
+\contentsline {subsubsection}{\numberline {6.45.3.12}getalls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{203}{subsubsection.6.45.3.12}
+\contentsline {subsubsection}{\numberline {6.45.3.13}get\discretionary {-}{}{}Alls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aidby\discretionary {-}{}{}Intid}{203}{subsubsection.6.45.3.13}
+\contentsline {subsubsection}{\numberline {6.45.3.14}get\discretionary {-}{}{}Alls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{204}{subsubsection.6.45.3.14}
+\contentsline {subsubsection}{\numberline {6.45.3.15}getalls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aname}{204}{subsubsection.6.45.3.15}
+\contentsline {subsubsection}{\numberline {6.45.3.16}getid\discretionary {-}{}{}Softsbyname}{204}{subsubsection.6.45.3.16}
+\contentsline {subsubsection}{\numberline {6.45.3.17}get\discretionary {-}{}{}Intbys\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aid}{205}{subsubsection.6.45.3.17}
+\contentsline {subsubsection}{\numberline {6.45.3.18}get\discretionary {-}{}{}Interact}{205}{subsubsection.6.45.3.18}
+\contentsline {subsubsection}{\numberline {6.45.3.19}getm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aby\discretionary {-}{}{}Intid}{206}{subsubsection.6.45.3.19}
+\contentsline {subsubsection}{\numberline {6.45.3.20}getm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{206}{subsubsection.6.45.3.20}
+\contentsline {subsubsection}{\numberline {6.45.3.21}get\discretionary {-}{}{}Nb\discretionary {-}{}{}Interact}{206}{subsubsection.6.45.3.21}
+\contentsline {subsubsection}{\numberline {6.45.3.22}get\discretionary {-}{}{}Positionsby\discretionary {-}{}{}Intid}{207}{subsubsection.6.45.3.22}
+\contentsline {subsubsection}{\numberline {6.45.3.23}get\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{207}{subsubsection.6.45.3.23}
+\contentsline {subsubsection}{\numberline {6.45.3.24}get\discretionary {-}{}{}Score}{208}{subsubsection.6.45.3.24}
+\contentsline {subsubsection}{\numberline {6.45.3.25}get\discretionary {-}{}{}Soft}{208}{subsubsection.6.45.3.25}
+\contentsline {subsubsection}{\numberline {6.45.3.26}get\discretionary {-}{}{}Softname}{208}{subsubsection.6.45.3.26}
+\contentsline {subsubsection}{\numberline {6.45.3.27}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aby\discretionary {-}{}{}Intid}{209}{subsubsection.6.45.3.27}
+\contentsline {subsubsection}{\numberline {6.45.3.28}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aidby\discretionary {-}{}{}Intid}{209}{subsubsection.6.45.3.28}
+\contentsline {subsubsection}{\numberline {6.45.3.29}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{209}{subsubsection.6.45.3.29}
+\contentsline {subsubsection}{\numberline {6.45.3.30}\discretionary {-}{}{}Index\discretionary {-}{}{}Interactid\discretionary {-}{}{}On\discretionary {-}{}{}Contact}{210}{subsubsection.6.45.3.30}
+\contentsline {subsubsection}{\numberline {6.45.3.31}\discretionary {-}{}{}Index\discretionary {-}{}{}Mrnaid\discretionary {-}{}{}On\discretionary {-}{}{}Interact}{210}{subsubsection.6.45.3.31}
+\contentsline {subsubsection}{\numberline {6.45.3.32}\discretionary {-}{}{}Index\discretionary {-}{}{}Srnaid\discretionary {-}{}{}On\discretionary {-}{}{}Interact}{210}{subsubsection.6.45.3.32}
+\contentsline {subsubsection}{\numberline {6.45.3.33}listit}{210}{subsubsection.6.45.3.33}
+\contentsline {subsubsection}{\numberline {6.45.3.34}listscore}{211}{subsubsection.6.45.3.34}
+\contentsline {subsubsection}{\numberline {6.45.3.35}set\discretionary {-}{}{}Contact}{211}{subsubsection.6.45.3.35}
+\contentsline {subsubsection}{\numberline {6.45.3.36}set\discretionary {-}{}{}Interact}{211}{subsubsection.6.45.3.36}
+\contentsline {subsubsection}{\numberline {6.45.3.37}set\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{212}{subsubsection.6.45.3.37}
+\contentsline {subsubsection}{\numberline {6.45.3.38}set\discretionary {-}{}{}Soft}{212}{subsubsection.6.45.3.38}
+\contentsline {subsection}{\numberline {6.45.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{212}{subsection.6.45.4}
+\contentsline {subsubsection}{\numberline {6.45.4.1}conn}{212}{subsubsection.6.45.4.1}
+\contentsline {subsubsection}{\numberline {6.45.4.2}conn2}{213}{subsubsection.6.45.4.2}
+\contentsline {subsubsection}{\numberline {6.45.4.3}cur}{213}{subsubsection.6.45.4.3}
+\contentsline {subsubsection}{\numberline {6.45.4.4}db\discretionary {-}{}{}\_\discretionary {-}{}{}file}{213}{subsubsection.6.45.4.4}
+\contentsline {subsubsection}{\numberline {6.45.4.5}db\discretionary {-}{}{}\_\discretionary {-}{}{}path}{213}{subsubsection.6.45.4.5}
+\contentsline {subsubsection}{\numberline {6.45.4.6}fastmode}{213}{subsubsection.6.45.4.6}
+\contentsline {section}{\numberline {6.46}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{213}{section.6.46}
+\contentsline {subsection}{\numberline {6.46.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{216}{subsection.6.46.1}
+\contentsline {subsection}{\numberline {6.46.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{216}{subsection.6.46.2}
+\contentsline {subsubsection}{\numberline {6.46.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{216}{subsubsection.6.46.2.1}
+\contentsline {subsection}{\numberline {6.46.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{216}{subsection.6.46.3}
+\contentsline {subsubsection}{\numberline {6.46.3.1}commit\discretionary {-}{}{}Retry}{216}{subsubsection.6.46.3.1}
+\contentsline {subsubsection}{\numberline {6.46.3.2}connect\discretionary {-}{}{}D\discretionary {-}{}{}B}{216}{subsubsection.6.46.3.2}
+\contentsline {subsubsection}{\numberline {6.46.3.3}create\discretionary {-}{}{}Indexes}{216}{subsubsection.6.46.3.3}
+\contentsline {subsubsection}{\numberline {6.46.3.4}create\discretionary {-}{}{}S\discretionary {-}{}{}Q\discretionary {-}{}{}Ldb}{217}{subsubsection.6.46.3.4}
+\contentsline {subsubsection}{\numberline {6.46.3.5}disconnect\discretionary {-}{}{}D\discretionary {-}{}{}B}{217}{subsubsection.6.46.3.5}
+\contentsline {subsubsection}{\numberline {6.46.3.6}disconnect\discretionary {-}{}{}D\discretionary {-}{}{}B2}{217}{subsubsection.6.46.3.6}
+\contentsline {subsubsection}{\numberline {6.46.3.7}get\discretionary {-}{}{}Allm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{217}{subsubsection.6.46.3.7}
+\contentsline {subsubsection}{\numberline {6.46.3.8}getall\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{218}{subsubsection.6.46.3.8}
+\contentsline {subsubsection}{\numberline {6.46.3.9}getall\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alength}{218}{subsubsection.6.46.3.9}
+\contentsline {subsubsection}{\numberline {6.46.3.10}get\discretionary {-}{}{}All\discretionary {-}{}{}Score}{218}{subsubsection.6.46.3.10}
+\contentsline {subsubsection}{\numberline {6.46.3.11}get\discretionary {-}{}{}All\discretionary {-}{}{}Soft}{219}{subsubsection.6.46.3.11}
+\contentsline {subsubsection}{\numberline {6.46.3.12}getalls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{219}{subsubsection.6.46.3.12}
+\contentsline {subsubsection}{\numberline {6.46.3.13}get\discretionary {-}{}{}Alls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aidby\discretionary {-}{}{}Intid}{219}{subsubsection.6.46.3.13}
+\contentsline {subsubsection}{\numberline {6.46.3.14}get\discretionary {-}{}{}Alls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{220}{subsubsection.6.46.3.14}
+\contentsline {subsubsection}{\numberline {6.46.3.15}getalls\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aname}{220}{subsubsection.6.46.3.15}
+\contentsline {subsubsection}{\numberline {6.46.3.16}getid\discretionary {-}{}{}Softsbyname}{221}{subsubsection.6.46.3.16}
+\contentsline {subsubsection}{\numberline {6.46.3.17}get\discretionary {-}{}{}Intbys\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aid}{221}{subsubsection.6.46.3.17}
+\contentsline {subsubsection}{\numberline {6.46.3.18}get\discretionary {-}{}{}Interact}{221}{subsubsection.6.46.3.18}
+\contentsline {subsubsection}{\numberline {6.46.3.19}getm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aby\discretionary {-}{}{}Intid}{222}{subsubsection.6.46.3.19}
+\contentsline {subsubsection}{\numberline {6.46.3.20}getm\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{222}{subsubsection.6.46.3.20}
+\contentsline {subsubsection}{\numberline {6.46.3.21}get\discretionary {-}{}{}Nb\discretionary {-}{}{}Interact}{222}{subsubsection.6.46.3.21}
+\contentsline {subsubsection}{\numberline {6.46.3.22}get\discretionary {-}{}{}Positionsby\discretionary {-}{}{}Intid}{223}{subsubsection.6.46.3.22}
+\contentsline {subsubsection}{\numberline {6.46.3.23}get\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{223}{subsubsection.6.46.3.23}
+\contentsline {subsubsection}{\numberline {6.46.3.24}get\discretionary {-}{}{}Score}{224}{subsubsection.6.46.3.24}
+\contentsline {subsubsection}{\numberline {6.46.3.25}get\discretionary {-}{}{}Soft}{224}{subsubsection.6.46.3.25}
+\contentsline {subsubsection}{\numberline {6.46.3.26}get\discretionary {-}{}{}Softname}{224}{subsubsection.6.46.3.26}
+\contentsline {subsubsection}{\numberline {6.46.3.27}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aby\discretionary {-}{}{}Intid}{225}{subsubsection.6.46.3.27}
+\contentsline {subsubsection}{\numberline {6.46.3.28}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Aidby\discretionary {-}{}{}Intid}{225}{subsubsection.6.46.3.28}
+\contentsline {subsubsection}{\numberline {6.46.3.29}gets\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}Alenby\discretionary {-}{}{}Intid}{225}{subsubsection.6.46.3.29}
+\contentsline {subsubsection}{\numberline {6.46.3.30}\discretionary {-}{}{}Index\discretionary {-}{}{}Interactid\discretionary {-}{}{}On\discretionary {-}{}{}Contact}{226}{subsubsection.6.46.3.30}
+\contentsline {subsubsection}{\numberline {6.46.3.31}\discretionary {-}{}{}Index\discretionary {-}{}{}Mrnaid\discretionary {-}{}{}On\discretionary {-}{}{}Interact}{226}{subsubsection.6.46.3.31}
+\contentsline {subsubsection}{\numberline {6.46.3.32}\discretionary {-}{}{}Index\discretionary {-}{}{}Srnaid\discretionary {-}{}{}On\discretionary {-}{}{}Interact}{226}{subsubsection.6.46.3.32}
+\contentsline {subsubsection}{\numberline {6.46.3.33}listit}{226}{subsubsection.6.46.3.33}
+\contentsline {subsubsection}{\numberline {6.46.3.34}listscore}{227}{subsubsection.6.46.3.34}
+\contentsline {subsubsection}{\numberline {6.46.3.35}set\discretionary {-}{}{}Contact}{227}{subsubsection.6.46.3.35}
+\contentsline {subsubsection}{\numberline {6.46.3.36}set\discretionary {-}{}{}Interact}{227}{subsubsection.6.46.3.36}
+\contentsline {subsubsection}{\numberline {6.46.3.37}set\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{228}{subsubsection.6.46.3.37}
+\contentsline {subsubsection}{\numberline {6.46.3.38}set\discretionary {-}{}{}Soft}{228}{subsubsection.6.46.3.38}
+\contentsline {subsection}{\numberline {6.46.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{228}{subsection.6.46.4}
+\contentsline {subsubsection}{\numberline {6.46.4.1}conn}{228}{subsubsection.6.46.4.1}
+\contentsline {subsubsection}{\numberline {6.46.4.2}conn2}{229}{subsubsection.6.46.4.2}
+\contentsline {subsubsection}{\numberline {6.46.4.3}cur}{229}{subsubsection.6.46.4.3}
+\contentsline {subsubsection}{\numberline {6.46.4.4}db\discretionary {-}{}{}\_\discretionary {-}{}{}file}{229}{subsubsection.6.46.4.4}
+\contentsline {subsubsection}{\numberline {6.46.4.5}db\discretionary {-}{}{}\_\discretionary {-}{}{}path}{229}{subsubsection.6.46.4.5}
+\contentsline {subsubsection}{\numberline {6.46.4.6}fastmode}{229}{subsubsection.6.46.4.6}
+\contentsline {section}{\numberline {6.47}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq\discretionary {-}{}{}:\discretionary {-}{}{}:s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}:\discretionary {-}{}{}:s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{229}{section.6.47}
+\contentsline {subsection}{\numberline {6.47.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{230}{subsection.6.47.1}
+\contentsline {subsection}{\numberline {6.47.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{230}{subsection.6.47.2}
+\contentsline {subsubsection}{\numberline {6.47.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{230}{subsubsection.6.47.2.1}
+\contentsline {subsection}{\numberline {6.47.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{230}{subsection.6.47.3}
+\contentsline {subsubsection}{\numberline {6.47.3.1}reads\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A}{230}{subsubsection.6.47.3.1}
+\contentsline {subsection}{\numberline {6.47.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{230}{subsection.6.47.4}
+\contentsline {subsubsection}{\numberline {6.47.4.1}s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}obj}{230}{subsubsection.6.47.4.1}
+\contentsline {subsubsection}{\numberline {6.47.4.2}srnareg}{230}{subsubsection.6.47.4.2}
+\contentsline {section}{\numberline {6.48}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Stat \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{231}{section.6.48}
+\contentsline {subsection}{\numberline {6.48.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{232}{subsection.6.48.1}
+\contentsline {subsection}{\numberline {6.48.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{232}{subsection.6.48.2}
+\contentsline {subsubsection}{\numberline {6.48.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{232}{subsubsection.6.48.2.1}
+\contentsline {subsection}{\numberline {6.48.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{232}{subsection.6.48.3}
+\contentsline {subsubsection}{\numberline {6.48.3.1}\discretionary {-}{}{}Close\discretionary {-}{}{}Seq\discretionary {-}{}{}Inf}{232}{subsubsection.6.48.3.1}
+\contentsline {subsubsection}{\numberline {6.48.3.2}\discretionary {-}{}{}Compute\discretionary {-}{}{}G\discretionary {-}{}{}C}{232}{subsubsection.6.48.3.2}
+\contentsline {subsubsection}{\numberline {6.48.3.3}\discretionary {-}{}{}Get\discretionary {-}{}{}G\discretionary {-}{}{}C}{232}{subsubsection.6.48.3.3}
+\contentsline {subsubsection}{\numberline {6.48.3.4}\discretionary {-}{}{}Get\discretionary {-}{}{}Len\discretionary {-}{}{}Seq}{232}{subsubsection.6.48.3.4}
+\contentsline {subsubsection}{\numberline {6.48.3.5}open\discretionary {-}{}{}Seq\discretionary {-}{}{}Inf}{233}{subsubsection.6.48.3.5}
+\contentsline {subsubsection}{\numberline {6.48.3.6}\discretionary {-}{}{}Seq\discretionary {-}{}{}Inf}{233}{subsubsection.6.48.3.6}
+\contentsline {subsection}{\numberline {6.48.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{233}{subsection.6.48.4}
+\contentsline {subsubsection}{\numberline {6.48.4.1}file}{233}{subsubsection.6.48.4.1}
+\contentsline {subsubsection}{\numberline {6.48.4.2}seqlen}{233}{subsubsection.6.48.4.2}
+\contentsline {section}{\numberline {6.49}irna\discretionary {-}{}{}:\discretionary {-}{}{}:i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Threshold\discretionary {-}{}{}:\discretionary {-}{}{}:\discretionary {-}{}{}Threshold \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{234}{section.6.49}
+\contentsline {subsection}{\numberline {6.49.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{235}{subsection.6.49.1}
+\contentsline {subsection}{\numberline {6.49.2}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{235}{subsection.6.49.2}
+\contentsline {subsubsection}{\numberline {6.49.2.1}\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}}{235}{subsubsection.6.49.2.1}
+\contentsline {subsection}{\numberline {6.49.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{235}{subsection.6.49.3}
+\contentsline {subsubsection}{\numberline {6.49.3.1}get\discretionary {-}{}{}Softnum}{235}{subsubsection.6.49.3.1}
+\contentsline {subsubsection}{\numberline {6.49.3.2}get\discretionary {-}{}{}Thresinf}{235}{subsubsection.6.49.3.2}
+\contentsline {subsection}{\numberline {6.49.4}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{235}{subsection.6.49.4}
+\contentsline {subsubsection}{\numberline {6.49.4.1}soft}{235}{subsubsection.6.49.4.1}
+\contentsline {subsubsection}{\numberline {6.49.4.2}threshold}{235}{subsubsection.6.49.4.2}
+\contentsline {chapter}{\numberline {7}\discretionary {-}{}{}File \discretionary {-}{}{}Documentation}{237}{chapter.7}
+\contentsline {section}{\numberline {7.1}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{237}{section.7.1}
+\contentsline {section}{\numberline {7.2}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{237}{section.7.2}
+\contentsline {section}{\numberline {7.3}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq/\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{237}{section.7.3}
+\contentsline {section}{\numberline {7.4}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}init\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{237}{section.7.4}
+\contentsline {section}{\numberline {7.5}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}David.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{238}{section.7.5}
+\contentsline {section}{\numberline {7.6}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}David2tulip.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{238}{section.7.6}
+\contentsline {section}{\numberline {7.7}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Davidconfig.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{238}{section.7.7}
+\contentsline {section}{\numberline {7.8}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Edge.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{239}{section.7.8}
+\contentsline {section}{\numberline {7.9}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Files.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{239}{section.7.9}
+\contentsline {section}{\numberline {7.10}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Files.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{239}{section.7.10}
+\contentsline {section}{\numberline {7.11}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq/\discretionary {-}{}{}Files.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{239}{section.7.11}
+\contentsline {section}{\numberline {7.12}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Files.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{240}{section.7.12}
+\contentsline {section}{\numberline {7.13}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Gene\discretionary {-}{}{}\_\discretionary {-}{}{}list.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{240}{section.7.13}
+\contentsline {section}{\numberline {7.14}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Graph.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{240}{section.7.14}
+\contentsline {section}{\numberline {7.15}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Interact.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{241}{section.7.15}
+\contentsline {section}{\numberline {7.16}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Multilist.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{241}{section.7.16}
+\contentsline {section}{\numberline {7.17}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Mycarn\discretionary {-}{}{}\_\discretionary {-}{}{}data.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{241}{section.7.17}
+\contentsline {section}{\numberline {7.18}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Name.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{242}{section.7.18}
+\contentsline {section}{\numberline {7.19}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Node.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{242}{section.7.19}
+\contentsline {section}{\numberline {7.20}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Parser.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{242}{section.7.20}
+\contentsline {section}{\numberline {7.21}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Parser.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{242}{section.7.21}
+\contentsline {section}{\numberline {7.22}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/p\discretionary {-}{}{}Value.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{243}{section.7.22}
+\contentsline {section}{\numberline {7.23}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/p\discretionary {-}{}{}Value.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{243}{section.7.23}
+\contentsline {section}{\numberline {7.24}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Similarity.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{243}{section.7.24}
+\contentsline {section}{\numberline {7.25}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/\discretionary {-}{}{}David2tulip/\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{244}{section.7.25}
+\contentsline {section}{\numberline {7.26}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{244}{section.7.26}
+\contentsline {section}{\numberline {7.27}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Sqlite\discretionary {-}{}{}\_\discretionary {-}{}{}manager.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{244}{section.7.27}
+\contentsline {section}{\numberline {7.28}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Comparison.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{244}{section.7.28}
+\contentsline {section}{\numberline {7.29}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Fasta.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{245}{section.7.29}
+\contentsline {section}{\numberline {7.30}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Interaction.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{245}{section.7.30}
+\contentsline {section}{\numberline {7.31}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Interaction.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{245}{section.7.31}
+\contentsline {section}{\numberline {7.32}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{246}{section.7.32}
+\contentsline {section}{\numberline {7.33}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Merger.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{246}{section.7.33}
+\contentsline {section}{\numberline {7.34}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Mpi.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{246}{section.7.34}
+\contentsline {section}{\numberline {7.35}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Mpi.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{247}{section.7.35}
+\contentsline {section}{\numberline {7.36}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Parse.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{247}{section.7.36}
+\contentsline {section}{\numberline {7.37}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Ran\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{247}{section.7.37}
+\contentsline {section}{\numberline {7.38}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}pred/\discretionary {-}{}{}Stat.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{248}{section.7.38}
+\contentsline {section}{\numberline {7.39}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq/\discretionary {-}{}{}Genbank.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{248}{section.7.39}
+\contentsline {section}{\numberline {7.40}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{248}{section.7.40}
+\contentsline {section}{\numberline {7.41}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq/\discretionary {-}{}{}Sequences.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{249}{section.7.41}
+\contentsline {section}{\numberline {7.42}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}seq/s\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{249}{section.7.42}
+\contentsline {section}{\numberline {7.43}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Analysis.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{249}{section.7.43}
+\contentsline {section}{\numberline {7.44}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Communication.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{249}{section.7.44}
+\contentsline {section}{\numberline {7.45}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Computer.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{250}{section.7.45}
+\contentsline {section}{\numberline {7.46}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Draw\discretionary {-}{}{}\_\discretionary {-}{}{}data.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{250}{section.7.46}
+\contentsline {section}{\numberline {7.47}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Ecdf.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{250}{section.7.47}
+\contentsline {section}{\numberline {7.48}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Execute.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{251}{section.7.48}
+\contentsline {section}{\numberline {7.49}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Exp\discretionary {-}{}{}\_\discretionary {-}{}{}data.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{251}{section.7.49}
+\contentsline {section}{\numberline {7.50}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{251}{section.7.50}
+\contentsline {section}{\numberline {7.51}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Norm\discretionary {-}{}{}Score.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{252}{section.7.51}
+\contentsline {section}{\numberline {7.52}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Pickling.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{252}{section.7.52}
+\contentsline {section}{\numberline {7.53}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/p\discretionary {-}{}{}Value\discretionary {-}{}{}\_\discretionary {-}{}{}selection.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{252}{section.7.53}
+\contentsline {section}{\numberline {7.54}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Rand\discretionary {-}{}{}\_\discretionary {-}{}{}data.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{252}{section.7.54}
+\contentsline {section}{\numberline {7.55}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Regression.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{253}{section.7.55}
+\contentsline {section}{\numberline {7.56}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Soft.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{253}{section.7.56}
+\contentsline {section}{\numberline {7.57}/home/amine/workspace/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A/irna/i\discretionary {-}{}{}R\discretionary {-}{}{}N\discretionary {-}{}{}A\discretionary {-}{}{}\_\discretionary {-}{}{}stat/\discretionary {-}{}{}Threshold.py \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{253}{section.7.57}

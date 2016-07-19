@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title></title>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="search.css"/>
+<script type="text/javascript" src="search.js"></script>
+</head>
+<body class="SRPage">
+<div id="SRIndex">
+<div class="SRStatus" id="Loading">Loading...</div>
+<div class="SRResult" id="SR_data_5fformat">
+ <div class="SREntry">
+  <a id="Item0" onkeydown="return searchResults.Nav(event,0)" onkeypress="return searchResults.Nav(event,0)" onkeyup="return searchResults.Nav(event,0)" class="SRSymbol" href="javascript:searchResults.Toggle('SR_data_5fformat')">data_format</a>
+  <div class="SRChildren">
+    <a id="Item0_c0" onkeydown="return searchResults.NavChild(event,0,0)" onkeypress="return searchResults.NavChild(event,0,0)" onkeyup="return searchResults.NavChild(event,0,0)" class="SRScope" href="../classDavid2tulip_1_1Files_1_1Files.html#a74356fae6dc70b537a860dfbea2caa9f" target="_parent">David2tulip::Files::Files::data_format()</a>
+    <a id="Item0_c1" onkeydown="return searchResults.NavChild(event,0,1)" onkeypress="return searchResults.NavChild(event,0,1)" onkeyup="return searchResults.NavChild(event,0,1)" class="SRScope" href="../classiRNA__pred_1_1Files_1_1Files.html#a54563eb72ae2ba5fa0cbfbfb11dc3e31" target="_parent">iRNA_pred::Files::Files::data_format()</a>
+    <a id="Item0_c2" onkeydown="return searchResults.NavChild(event,0,2)" onkeypress="return searchResults.NavChild(event,0,2)" onkeyup="return searchResults.NavChild(event,0,2)" class="SRScope" href="../classiRNA__stat_1_1Files_1_1Files.html#a759b798421e31938a226b507b99060ae" target="_parent">iRNA_stat::Files::Files::data_format()</a>
+  </div>
+ </div>
+</div>
+<div class="SRResult" id="SR_davidconnection">
+ <div class="SREntry">
+  <a id="Item1" onkeydown="return searchResults.Nav(event,1)" onkeypress="return searchResults.Nav(event,1)" onkeyup="return searchResults.Nav(event,1)" class="SRSymbol" href="../classDavid2tulip_1_1David_1_1David.html#abab149bce74bafafac5d6255b6c57a5f" target="_parent">davidConnection</a>
+  <span class="SRScope">David2tulip::David::David</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_defintefunction">
+ <div class="SREntry">
+  <a id="Item2" onkeydown="return searchResults.Nav(event,2)" onkeypress="return searchResults.Nav(event,2)" onkeyup="return searchResults.Nav(event,2)" class="SRSymbol" href="../classiRNA__stat_1_1Interaction_1_1Interaction.html#a3d64b947b2e30140767277368dbaf825" target="_parent">defintefunction</a>
+  <span class="SRScope">iRNA_stat::Interaction::Interaction</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_defnormfunction">
+ <div class="SREntry">
+  <a id="Item3" onkeydown="return searchResults.Nav(event,3)" onkeypress="return searchResults.Nav(event,3)" onkeyup="return searchResults.Nav(event,3)" class="SRSymbol" href="../classiRNA__stat_1_1NormScore_1_1NormScore.html#aa600f8ab5fdb76c41c0ba5a899c230a7" target="_parent">defnormfunction</a>
+  <span class="SRScope">iRNA_stat::NormScore::NormScore</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_disconnectdb">
+ <div class="SREntry">
+  <a id="Item4" onkeydown="return searchResults.Nav(event,4)" onkeypress="return searchResults.Nav(event,4)" onkeyup="return searchResults.Nav(event,4)" class="SRSymbol" href="../classiRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager.html#a30ecaea2e6f64ae9196086539245c1d2" target="_parent">disconnectDB</a>
+  <span class="SRScope">iRNA_pred::Sqlite_manager::Sqlite_manager</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_disconnectdb2">
+ <div class="SREntry">
+  <a id="Item5" onkeydown="return searchResults.Nav(event,5)" onkeypress="return searchResults.Nav(event,5)" onkeyup="return searchResults.Nav(event,5)" class="SRSymbol" href="../classiRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager.html#a2f1cf641cc8a0f60bf8dc6174fe92088" target="_parent">disconnectDB2</a>
+  <span class="SRScope">iRNA_pred::Sqlite_manager::Sqlite_manager</span>
+ </div>
+</div>
+<div class="SRStatus" id="Searching">Searching...</div>
+<div class="SRStatus" id="NoMatches">No Matches</div>
+<script type="text/javascript"><!--
+document.getElementById("Loading").style.display="none";
+document.getElementById("NoMatches").style.display="none";
+var searchResults = new SearchResults("searchResults");
+searchResults.Search();
+--></script>
+</div>
+</body>
+</html>

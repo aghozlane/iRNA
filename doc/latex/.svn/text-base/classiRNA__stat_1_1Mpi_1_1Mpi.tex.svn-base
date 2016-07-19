@@ -1,0 +1,235 @@
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi}{
+\section{i\-R\-N\-A\-\_\-stat\-:\-:\-Mpi\-:\-:\-Mpi \-Class \-Reference}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi}\index{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}}
+}
+
+
+\-: \-Manage \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi}{\-Mpi} run  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_af89b752b0452697c2535286295b9ae85}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-The \-Constructor. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_aef02a58ffc6e26983e21b9675ca226b0}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_aef02a58ffc6e26983e21b9675ca226b0}{waiting}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_aef02a58ffc6e26983e21b9675ca226b0}
+
+\begin{DoxyCompactList}\small\item\em \-Test de reduction de consommation de ressource. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a1071f9d866a76bc5285bec0f13f2d351}{instanciate\-\_\-analysis}
+\begin{DoxyCompactList}\small\item\em \-Instanciate object of analysis. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_adf013ffb7dfb10fb005780aafa80de4a}{worker}
+\begin{DoxyCompactList}\small\item\em \-Worker process. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a289280f94a7380e2db08a349f08fda94}{working\-\_\-step}
+\begin{DoxyCompactList}\small\item\em \-Defines what each worker will compute. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a6a9c7dcfae5e31ec58443cdfbc74e530}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a6a9c7dcfae5e31ec58443cdfbc74e530}{get\-Corresponding\-Soft}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a6a9c7dcfae5e31ec58443cdfbc74e530}
+
+\begin{DoxyCompactList}\small\item\em \-Get corresponding soft between soft\-\_\-param and current database. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a8104d6d596ceab0bccf0cffbd35ef936}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a8104d6d596ceab0bccf0cffbd35ef936}{get\-Send\-Com}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a8104d6d596ceab0bccf0cffbd35ef936}
+
+\begin{DoxyCompactList}\small\item\em \-Create communication object. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_ab973a65afc4f886325fcb2df600426bf}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_ab973a65afc4f886325fcb2df600426bf}{\-Mpi\-\_\-end\-\_\-processus}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_ab973a65afc4f886325fcb2df600426bf}
+
+\begin{DoxyCompactList}\small\item\em \-End of all process. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a5a264305a7e12f8f3a5509d41d3e49f6}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a5a264305a7e12f8f3a5509d41d3e49f6}{\-Mpi\-\_\-finalize}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a5a264305a7e12f8f3a5509d41d3e49f6}
+
+\begin{DoxyCompactList}\small\item\em \-Fin. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_ab198fa887d955aec6a9a798dc1462180}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_ab198fa887d955aec6a9a798dc1462180}{get\-Norm\-Score}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_ab198fa887d955aec6a9a798dc1462180}
+
+\begin{DoxyCompactList}\small\item\em \-Get results of score normalisation. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a0f0b1b2a1e6faf0b17bdccabef0ee45d}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a0f0b1b2a1e6faf0b17bdccabef0ee45d}{get\-Interaction}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a0f0b1b2a1e6faf0b17bdccabef0ee45d}
+
+\begin{DoxyCompactList}\small\item\em \-Get results of the interaction analysis. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_ae2e4c8f1ad6d438d0a8ec4576233efbc}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_ae2e4c8f1ad6d438d0a8ec4576233efbc}{get\-Interaction\-\_\-data}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_ae2e4c8f1ad6d438d0a8ec4576233efbc}
+
+\begin{DoxyCompactList}\small\item\em \-Get results of the interaction analysis. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a0c69eb253d79f7a78f9e1df7f9d085cb}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a0c69eb253d79f7a78f9e1df7f9d085cb}{getp\-Value}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a0c69eb253d79f7a78f9e1df7f9d085cb}
+
+\begin{DoxyCompactList}\small\item\em \-Get results of p\-Value analysis. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a8d693fa446d3a25bae1e29eece587d4c}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a8d693fa446d3a25bae1e29eece587d4c}{get\-Regression}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a8d693fa446d3a25bae1e29eece587d4c}
+
+\begin{DoxyCompactList}\small\item\em \-Get results of linear regression. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a99466f44c421c03f4c253b19f3bc19cc}{
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a99466f44c421c03f4c253b19f3bc19cc}{get\-Analysis}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a99466f44c421c03f4c253b19f3bc19cc}
+
+\begin{DoxyCompactList}\small\item\em \-Get the analysis function to apply. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi_a1ff150809fcb2d512af9be3679de8424}{run}
+\begin{DoxyCompactList}\small\item\em \-Manage comunication and data sending. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_ae7d6fc5e56b69a52791a2dbd9938913a}{
+{\bfseries comm}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_ae7d6fc5e56b69a52791a2dbd9938913a}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a2cc181cd52800eb0c19e7cfb83a32dbc}{
+{\bfseries nprocs}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a2cc181cd52800eb0c19e7cfb83a32dbc}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_aa20bdf6fa76e6615dd3122e3836ce93d}{
+{\bfseries myrank}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_aa20bdf6fa76e6615dd3122e3836ce93d}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_adca40c7f4d72c171d6f6c432982ff118}{
+{\bfseries name}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_adca40c7f4d72c171d6f6c432982ff118}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_afd9e8eaf03683b5cb71f063ed439b38a}{
+{\bfseries setdata}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_afd9e8eaf03683b5cb71f063ed439b38a}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Manage \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi}{\-Mpi} run 
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_af89b752b0452697c2535286295b9ae85}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!iRNA_stat::Mpi::Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_af89b752b0452697c2535286295b9ae85}
+
+
+\-The \-Constructor. 
+
+\begin{DoxyNote}{\-Note}
+comm\-: \-Broadcast communicator 
+
+nprocs\-: \-Number of thread 
+
+myrank\-: \-Rank of the thread 
+\end{DoxyNote}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a1071f9d866a76bc5285bec0f13f2d351}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}!instanciate\-\_\-analysis@{instanciate\-\_\-analysis}}
+\index{instanciate\-\_\-analysis@{instanciate\-\_\-analysis}!iRNA_stat::Mpi::Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{instanciate\-\_\-analysis}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi\-::instanciate\-\_\-analysis (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data\-\_\-obj, }
+\item[{}]{dbmanage, }
+\item[{}]{exp\-\_\-inf, }
+\item[{}]{rand\-\_\-inf}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a1071f9d866a76bc5285bec0f13f2d351}
+
+
+\-Instanciate object of analysis. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data\-\_\-obj,\-:} & \-Comunication object \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+{\em exp\-\_\-inf,\-:} & \-Experimental data \\
+\hline
+{\em rand\-\_\-inf,\-:} & \-Random data \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a1ff150809fcb2d512af9be3679de8424}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}!run@{run}}
+\index{run@{run}!iRNA_stat::Mpi::Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{run}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi\-::run (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{computer, }
+\item[{}]{type\-\_\-analysis, }
+\item[{}]{dbmanage = {\ttfamily \-None}, }
+\item[{}]{rand\-\_\-inf = {\ttfamily \-None}}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a1ff150809fcb2d512af9be3679de8424}
+
+
+\-Manage comunication and data sending. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em computer,\-:} & \-Computer object \\
+\hline
+{\em type\-\_\-analysis,\-:} & \-Type of analysis \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_adf013ffb7dfb10fb005780aafa80de4a}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}!worker@{worker}}
+\index{worker@{worker}!iRNA_stat::Mpi::Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{worker}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi\-::worker (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{dbmanage, }
+\item[{}]{exp\-\_\-inf, }
+\item[{}]{rand\-\_\-inf}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_adf013ffb7dfb10fb005780aafa80de4a}
+
+
+\-Worker process. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+{\em exp\-\_\-inf,\-:} & \-Experimental data \\
+\hline
+{\em rand\-\_\-inf,\-:} & \-Random data \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__stat_1_1Mpi_1_1Mpi_a289280f94a7380e2db08a349f08fda94}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}!working\-\_\-step@{working\-\_\-step}}
+\index{working\-\_\-step@{working\-\_\-step}!iRNA_stat::Mpi::Mpi@{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{working\-\_\-step}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi\-::working\-\_\-step (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{nbinteract}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Mpi_1_1Mpi_a289280f94a7380e2db08a349f08fda94}
+
+
+\-Defines what each worker will compute. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em nbinteract,\-:} & \-Number of operation to do \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-stat/\-Mpi.\-py\end{DoxyCompactItemize}

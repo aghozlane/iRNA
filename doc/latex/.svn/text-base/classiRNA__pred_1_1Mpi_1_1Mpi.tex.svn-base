@@ -1,0 +1,334 @@
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi}{
+\section{i\-R\-N\-A\-\_\-pred\-:\-:\-Mpi\-:\-:\-Mpi \-Class \-Reference}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi}\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+}
+
+
+\-: \-Manage \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi}{\-Mpi} run  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_af23343f124040987f08fdb8ddc4fb8c6}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-The \-Constructor. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_a4c05a04c49cee3b3537ba2cc78c86946}{\-Mpi\-\_\-get\-Comm}
+\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_a1b87655cc484b29d7f6b503ec97a350e}{\-Mpi\-\_\-getnprocs}
+\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_a7c26b7811e7e70b1517b2a80de44022b}{\-Mpi\-\_\-getmyrank}
+\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_adfc9a4db5680f8b92489445c15132d3e}{\-Mpi\-\_\-getname}
+\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_a4b1c121b14157cdd75cb819016ac9714}{\-Mpi\-\_\-write\-\_\-exectime}
+\begin{DoxyCompactList}\small\item\em \-Write exectime of command. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_ac3966c6fd5a3600b07b13daac6536ced}{\-Mpi\-\_\-master}
+\begin{DoxyCompactList}\small\item\em \-Master process. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_a99f9ba5980863886076b951748067ab8}{\-Mpi\-\_\-sup\-\_\-process}
+\begin{DoxyCompactList}\small\item\em \-Termine les processus supplementaire. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_adbca263109d1cb40e9e400bf08c4c927}{\-Mpi\-\_\-get\-Soft}
+\begin{DoxyCompactList}\small\item\em \-Test if that soft has already been used. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_acfd65eaf65ff8dee5f6ce704f20c401c}{\-Mpi\-\_\-write\-\_\-data}
+\begin{DoxyCompactList}\small\item\em \-Write xml result file. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_ae76413ae4c8dba05b213132101caa5f9}{\-Mpi\-\_\-slave}
+\begin{DoxyCompactList}\small\item\em \-Slave process. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a9ace35efb412fdc4501601be60b14fa7}{
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_a9ace35efb412fdc4501601be60b14fa7}{\-Mpi\-\_\-exit\-\_\-processus}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a9ace35efb412fdc4501601be60b14fa7}
+
+\begin{DoxyCompactList}\small\item\em \-End of all process. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_aab02621211dc0fbf29aea419cb239fe8}{
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_aab02621211dc0fbf29aea419cb239fe8}{\-Mpi\-\_\-end\-\_\-processus}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_aab02621211dc0fbf29aea419cb239fe8}
+
+\begin{DoxyCompactList}\small\item\em \-End of all process. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a7c237ccc2edf209ae69d75c5c78d7910}{
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_a7c237ccc2edf209ae69d75c5c78d7910}{\-Mpi\-\_\-finalize}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a7c237ccc2edf209ae69d75c5c78d7910}
+
+\begin{DoxyCompactList}\small\item\em \-Fin. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi_a8260f695704f3e8718c23defc240c341}{\-Mpi\-\_\-run}
+\begin{DoxyCompactList}\small\item\em \-Control \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi}{\-Mpi} procedure. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_ab152d6354197cd0bce23c8a09e6eec2d}{
+{\bfseries comm}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_ab152d6354197cd0bce23c8a09e6eec2d}
+
+\item 
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_ae8b9a48f07a5dbc91a5a209fbab30e60}{
+{\bfseries nprocs}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_ae8b9a48f07a5dbc91a5a209fbab30e60}
+
+\item 
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a6e05e67a89d7f16b5cec067be72eff3b}{
+{\bfseries myrank}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a6e05e67a89d7f16b5cec067be72eff3b}
+
+\item 
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a5728917ceabdb392b25d6630f6ec0cb3}{
+{\bfseries name}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a5728917ceabdb392b25d6630f6ec0cb3}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Manage \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi}{\-Mpi} run 
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_af23343f124040987f08fdb8ddc4fb8c6}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_af23343f124040987f08fdb8ddc4fb8c6}
+
+
+\-The \-Constructor. 
+
+\begin{DoxyNote}{\-Note}
+comm\-: \-Broadcast communicator 
+
+nprocs\-: \-Number of thread 
+
+myrank\-: \-Rank of the thread 
+\end{DoxyNote}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a4c05a04c49cee3b3537ba2cc78c86946}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-get\-Comm@{\-Mpi\-\_\-get\-Comm}}
+\index{\-Mpi\-\_\-get\-Comm@{\-Mpi\-\_\-get\-Comm}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-get\-Comm}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-get\-Comm (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a4c05a04c49cee3b3537ba2cc78c86946}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Communicator 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a7c26b7811e7e70b1517b2a80de44022b}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-getmyrank@{\-Mpi\-\_\-getmyrank}}
+\index{\-Mpi\-\_\-getmyrank@{\-Mpi\-\_\-getmyrank}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-getmyrank}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-getmyrank (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a7c26b7811e7e70b1517b2a80de44022b}
+\begin{DoxyReturn}{\-Returns}
+\-: \-The rank value 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_adfc9a4db5680f8b92489445c15132d3e}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-getname@{\-Mpi\-\_\-getname}}
+\index{\-Mpi\-\_\-getname@{\-Mpi\-\_\-getname}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-getname}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-getname (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_adfc9a4db5680f8b92489445c15132d3e}
+\begin{DoxyReturn}{\-Returns}
+\-: \-The name 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a1b87655cc484b29d7f6b503ec97a350e}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-getnprocs@{\-Mpi\-\_\-getnprocs}}
+\index{\-Mpi\-\_\-getnprocs@{\-Mpi\-\_\-getnprocs}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-getnprocs}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-getnprocs (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a1b87655cc484b29d7f6b503ec97a350e}
+\begin{DoxyReturn}{\-Returns}
+\-: \-The number of processor 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_adbca263109d1cb40e9e400bf08c4c927}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-get\-Soft@{\-Mpi\-\_\-get\-Soft}}
+\index{\-Mpi\-\_\-get\-Soft@{\-Mpi\-\_\-get\-Soft}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-get\-Soft}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-get\-Soft (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{soft\-\_\-list, }
+\item[{}]{soft\-\_\-name}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_adbca263109d1cb40e9e400bf08c4c927}
+
+
+\-Test if that soft has already been used. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em soft\-\_\-list,\-:} & \-List of soft already used \\
+\hline
+{\em soft\-\_\-name,\-:} & \-Soft name \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: soft file name 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_ac3966c6fd5a3600b07b13daac6536ced}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-master@{\-Mpi\-\_\-master}}
+\index{\-Mpi\-\_\-master@{\-Mpi\-\_\-master}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-master}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-master (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{soft\-\_\-list, }
+\item[{}]{comp\-\_\-list, }
+\item[{}]{result\-\_\-out, }
+\item[{}]{matrix, }
+\item[{}]{compair}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_ac3966c6fd5a3600b07b13daac6536ced}
+
+
+\-Master process. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em soft\-\_\-list,\-:} & \-List of soft \\
+\hline
+{\em comp\-\_\-list,\-:} & \-List of comparison \\
+\hline
+{\em result\-\_\-out,\-:} & \-Result repertory \\
+\hline
+{\em matrix,\-:} & \-Matrix file \\
+\hline
+{\em compair,\-:} & \-Comparison object \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a8260f695704f3e8718c23defc240c341}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-run@{\-Mpi\-\_\-run}}
+\index{\-Mpi\-\_\-run@{\-Mpi\-\_\-run}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-run}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-run (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{predict, }
+\item[{}]{compair}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a8260f695704f3e8718c23defc240c341}
+
+
+\-Control \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi}{\-Mpi} procedure. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em predict,\-:} & \-List of data for comparison \\
+\hline
+{\em compair,\-:} & \-Comparaison object \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_ae76413ae4c8dba05b213132101caa5f9}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-slave@{\-Mpi\-\_\-slave}}
+\index{\-Mpi\-\_\-slave@{\-Mpi\-\_\-slave}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-slave}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-slave (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{result\-\_\-out, }
+\item[{}]{buffer\-\_\-size, }
+\item[{}]{compair}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_ae76413ae4c8dba05b213132101caa5f9}
+
+
+\-Slave process. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em compair,\-:} & \-Comparison object \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a99f9ba5980863886076b951748067ab8}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-sup\-\_\-process@{\-Mpi\-\_\-sup\-\_\-process}}
+\index{\-Mpi\-\_\-sup\-\_\-process@{\-Mpi\-\_\-sup\-\_\-process}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-sup\-\_\-process}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-sup\-\_\-process (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{status, }
+\item[{}]{j, }
+\item[{}]{max\-\_\-comparison}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a99f9ba5980863886076b951748067ab8}
+
+
+\-Termine les processus supplementaire. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em status,\-:} & \\
+\hline
+{\em j,\-:} & \\
+\hline
+{\em max\-\_\-files,\-:} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_acfd65eaf65ff8dee5f6ce704f20c401c}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-write\-\_\-data@{\-Mpi\-\_\-write\-\_\-data}}
+\index{\-Mpi\-\_\-write\-\_\-data@{\-Mpi\-\_\-write\-\_\-data}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-write\-\_\-data}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-write\-\_\-data (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{result\-\_\-data, }
+\item[{}]{result\-\_\-out, }
+\item[{}]{soft\-\_\-name, }
+\item[{}]{ref, }
+\item[{}]{thread, }
+\item[{}]{part}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_acfd65eaf65ff8dee5f6ce704f20c401c}
+
+
+\-Write xml result file. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em result\-\_\-data,\-:} & \-Interact object \\
+\hline
+{\em result\-\_\-out,\-:} & \-Result repertory \\
+\hline
+{\em soft\-\_\-name,\-:} & \-Software name \\
+\hline
+{\em ref,\-:} & \-Number of the ref \\
+\hline
+{\em part,\-:} & \-Number of the part \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Mpi_1_1Mpi_a4b1c121b14157cdd75cb819016ac9714}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}!\-Mpi\-\_\-write\-\_\-exectime@{\-Mpi\-\_\-write\-\_\-exectime}}
+\index{\-Mpi\-\_\-write\-\_\-exectime@{\-Mpi\-\_\-write\-\_\-exectime}!iRNA_pred::Mpi::Mpi@{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi}}
+\subsubsection[{\-Mpi\-\_\-write\-\_\-exectime}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi\-::\-Mpi\-\_\-write\-\_\-exectime (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{exec\-\_\-time, }
+\item[{}]{result\-\_\-out}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Mpi_1_1Mpi_a4b1c121b14157cdd75cb819016ac9714}
+
+
+\-Write exectime of command. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em exec\-\_\-time,\-:} & \-Tab of execution time for each command \\
+\hline
+{\em result\-\_\-out,\-:} & \-Result repertory \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-pred/\-Mpi.\-py\end{DoxyCompactItemize}

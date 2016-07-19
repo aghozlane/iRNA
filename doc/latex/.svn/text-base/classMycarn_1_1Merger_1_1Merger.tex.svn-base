@@ -1,0 +1,169 @@
+\hypertarget{classMycarn_1_1Merger_1_1Merger}{
+\section{\-Mycarn\-:\-:\-Merger\-:\-:\-Merger \-Class \-Reference}
+\label{classMycarn_1_1Merger_1_1Merger}\index{\-Mycarn\-::\-Merger\-::\-Merger@{\-Mycarn\-::\-Merger\-::\-Merger}}
+}
+
+
+\-Merge the xml files in a sqlite database.  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classMycarn_1_1Merger_1_1Merger_a0c6459db35c6bf184a50ba56139023f6}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Initiate the constructor. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1Merger_1_1Merger_a2b553423ebf86c4f63958249ea938412}{build\-Tree}
+\begin{DoxyCompactList}\small\item\em \-Read the xml tree and copy the data into the sqlite database. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1Merger_1_1Merger_a874152f005a47caf6c5941ee88e805da}{get\-Data}
+\begin{DoxyCompactList}\small\item\em \-Parse xml tree. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1Merger_1_1Merger_a3103908c1c06ab1b8233c1f13b03c8fd}{set\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Parse \-R\-N\-A\-\_\-inf file. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1Merger_1_1Merger_a6a489d7ae7fea95a2cbf0dcc04111d62}{merge}
+\begin{DoxyCompactList}\small\item\em \-Merge mycarn xml files into a sqlite database. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a8611d97ce681ad8e1a3755d48ee1a5a0}{
+{\bfseries rep\-In}}
+\label{classMycarn_1_1Merger_1_1Merger_a8611d97ce681ad8e1a3755d48ee1a5a0}
+
+\item 
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a8334a473804a56ad00cf9738f7312272}{
+{\bfseries files}}
+\label{classMycarn_1_1Merger_1_1Merger_a8334a473804a56ad00cf9738f7312272}
+
+\item 
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a5bfca3116be5ea55f053d0671455752b}{
+{\bfseries softprevious}}
+\label{classMycarn_1_1Merger_1_1Merger_a5bfca3116be5ea55f053d0671455752b}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a36cef89bf865aa412c398c0c1f179123}{
+tuple {\bfseries result\-\_\-data} = etree.\-Element(\char`\"{}result\char`\"{})}
+\label{classMycarn_1_1Merger_1_1Merger_a36cef89bf865aa412c398c0c1f179123}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-Merge the xml files in a sqlite database. 
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a0c6459db35c6bf184a50ba56139023f6}{
+\index{\-Mycarn\-::\-Merger\-::\-Merger@{\-Mycarn\-::\-Merger\-::\-Merger}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!Mycarn::Merger::Merger@{\-Mycarn\-::\-Merger\-::\-Merger}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Merger\-::\-Merger\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{rep\-In}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1Merger_1_1Merger_a0c6459db35c6bf184a50ba56139023f6}
+
+
+\-Initiate the constructor. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em rep\-In,\-:} & \-Result repertory \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a2b553423ebf86c4f63958249ea938412}{
+\index{\-Mycarn\-::\-Merger\-::\-Merger@{\-Mycarn\-::\-Merger\-::\-Merger}!build\-Tree@{build\-Tree}}
+\index{build\-Tree@{build\-Tree}!Mycarn::Merger::Merger@{\-Mycarn\-::\-Merger\-::\-Merger}}
+\subsubsection[{build\-Tree}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Merger\-::\-Merger\-::build\-Tree (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{tree, }
+\item[{}]{dbmanage}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1Merger_1_1Merger_a2b553423ebf86c4f63958249ea938412}
+
+
+\-Read the xml tree and copy the data into the sqlite database. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em tree,\-:} & xml tree parsed \\
+\hline
+{\em dbmanage,\-:} & \-Database manager \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a874152f005a47caf6c5941ee88e805da}{
+\index{\-Mycarn\-::\-Merger\-::\-Merger@{\-Mycarn\-::\-Merger\-::\-Merger}!get\-Data@{get\-Data}}
+\index{get\-Data@{get\-Data}!Mycarn::Merger::Merger@{\-Mycarn\-::\-Merger\-::\-Merger}}
+\subsubsection[{get\-Data}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Merger\-::\-Merger\-::get\-Data (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{file}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1Merger_1_1Merger_a874152f005a47caf6c5941ee88e805da}
+
+
+\-Parse xml tree. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em file,\-:} & \-Result part in \-Xml format \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: resulting tree 
+\end{DoxyReturn}
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a6a489d7ae7fea95a2cbf0dcc04111d62}{
+\index{\-Mycarn\-::\-Merger\-::\-Merger@{\-Mycarn\-::\-Merger\-::\-Merger}!merge@{merge}}
+\index{merge@{merge}!Mycarn::Merger::Merger@{\-Mycarn\-::\-Merger\-::\-Merger}}
+\subsubsection[{merge}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Merger\-::\-Merger\-::merge (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{dbmanage}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1Merger_1_1Merger_a6a489d7ae7fea95a2cbf0dcc04111d62}
+
+
+\-Merge mycarn xml files into a sqlite database. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em dbmanage,\-:} & \-Database manager \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn_1_1Merger_1_1Merger_a3103908c1c06ab1b8233c1f13b03c8fd}{
+\index{\-Mycarn\-::\-Merger\-::\-Merger@{\-Mycarn\-::\-Merger\-::\-Merger}!set\-R\-N\-A@{set\-R\-N\-A}}
+\index{set\-R\-N\-A@{set\-R\-N\-A}!Mycarn::Merger::Merger@{\-Mycarn\-::\-Merger\-::\-Merger}}
+\subsubsection[{set\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Merger\-::\-Merger\-::set\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{dbmanage, }
+\item[{}]{\-R\-N\-A\-\_\-inf, }
+\item[{}]{type}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1Merger_1_1Merger_a3103908c1c06ab1b8233c1f13b03c8fd}
+
+
+\-Parse \-R\-N\-A\-\_\-inf file. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-R\-N\-A\-\_\-inf,\-:} & \-Path to \-R\-N\-A\-\_\-inf file \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+{\em type,\-:} & \-Type of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn/\-Merger.\-py\end{DoxyCompactItemize}

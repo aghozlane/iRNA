@@ -1,0 +1,189 @@
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA}{
+\section{i\-R\-N\-A\-\_\-pred\-:\-:\-Ran\-R\-N\-A\-:\-:\-Ran\-R\-N\-A \-Class \-Reference}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA}\index{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+}
+
+
+\-: \-Generate \-Random \-Sequences  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__pred_1_1RanRNA_1_1RanRNA_a0e33c598dec1e6bf38382910431a7342}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\item 
+def \hyperlink{classiRNA__pred_1_1RanRNA_1_1RanRNA_af11a9129381c1fbf5139aa02c0962a4f}{\-Get\-Values}
+\begin{DoxyCompactList}\small\item\em \-Get double random values. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1RanRNA_1_1RanRNA_a16c6669356a20bdeca4bac78d858d663}{\-Get\-Int\-Values}
+\begin{DoxyCompactList}\small\item\em \-Get integer random values. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1RanRNA_1_1RanRNA_ae5a459f8aa33f28fa06e5f61f928e9d8}{\-Set\-Letters}
+\begin{DoxyCompactList}\small\item\em \-Set the nucleotide. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1RanRNA_1_1RanRNA_a7205c0e07c5aeb0d2bcb3cbbab6d9485}{\-Generate\-Seq}
+\begin{DoxyCompactList}\small\item\em \-Generate a random sequence. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1RanRNA_1_1RanRNA_ae732dcfe43e39c1d715ac90acd54caeb}{\-Write\-Fasta}
+\begin{DoxyCompactList}\small\item\em \-Write the fasta. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_a64b5add74e0f2b928e32b81b877bdd42}{
+def \hyperlink{classiRNA__pred_1_1RanRNA_1_1RanRNA_a64b5add74e0f2b928e32b81b877bdd42}{\-Generate\-File}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_a64b5add74e0f2b928e32b81b877bdd42}
+
+\begin{DoxyCompactList}\small\item\em \-Generate a multifasta with random sequences. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_aa38a34d224099145c60b15d5349175df}{
+{\bfseries \-G\-C}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_aa38a34d224099145c60b15d5349175df}
+
+\item 
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_ab7055bb7333ffa976cf8f1329d0d1105}{
+{\bfseries \-Seq\-Length}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_ab7055bb7333ffa976cf8f1329d0d1105}
+
+\item 
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_adcdb894244ef5b87fb193447bdcb82ab}{
+{\bfseries \-Nb\-Seq}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_adcdb894244ef5b87fb193447bdcb82ab}
+
+\item 
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_a41b28e14bdf4f0e215ec5737f61017ea}{
+{\bfseries \-Out\-Rep}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_a41b28e14bdf4f0e215ec5737f61017ea}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Generate \-Random \-Sequences 
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_a0e33c598dec1e6bf38382910431a7342}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!iRNA_pred::RanRNA::RanRNA@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-G\-C, }
+\item[{}]{\-Seq\-Length, }
+\item[{}]{\-Nb\-Seq, }
+\item[{}]{\-Out\-Rep}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_a0e33c598dec1e6bf38382910431a7342}
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-G\-C,\-:} & \-G\-C percentage \\
+\hline
+{\em \-Seq\-Length,\-:} & \-Length of sequences \\
+\hline
+{\em \-Nb\-Seq,\-:} & \-Number of sequences \\
+\hline
+{\em \-Out\-Rep,\-:} & \-Output repertory \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_a7205c0e07c5aeb0d2bcb3cbbab6d9485}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Generate\-Seq@{\-Generate\-Seq}}
+\index{\-Generate\-Seq@{\-Generate\-Seq}!iRNA_pred::RanRNA::RanRNA@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Generate\-Seq}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Generate\-Seq (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{seqlength}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_a7205c0e07c5aeb0d2bcb3cbbab6d9485}
+
+
+\-Generate a random sequence. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: a random sequence 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_a16c6669356a20bdeca4bac78d858d663}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Get\-Int\-Values@{\-Get\-Int\-Values}}
+\index{\-Get\-Int\-Values@{\-Get\-Int\-Values}!iRNA_pred::RanRNA::RanRNA@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Get\-Int\-Values}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Get\-Int\-Values (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{val, }
+\item[{}]{nbseq}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_a16c6669356a20bdeca4bac78d858d663}
+
+
+\-Get integer random values. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Table of integer random values 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_af11a9129381c1fbf5139aa02c0962a4f}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Get\-Values@{\-Get\-Values}}
+\index{\-Get\-Values@{\-Get\-Values}!iRNA_pred::RanRNA::RanRNA@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Get\-Values}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Get\-Values (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{seqlength}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_af11a9129381c1fbf5139aa02c0962a4f}
+
+
+\-Get double random values. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Table of double random \-Values 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_ae5a459f8aa33f28fa06e5f61f928e9d8}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Set\-Letters@{\-Set\-Letters}}
+\index{\-Set\-Letters@{\-Set\-Letters}!iRNA_pred::RanRNA::RanRNA@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Set\-Letters}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Set\-Letters (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-L1, }
+\item[{}]{\-L2}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_ae5a459f8aa33f28fa06e5f61f928e9d8}
+
+
+\-Set the nucleotide. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-L1,\-:} & \-Nucleotide 1 \\
+\hline
+{\em \-L2,\-:} & \-Nucleotide 1 \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Nucleotide 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1RanRNA_1_1RanRNA_ae732dcfe43e39c1d715ac90acd54caeb}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Write\-Fasta@{\-Write\-Fasta}}
+\index{\-Write\-Fasta@{\-Write\-Fasta}!iRNA_pred::RanRNA::RanRNA@{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Write\-Fasta}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Write\-Fasta (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{fastafile, }
+\item[{}]{seq}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1RanRNA_1_1RanRNA_ae732dcfe43e39c1d715ac90acd54caeb}
+
+
+\-Write the fasta. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em fastafile,\-:} & \-Name of the fasta file \\
+\hline
+{\em seq,\-:} & \-Generated sequence \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-pred/\-Ran\-R\-N\-A.\-py\end{DoxyCompactItemize}

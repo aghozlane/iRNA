@@ -1,0 +1,819 @@
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse}{
+\section{i\-R\-N\-A\-\_\-pred\-:\-:\-Parse\-:\-:\-Parse \-Class \-Reference}
+\label{classiRNA__pred_1_1Parse_1_1Parse}\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+}
+
+
+\-: \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} data from the different software.  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_aa5cd11121c872335e06c888018b4cb79}{parse\-Guugle}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Guugle result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a60b8b530fe60753410195432c23287d0}{parse\-Inta\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Inta\-R\-N\-A result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a8d2cc6b645be3e7c4bee6753e0a98b3d}{parse\-R\-N\-Aup}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Aup result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a709c700a9594fcbce765da4c4a73e750}{parse\-R\-N\-Aplex}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Aplex and \-R\-N\-Aduplex result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a7b7cf48e50e03a0c7f86d162240a6ddb}{parse\-R\-N\-Aduplex}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Aplex and \-R\-N\-Aduplex result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a27707bf416a643a552434d79a9a2e703}{getposition\-\_\-\-R\-N\-Acofold0}
+\begin{DoxyCompactList}\small\item\em \-Get the position of interaction for \-R\-N\-Acofold. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a71d533ed8e09cf86b64b4fbd97196459}{getposition\-\_\-\-R\-N\-Acofold1}
+\begin{DoxyCompactList}\small\item\em \-Get the position of interaction for \-R\-N\-Acofold. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_ada306be2de91428187f2efffbe6ad2f4}{reverse\-Elongate}
+\begin{DoxyCompactList}\small\item\em \-Get a double reverse for a tab of tab. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_ad16c46497a7e639078e098a6dad29cfe}{forward\-Table}
+\begin{DoxyCompactList}\small\item\em \-Reverse a table. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a3c6aa66a3b73da2fb7bb4023375f5c22}{parse\-R\-N\-Acofold}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Acofold result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a7eeca029361f4d41d2266d607497fc14}{get\-Result\-Sequence\-\_\-\-R\-N\-Ahybrid}
+\begin{DoxyCompactList}\small\item\em \-Get contact sequence. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a212cfe27b13a34684a84b522dd5f0e44}{parse\-R\-N\-Ahybrid}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Ahybrid result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_ad512c10c5a1e0ded0f9df03f1b52d970}{get\-Positions\-\_\-rip}
+\begin{DoxyCompactList}\small\item\em \-Get the positions for rip problem output. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a6f1ef8812a8131020e8cf4b0dd2ff472}{elongate\-Positions\-\_\-rip}
+\begin{DoxyCompactList}\small\item\em \-Elongate the contact position. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a8c7b049ace08e553bd76c966838d73d2}{get\-Sequences\-\_\-53}
+\begin{DoxyCompactList}\small\item\em \-Get the sequence in contact in 5'3' sense. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a3bbb261a691441d5b30a6c691d2d8759}{get\-Sequences\-\_\-local\-\_\-reversed}
+\begin{DoxyCompactList}\small\item\em \-Get the sequence in contact in 5'3' sense. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a116f4d2cab472470314d46b6ea71b8a0}{consensus}
+\begin{DoxyCompactList}\small\item\em \-Find the contact position between s\-R\-N\-A and m\-R\-N\-A. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_acb84c3b9bae65d603ad5816ea2679b66}{reverse\-Sequence}
+\begin{DoxyCompactList}\small\item\em \-Reverse a sequence. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a3f05e815a29199e0a6feefa2782c9c9d}{reverse\-Tablemax}
+\begin{DoxyCompactList}\small\item\em \-Reverse a table. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a1f96f6e4b60f9f0beffe3c23359cd85b}{reverse\-Min\-Table}
+\begin{DoxyCompactList}\small\item\em \-Reverse a table into 5'3'. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a13d5e22bcc9f4a4248d1985c4390f27a}{parse\-Ractip}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Ractip result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a768aff668e5b4d4368c7216941ba3467}{read\-Compfile}
+\begin{DoxyCompactList}\small\item\em \-Read the comp\-\_\-list file. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a42c921786a3b240ad5feb0d507821d53}{comparaison}
+\begin{DoxyCompactList}\small\item\em \-Determine if comparison is needed. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a9524f5466c2f1540615c4a8e05e8181d}{parse\-Blastall}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Blastall result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_aac3b7ba2bdb122ff04732b2ac2792eda}{parse\-Bista\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Bista\-R\-N\-A result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a920ca1dfc8b69fa94c23c71c17452c71}{parse\-Yass}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Yass output. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_a553fbe48009fb2de55f956666c30e39a}{parse\-Ssearch}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} ssearch output. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_aadf336be25c2fb85af622f971f0627d2}{parse\-Pairfold}
+\begin{DoxyCompactList}\small\item\em \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Pairfold result. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Parse_1_1Parse_ab7dfd5ee554506e62817073f94ae3bbe}{run\-Parsing}
+\begin{DoxyCompactList}\small\item\em \-Run the parsing. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} data from the different software. 
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a42c921786a3b240ad5feb0d507821d53}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!comparaison@{comparaison}}
+\index{comparaison@{comparaison}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{comparaison}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::comparaison (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{m\-R\-N\-A, }
+\item[{}]{s\-R\-N\-A, }
+\item[{}]{comp\-\_\-data}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a42c921786a3b240ad5feb0d507821d53}
+
+
+\-Determine if comparison is needed. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em m\-R\-N\-A,\-:} & m\-R\-N\-A name \\
+\hline
+{\em s\-R\-N\-A,\-:} & s\-R\-N\-A name \\
+\hline
+{\em comp\-\_\-data,\-:} & \-Comparison data \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-True if comparison is expected, \-False otherwise 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a116f4d2cab472470314d46b6ea71b8a0}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!consensus@{consensus}}
+\index{consensus@{consensus}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{consensus}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::consensus (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{results\-R\-N\-A, }
+\item[{}]{resultm\-R\-N\-A, }
+\item[{}]{tab\-\_\-s\-R\-N\-A, }
+\item[{}]{tab\-\_\-m\-R\-N\-A, }
+\item[{}]{debuts\-R\-N\-A, }
+\item[{}]{debutm\-R\-N\-A, }
+\item[{}]{i, }
+\item[{}]{j}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a116f4d2cab472470314d46b6ea71b8a0}
+
+
+\-Find the contact position between s\-R\-N\-A and m\-R\-N\-A. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em results\-R\-N\-A,\-:} & \-New table of contact for s\-R\-N\-A \\
+\hline
+{\em resultm\-R\-N\-A,\-:} & \-New table of contact for m\-R\-N\-A \\
+\hline
+{\em tab\-\_\-s\-R\-N\-A,\-:} & \-Old table of contact for s\-R\-N\-A \\
+\hline
+{\em tab\-\_\-m\-R\-N\-A,\-:} & \-Old table of contact for m\-R\-N\-A \\
+\hline
+{\em debuts\-R\-N\-A,\-:} & s\-R\-N\-A begin \\
+\hline
+{\em debutm\-R\-N\-A,\-:} & m\-R\-N\-A begin \\
+\hline
+{\em i,\-:} & \-Position in the old table of s\-R\-N\-A \\
+\hline
+{\em j,\-:} & \-Position in the old table of m\-R\-N\-A \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a6f1ef8812a8131020e8cf4b0dd2ff472}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!elongate\-Positions\-\_\-rip@{elongate\-Positions\-\_\-rip}}
+\index{elongate\-Positions\-\_\-rip@{elongate\-Positions\-\_\-rip}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{elongate\-Positions\-\_\-rip}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::elongate\-Positions\-\_\-rip (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{tab}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a6f1ef8812a8131020e8cf4b0dd2ff472}
+
+
+\-Elongate the contact position. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em tab,\-:} & \-Table of contact position \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Table elongate 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_ad16c46497a7e639078e098a6dad29cfe}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!forward\-Table@{forward\-Table}}
+\index{forward\-Table@{forward\-Table}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{forward\-Table}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::forward\-Table (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{tab\-\_\-\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_ad16c46497a7e639078e098a6dad29cfe}
+
+
+\-Reverse a table. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em tab\-\_\-\-R\-N\-A,\-:} & \-Table of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Reversed table 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a27707bf416a643a552434d79a9a2e703}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!getposition\-\_\-\-R\-N\-Acofold0@{getposition\-\_\-\-R\-N\-Acofold0}}
+\index{getposition\-\_\-\-R\-N\-Acofold0@{getposition\-\_\-\-R\-N\-Acofold0}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{getposition\-\_\-\-R\-N\-Acofold0}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::getposition\-\_\-\-R\-N\-Acofold0 (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{result}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a27707bf416a643a552434d79a9a2e703}
+
+
+\-Get the position of interaction for \-R\-N\-Acofold. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em result,\-:} & s\-R\-N\-A result \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: tabm\-R\-N\-A, tabs\-R\-N\-A 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a71d533ed8e09cf86b64b4fbd97196459}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!getposition\-\_\-\-R\-N\-Acofold1@{getposition\-\_\-\-R\-N\-Acofold1}}
+\index{getposition\-\_\-\-R\-N\-Acofold1@{getposition\-\_\-\-R\-N\-Acofold1}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{getposition\-\_\-\-R\-N\-Acofold1}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::getposition\-\_\-\-R\-N\-Acofold1 (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{result}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a71d533ed8e09cf86b64b4fbd97196459}
+
+
+\-Get the position of interaction for \-R\-N\-Acofold. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em result,\-:} & m\-R\-N\-A result \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: tabm\-R\-N\-A, tabs\-R\-N\-A 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_ad512c10c5a1e0ded0f9df03f1b52d970}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!get\-Positions\-\_\-rip@{get\-Positions\-\_\-rip}}
+\index{get\-Positions\-\_\-rip@{get\-Positions\-\_\-rip}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{get\-Positions\-\_\-rip}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::get\-Positions\-\_\-rip (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-R\-N\-A\-\_\-r, }
+\item[{}]{seq}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_ad512c10c5a1e0ded0f9df03f1b52d970}
+
+
+\-Get the positions for rip problem output. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-R\-N\-A\-\_\-r,\-:} & \-R\-N\-A result output \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position of contact for \-R\-N\-A 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a7eeca029361f4d41d2266d607497fc14}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!get\-Result\-Sequence\-\_\-\-R\-N\-Ahybrid@{get\-Result\-Sequence\-\_\-\-R\-N\-Ahybrid}}
+\index{get\-Result\-Sequence\-\_\-\-R\-N\-Ahybrid@{get\-Result\-Sequence\-\_\-\-R\-N\-Ahybrid}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{get\-Result\-Sequence\-\_\-\-R\-N\-Ahybrid}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::get\-Result\-Sequence\-\_\-\-R\-N\-Ahybrid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{out\-\_\-\-R\-N\-A, }
+\item[{}]{in\-\_\-\-R\-N\-A, }
+\item[{}]{\-R\-N\-A\-\_\-begin, }
+\item[{}]{length\-\_\-\-R\-N\-A, }
+\item[{}]{int\-\_\-char}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a7eeca029361f4d41d2266d607497fc14}
+
+
+\-Get contact sequence. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em out\-\_\-\-R\-N\-A,\-:} & \-Non contact nucleotid \\
+\hline
+{\em in\-\_\-\-R\-N\-A,\-:} & \-Contact nucleotid \\
+\hline
+{\em \-R\-N\-A\-\_\-begin,\-:} & \-Begining position of the \-R\-N\-A \\
+\hline
+{\em length\-\_\-\-R\-N\-A,\-:} & \-Length of the \-R\-N\-A sequence \\
+\hline
+{\em int\-\_\-char,\-:} & \-Interaction caracter \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a8c7b049ace08e553bd76c966838d73d2}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!get\-Sequences\-\_\-53@{get\-Sequences\-\_\-53}}
+\index{get\-Sequences\-\_\-53@{get\-Sequences\-\_\-53}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{get\-Sequences\-\_\-53}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::get\-Sequences\-\_\-53 (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-R\-N\-A, }
+\item[{}]{tab\-\_\-\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a8c7b049ace08e553bd76c966838d73d2}
+
+
+\-Get the sequence in contact in 5'3' sense. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-R\-N\-A,\-:} & \-R\-N\-A sequence \\
+\hline
+{\em tab\-\_\-\-R\-N\-A,\-:} & \-Position of contact for \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-R\-N\-A tab of contact sequences 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a3bbb261a691441d5b30a6c691d2d8759}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!get\-Sequences\-\_\-local\-\_\-reversed@{get\-Sequences\-\_\-local\-\_\-reversed}}
+\index{get\-Sequences\-\_\-local\-\_\-reversed@{get\-Sequences\-\_\-local\-\_\-reversed}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{get\-Sequences\-\_\-local\-\_\-reversed}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::get\-Sequences\-\_\-local\-\_\-reversed (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a3bbb261a691441d5b30a6c691d2d8759}
+
+
+\-Get the sequence in contact in 5'3' sense. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-R\-N\-A,\-:} & \-R\-N\-A sequence \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-R\-N\-A tab of contact sequences 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_aac3b7ba2bdb122ff04732b2ac2792eda}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-Bista\-R\-N\-A@{parse\-Bista\-R\-N\-A}}
+\index{parse\-Bista\-R\-N\-A@{parse\-Bista\-R\-N\-A}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-Bista\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-Bista\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_aac3b7ba2bdb122ff04732b2ac2792eda}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Bista\-R\-N\-A result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a9524f5466c2f1540615c4a8e05e8181d}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-Blastall@{parse\-Blastall}}
+\index{parse\-Blastall@{parse\-Blastall}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-Blastall}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-Blastall (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root, }
+\item[{}]{complist\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a9524f5466c2f1540615c4a8e05e8181d}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Blastall result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+{\em complist\-\_\-file,\-:} & \-Comparison list file \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_aa5cd11121c872335e06c888018b4cb79}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-Guugle@{parse\-Guugle}}
+\index{parse\-Guugle@{parse\-Guugle}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-Guugle}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-Guugle (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_aa5cd11121c872335e06c888018b4cb79}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Guugle result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a60b8b530fe60753410195432c23287d0}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-Inta\-R\-N\-A@{parse\-Inta\-R\-N\-A}}
+\index{parse\-Inta\-R\-N\-A@{parse\-Inta\-R\-N\-A}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-Inta\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-Inta\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a60b8b530fe60753410195432c23287d0}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Inta\-R\-N\-A result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_aadf336be25c2fb85af622f971f0627d2}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-Pairfold@{parse\-Pairfold}}
+\index{parse\-Pairfold@{parse\-Pairfold}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-Pairfold}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-Pairfold (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_aadf336be25c2fb85af622f971f0627d2}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Pairfold result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a13d5e22bcc9f4a4248d1985c4390f27a}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-Ractip@{parse\-Ractip}}
+\index{parse\-Ractip@{parse\-Ractip}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-Ractip}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-Ractip (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a13d5e22bcc9f4a4248d1985c4390f27a}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Ractip result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\begin{DoxyRefDesc}{\-Todo}
+\item[\hyperlink{todo__todo000005}{\-Todo}]\-: a finir evaluer les sequences \end{DoxyRefDesc}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a3c6aa66a3b73da2fb7bb4023375f5c22}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-R\-N\-Acofold@{parse\-R\-N\-Acofold}}
+\index{parse\-R\-N\-Acofold@{parse\-R\-N\-Acofold}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-R\-N\-Acofold}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-R\-N\-Acofold (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a3c6aa66a3b73da2fb7bb4023375f5c22}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Acofold result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a7b7cf48e50e03a0c7f86d162240a6ddb}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-R\-N\-Aduplex@{parse\-R\-N\-Aduplex}}
+\index{parse\-R\-N\-Aduplex@{parse\-R\-N\-Aduplex}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-R\-N\-Aduplex}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-R\-N\-Aduplex (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a7b7cf48e50e03a0c7f86d162240a6ddb}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Aplex and \-R\-N\-Aduplex result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a212cfe27b13a34684a84b522dd5f0e44}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-R\-N\-Ahybrid@{parse\-R\-N\-Ahybrid}}
+\index{parse\-R\-N\-Ahybrid@{parse\-R\-N\-Ahybrid}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-R\-N\-Ahybrid}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-R\-N\-Ahybrid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a212cfe27b13a34684a84b522dd5f0e44}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Ahybrid result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a709c700a9594fcbce765da4c4a73e750}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-R\-N\-Aplex@{parse\-R\-N\-Aplex}}
+\index{parse\-R\-N\-Aplex@{parse\-R\-N\-Aplex}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-R\-N\-Aplex}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-R\-N\-Aplex (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a709c700a9594fcbce765da4c4a73e750}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Aplex and \-R\-N\-Aduplex result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a8d2cc6b645be3e7c4bee6753e0a98b3d}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-R\-N\-Aup@{parse\-R\-N\-Aup}}
+\index{parse\-R\-N\-Aup@{parse\-R\-N\-Aup}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-R\-N\-Aup}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-R\-N\-Aup (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a8d2cc6b645be3e7c4bee6753e0a98b3d}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-R\-N\-Aup result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+\end{DoxyParams}
+\begin{DoxyRefDesc}{\-Todo}
+\item[\hyperlink{todo__todo000004}{\-Todo}]\-: \-D\-E\-B\-U\-G \-P\-A\-R\-S\-I\-N\-G \-N\-O \-R\-E\-S\-U\-L\-T \end{DoxyRefDesc}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a553fbe48009fb2de55f956666c30e39a}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-Ssearch@{parse\-Ssearch}}
+\index{parse\-Ssearch@{parse\-Ssearch}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-Ssearch}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-Ssearch (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{s\-R\-N\-A, }
+\item[{}]{matrix, }
+\item[{}]{root, }
+\item[{}]{complist\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a553fbe48009fb2de55f956666c30e39a}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} ssearch output. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em s\-R\-N\-A,\-:} & s\-R\-N\-A name \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+{\em complist\-\_\-file,\-:} & \-Comparison list file \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a920ca1dfc8b69fa94c23c71c17452c71}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!parse\-Yass@{parse\-Yass}}
+\index{parse\-Yass@{parse\-Yass}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{parse\-Yass}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::parse\-Yass (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{matrix, }
+\item[{}]{root, }
+\item[{}]{complist\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a920ca1dfc8b69fa94c23c71c17452c71}
+
+
+\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} \-Yass output. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Soft result \\
+\hline
+{\em matrix,\-:} & score matrix \\
+\hline
+{\em root,\-:} & xml root node \\
+\hline
+{\em complist\-\_\-file,\-:} & \-Comparison list file \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a768aff668e5b4d4368c7216941ba3467}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!read\-Compfile@{read\-Compfile}}
+\index{read\-Compfile@{read\-Compfile}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{read\-Compfile}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::read\-Compfile (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{complist\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a768aff668e5b4d4368c7216941ba3467}
+
+
+\-Read the comp\-\_\-list file. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em complist\-\_\-file,\-:} & \-Comparison list file \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Comparison data 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_ada306be2de91428187f2efffbe6ad2f4}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!reverse\-Elongate@{reverse\-Elongate}}
+\index{reverse\-Elongate@{reverse\-Elongate}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{reverse\-Elongate}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::reverse\-Elongate (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{tab}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_ada306be2de91428187f2efffbe6ad2f4}
+
+
+\-Get a double reverse for a tab of tab. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em tab,\-:} & \-Table of table \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Reversed table of table 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a1f96f6e4b60f9f0beffe3c23359cd85b}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!reverse\-Min\-Table@{reverse\-Min\-Table}}
+\index{reverse\-Min\-Table@{reverse\-Min\-Table}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{reverse\-Min\-Table}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::reverse\-Min\-Table (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{tab\-\_\-\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a1f96f6e4b60f9f0beffe3c23359cd85b}
+
+
+\-Reverse a table into 5'3'. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em tab\-\_\-\-R\-N\-A,\-:} & \-Table of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Reversed table 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_acb84c3b9bae65d603ad5816ea2679b66}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!reverse\-Sequence@{reverse\-Sequence}}
+\index{reverse\-Sequence@{reverse\-Sequence}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{reverse\-Sequence}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::reverse\-Sequence (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{seq}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_acb84c3b9bae65d603ad5816ea2679b66}
+
+
+\-Reverse a sequence. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em seq,\-:} & \-Sequence of text \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Reversed sequence 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_a3f05e815a29199e0a6feefa2782c9c9d}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!reverse\-Tablemax@{reverse\-Tablemax}}
+\index{reverse\-Tablemax@{reverse\-Tablemax}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{reverse\-Tablemax}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::reverse\-Tablemax (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{tab\-\_\-\-R\-N\-A, }
+\item[{}]{max\-Value}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_a3f05e815a29199e0a6feefa2782c9c9d}
+
+
+\-Reverse a table. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em tab\-\_\-\-R\-N\-A,\-:} & \-Table of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Reversed table 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Parse_1_1Parse_ab7dfd5ee554506e62817073f94ae3bbe}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}!run\-Parsing@{run\-Parsing}}
+\index{run\-Parsing@{run\-Parsing}!iRNA_pred::Parse::Parse@{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse}}
+\subsubsection[{run\-Parsing}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse\-::run\-Parsing (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{soft\-\_\-name, }
+\item[{}]{matrix, }
+\item[{}]{complist\-\_\-file, }
+\item[{}]{s\-R\-N\-A, }
+\item[{}]{m\-R\-N\-A, }
+\item[{}]{data, }
+\item[{}]{root}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Parse_1_1Parse_ab7dfd5ee554506e62817073f94ae3bbe}
+
+
+\-Run the parsing. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em cmd,\-:} & \-Soft command \\
+\hline
+{\em complist\-\_\-file,\-:} & \-Comparison list file \\
+\hline
+{\em data,\-:} & \-Soft result \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-pred/\-Parse.\-py\end{DoxyCompactItemize}

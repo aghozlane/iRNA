@@ -1,0 +1,69 @@
+\hypertarget{namespaceirna_1_1iRNA__stat_1_1iRNA__stat}{
+\section{irna\-:\-:i\-R\-N\-A\-\_\-stat\-:\-:i\-R\-N\-A\-\_\-stat \-Namespace \-Reference}
+\label{namespaceirna_1_1iRNA__stat_1_1iRNA__stat}\index{irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat@{irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat}}
+}
+\subsection*{\-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{namespaceirna_1_1iRNA__stat_1_1iRNA__stat_af89f678a9e3766eb4b3b88a6f12477d7}{usage}
+\begin{DoxyCompactList}\small\item\em \-Test correct usage of arguments. \end{DoxyCompactList}\item 
+def \hyperlink{namespaceirna_1_1iRNA__stat_1_1iRNA__stat_aa939a7e20f8de36c2775716c68ff0414}{main}
+\begin{DoxyCompactList}\small\item\em \-Determine les fichiers fournis en arguments def get\-Argument()\-: \char`\"{}\char`\"{}" \-Determine the argument. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{\-Function \-Documentation}
+\hypertarget{namespaceirna_1_1iRNA__stat_1_1iRNA__stat_aa939a7e20f8de36c2775716c68ff0414}{
+\index{irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat@{irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat}!main@{main}}
+\index{main@{main}!irna::iRNA_stat::iRNA_stat@{irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat}}
+\subsubsection[{main}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat\-::main (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}
+\label{namespaceirna_1_1iRNA__stat_1_1iRNA__stat_aa939a7e20f8de36c2775716c68ff0414}
+
+
+\-Determine les fichiers fournis en arguments def get\-Argument()\-: \char`\"{}\char`\"{}" \-Determine the argument. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: arguments \char`\"{}\char`\"{}" \#\-Parsing arguments parser = argparse.\-Argument\-Parser(description='\-Statistical analysis of \-R\-N\-A-\/\-R\-N\-A predict interaction.') parser.\-add\-\_\-argument('-\/d', '-\/-\/i\-R\-N\-A\-\_\-db',help='\-Path to mycarn db',required=\-True) parser.\-add\-\_\-argument('-\/i', '-\/-\/soft\-\_\-inf',help='\-Path to soft information file',required=\-True) parser.\-add\-\_\-argument('-\/e', '-\/-\/exp\-\_\-inf',help='\-Path to experimental data file') parser.\-add\-\_\-argument('-\/n', '-\/-\/rand\-\_\-inf',help='\-Path to random data file') parser.\-add\-\_\-argument('-\/a', '-\/-\/random',help='\-Random analysis',action='store\-\_\-true') parser.\-add\-\_\-argument('-\/r', '-\/-\/results',help='\-Path to result repertory',required=\-True) args = parser.\-parse\-\_\-args()
+\end{DoxyReturn}
+\#\-Verify usage usage(parser,args) return args
+
+\-Main program function 
+
+\-Definition at line 66 of file i\-R\-N\-A\-\_\-stat.\-py.
+
+
+
+\-Referenced by usage().
+
+\hypertarget{namespaceirna_1_1iRNA__stat_1_1iRNA__stat_af89f678a9e3766eb4b3b88a6f12477d7}{
+\index{irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat@{irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat}!usage@{usage}}
+\index{usage@{usage}!irna::iRNA_stat::iRNA_stat@{irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat}}
+\subsubsection[{usage}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-stat\-::i\-R\-N\-A\-\_\-stat\-::usage (
+\begin{DoxyParamCaption}
+\item[{}]{parser, }
+\item[{}]{args}
+\end{DoxyParamCaption}
+)}}
+\label{namespaceirna_1_1iRNA__stat_1_1iRNA__stat_af89f678a9e3766eb4b3b88a6f12477d7}
+
+
+\-Test correct usage of arguments. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em parser,\-:} & \hyperlink{namespaceirna_1_1iRNA__stat_1_1Parser}{\-Parser} object \\
+\hline
+{\em args,\-:} & \-Arguments \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 32 of file i\-R\-N\-A\-\_\-stat.\-py.
+
+
+
+\-References main().
+

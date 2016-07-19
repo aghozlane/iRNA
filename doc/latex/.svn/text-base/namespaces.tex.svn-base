@@ -1,0 +1,5 @@
+\section{\-Namespace \-List}
+\-Here is a list of all documented namespaces with brief descriptions\-:\begin{DoxyCompactList}
+\item\contentsline{section}{\hyperlink{namespacedocstring}{docstring} \\*\-: \-Mycarn program }{\pageref{namespacedocstring}}{}
+\item\contentsline{section}{\hyperlink{namespacempi4py}{mpi4py} \\*\-: \-Run mpi }{\pageref{namespacempi4py}}{}
+\end{DoxyCompactList}

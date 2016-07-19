@@ -1,0 +1,342 @@
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction}{
+\section{\-Mycarn\-\_\-stat\-:\-:\-Interaction\-:\-:\-Interaction \-Class \-Reference}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction}\index{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+}
+
+
+\-Inheritance diagram for \-Mycarn\-\_\-stat\-:\-:\-Interaction\-:\-:\-Interaction\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=254pt]{classMycarn__stat_1_1Interaction_1_1Interaction__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for \-Mycarn\-\_\-stat\-:\-:\-Interaction\-:\-:\-Interaction\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=254pt]{classMycarn__stat_1_1Interaction_1_1Interaction__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_ac46c0d97c7e0ee7cf0231d2586dd3831}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction}{\-Interaction} object. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_aae536f9993066a38a5976b31ecb7822b}{
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_aae536f9993066a38a5976b31ecb7822b}{defintefunction}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_aae536f9993066a38a5976b31ecb7822b}
+
+\begin{DoxyCompactList}\small\item\em \-Determine the function to apply depending of the type of solution. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_a9444512264f2a71d62b7fe88ab3fecd0}{intebestsol}
+\begin{DoxyCompactList}\small\item\em \-Case best solution. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_a55b0da50c3831a09243035f65a7750b5}{inteseveralcontact}
+\begin{DoxyCompactList}\small\item\em \-Case several contacts score -\/ several contacts energy. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_aa1589fbb05fd93233398359cfe05c986}{inteonesol}
+\begin{DoxyCompactList}\small\item\em \-Case \-: one solution. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_a4e6ecded62d3b7beb8e21f34c48e832f}{get\-Interaction}
+\begin{DoxyCompactList}\small\item\em \-Compute interaction position. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_ae08a1a1d016673624575f20826f84a04}{
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_ae08a1a1d016673624575f20826f84a04}{ncbp}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_ae08a1a1d016673624575f20826f84a04}
+
+\begin{DoxyCompactList}\small\item\em \-Compute the number of correctly predicted base pairings. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_a1a78d9314711c0161658f04e8dfcc3dc}{compute\-\_\-ppv}
+\begin{DoxyCompactList}\small\item\em \-Compute \-P\-P\-V. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_a5bc833508e35998f569a9a894d13b43f}{compute\-\_\-sensitivity}
+\begin{DoxyCompactList}\small\item\em \-Compute sensitivity. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a1460954e81746cedd59df4428032b61a}{
+def {\bfseries compute\-\_\-sens\-\_\-ppv}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a1460954e81746cedd59df4428032b61a}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a5fbcd5757411f5815e6457b192a9daf5}{
+def {\bfseries \-Interaction\-\_\-data}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a5fbcd5757411f5815e6457b192a9daf5}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a41e6b6cf41e16d42544a862d6336e10a}{
+def \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction_a41e6b6cf41e16d42544a862d6336e10a}{run}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a41e6b6cf41e16d42544a862d6336e10a}
+
+\begin{DoxyCompactList}\small\item\em \-Compute interaction precision and sensitivity. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a8ab140247b2ad8c859bca27f2bc54a2e}{
+{\bfseries intefuncmap}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a8ab140247b2ad8c859bca27f2bc54a2e}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a200fce73b593045f6b87f38f748d836b}{
+{\bfseries interactions}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a200fce73b593045f6b87f38f748d836b}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a22f2839db99c57d03142c317e332154f}{
+{\bfseries type\-\_\-sol}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a22f2839db99c57d03142c317e332154f}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a786b2cd26a8ab956e66b5a33e57a9b2a}{
+{\bfseries pos}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a786b2cd26a8ab956e66b5a33e57a9b2a}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a9f6597a0bfac89a44ccb892cf8194f40}{
+{\bfseries exp\-\_\-inf}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a9f6597a0bfac89a44ccb892cf8194f40}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_af55d38e025f39a077401351576c5fcc3}{
+{\bfseries dbmanage}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_af55d38e025f39a077401351576c5fcc3}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a0760d850c2f74e6ff3243a76d642ed3b}{
+{\bfseries ppv}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a0760d850c2f74e6ff3243a76d642ed3b}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_ab67c4f0f31442f115a45b8c76e748ec9}{
+{\bfseries sensitivity}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_ab67c4f0f31442f115a45b8c76e748ec9}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_ac86cd9971a09ea2f350a0d94d4195404}{
+{\bfseries classtype}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_ac86cd9971a09ea2f350a0d94d4195404}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_ac46c0d97c7e0ee7cf0231d2586dd3831}{
+\index{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!Mycarn_stat::Interaction::Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{dbmanage, }
+\item[{}]{exp\-\_\-inf}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_ac46c0d97c7e0ee7cf0231d2586dd3831}
+
+
+\-Instanciate \hyperlink{classMycarn__stat_1_1Interaction_1_1Interaction}{\-Interaction} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Communication object \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+{\em exp\-\_\-inf,\-:} & \-Exp\-\_\-inf object \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a1a78d9314711c0161658f04e8dfcc3dc}{
+\index{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}!compute\-\_\-ppv@{compute\-\_\-ppv}}
+\index{compute\-\_\-ppv@{compute\-\_\-ppv}!Mycarn_stat::Interaction::Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{compute\-\_\-ppv}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction\-::compute\-\_\-ppv (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-Pinteract, }
+\item[{}]{\-Rinteract}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a1a78d9314711c0161658f04e8dfcc3dc}
+
+
+\-Compute \-P\-P\-V. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-Pinteract,\-:} & \-Predicted interaction position \\
+\hline
+{\em \-Rinteract,\-:} & \-Real interaction position \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-P\-P\-V of one interation 
+\end{DoxyReturn}
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a5bc833508e35998f569a9a894d13b43f}{
+\index{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}!compute\-\_\-sensitivity@{compute\-\_\-sensitivity}}
+\index{compute\-\_\-sensitivity@{compute\-\_\-sensitivity}!Mycarn_stat::Interaction::Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{compute\-\_\-sensitivity}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction\-::compute\-\_\-sensitivity (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-Pinteract, }
+\item[{}]{\-Rinteract}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a5bc833508e35998f569a9a894d13b43f}
+
+
+\-Compute sensitivity. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-Pinteract,\-:} & \-Predicted interaction position \\
+\hline
+{\em \-Rinteract,\-:} & \-Real interaction position \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: sensitivity of one interation 
+\end{DoxyReturn}
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a4e6ecded62d3b7beb8e21f34c48e832f}{
+\index{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}!get\-Interaction@{get\-Interaction}}
+\index{get\-Interaction@{get\-Interaction}!Mycarn_stat::Interaction::Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{get\-Interaction}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction\-::get\-Interaction (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{posit, }
+\item[{}]{s\-R\-N\-A\-\_\-deb, }
+\item[{}]{s\-R\-N\-A\-\_\-end, }
+\item[{}]{m\-R\-N\-A\-\_\-deb, }
+\item[{}]{m\-R\-N\-A\-\_\-end, }
+\item[{}]{predict, }
+\item[{}]{intefuncpoint}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a4e6ecded62d3b7beb8e21f34c48e832f}
+
+
+\-Compute interaction position. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em posit,\-:} & \-Position in the list \\
+\hline
+{\em s\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em s\-R\-N\-A\-\_\-end,\-:} & s\-R\-N\-A end list \\
+\hline
+{\em m\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em m\-R\-N\-A\-\_\-end,\-:} & m\-R\-N\-A end list \\
+\hline
+{\em predict,\-:} & \-Flag \-Predict position \\
+\hline
+{\em intefuncpoint,\-:} & \-Function pointer to analysis function \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position selected and normalised 
+\end{DoxyReturn}
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a9444512264f2a71d62b7fe88ab3fecd0}{
+\index{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}!intebestsol@{intebestsol}}
+\index{intebestsol@{intebestsol}!Mycarn_stat::Interaction::Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{intebestsol}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction\-::intebestsol (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{posit, }
+\item[{}]{s\-R\-N\-A\-\_\-deb, }
+\item[{}]{s\-R\-N\-A\-\_\-end, }
+\item[{}]{m\-R\-N\-A\-\_\-deb, }
+\item[{}]{m\-R\-N\-A\-\_\-end}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a9444512264f2a71d62b7fe88ab3fecd0}
+
+
+\-Case best solution. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em posit,\-:} & \-Position in the list \\
+\hline
+{\em s\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em s\-R\-N\-A\-\_\-end,\-:} & s\-R\-N\-A end list \\
+\hline
+{\em m\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em m\-R\-N\-A\-\_\-end,\-:} & m\-R\-N\-A end list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position selected and normalised 
+\end{DoxyReturn}
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_aa1589fbb05fd93233398359cfe05c986}{
+\index{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}!inteonesol@{inteonesol}}
+\index{inteonesol@{inteonesol}!Mycarn_stat::Interaction::Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{inteonesol}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction\-::inteonesol (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{posit, }
+\item[{}]{s\-R\-N\-A\-\_\-deb, }
+\item[{}]{s\-R\-N\-A\-\_\-end, }
+\item[{}]{m\-R\-N\-A\-\_\-deb, }
+\item[{}]{m\-R\-N\-A\-\_\-end}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_aa1589fbb05fd93233398359cfe05c986}
+
+
+\-Case \-: one solution. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em posit,\-:} & \-Position in the list \\
+\hline
+{\em s\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em s\-R\-N\-A\-\_\-end,\-:} & s\-R\-N\-A end list \\
+\hline
+{\em m\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em m\-R\-N\-A\-\_\-end,\-:} & m\-R\-N\-A end list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position selected and normalised 
+\end{DoxyReturn}
+\hypertarget{classMycarn__stat_1_1Interaction_1_1Interaction_a55b0da50c3831a09243035f65a7750b5}{
+\index{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}!inteseveralcontact@{inteseveralcontact}}
+\index{inteseveralcontact@{inteseveralcontact}!Mycarn_stat::Interaction::Interaction@{\-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{inteseveralcontact}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Interaction\-::\-Interaction\-::inteseveralcontact (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{posit, }
+\item[{}]{s\-R\-N\-A\-\_\-deb, }
+\item[{}]{s\-R\-N\-A\-\_\-end, }
+\item[{}]{m\-R\-N\-A\-\_\-deb, }
+\item[{}]{m\-R\-N\-A\-\_\-end}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Interaction_1_1Interaction_a55b0da50c3831a09243035f65a7750b5}
+
+
+\-Case several contacts score -\/ several contacts energy. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em posit,\-:} & \-Position in the list \\
+\hline
+{\em s\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em s\-R\-N\-A\-\_\-end,\-:} & s\-R\-N\-A end list \\
+\hline
+{\em m\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em m\-R\-N\-A\-\_\-end,\-:} & m\-R\-N\-A end list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position selected and normalised 
+\end{DoxyReturn}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn\-\_\-stat/\-Interaction.\-py\end{DoxyCompactItemize}

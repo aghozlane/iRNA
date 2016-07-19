@@ -1,0 +1,123 @@
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data}{
+\section{\-Mycarn\-\_\-stat\-:\-:\-Rand\-\_\-data\-:\-:\-Rand\-\_\-data \-Class \-Reference}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data}\index{\-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data@{\-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data}}
+}
+
+
+\-Inheritance diagram for \-Mycarn\-\_\-stat\-:\-:\-Rand\-\_\-data\-:\-:\-Rand\-\_\-data\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=256pt]{classMycarn__stat_1_1Rand__data_1_1Rand__data__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for \-Mycarn\-\_\-stat\-:\-:\-Rand\-\_\-data\-:\-:\-Rand\-\_\-data\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=256pt]{classMycarn__stat_1_1Rand__data_1_1Rand__data__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_a377d164e4173eb42b65eb01f99852a8f}{
+def \hyperlink{classMycarn__stat_1_1Rand__data_1_1Rand__data_a377d164e4173eb42b65eb01f99852a8f}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_a377d164e4173eb42b65eb01f99852a8f}
+
+\begin{DoxyCompactList}\small\item\em \-Instanciate rand\-\_\-data object. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Rand__data_1_1Rand__data_a00edfbe0847cfdce73d378a0086d3b9f}{get\-Randinf}
+\begin{DoxyCompactList}\small\item\em \-Load soft parameters. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_a3f7fa04c25505f50aaa4d379c4d041d3}{
+def \hyperlink{classMycarn__stat_1_1Rand__data_1_1Rand__data_a3f7fa04c25505f50aaa4d379c4d041d3}{getall\-Softs}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_a3f7fa04c25505f50aaa4d379c4d041d3}
+
+\begin{DoxyCompactList}\small\item\em \-Get soft corresponding to one name. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Rand__data_1_1Rand__data_a5343a62e4b9581ed0fda9e8f843cf370}{get\-Rand\-Rna}
+\begin{DoxyCompactList}\small\item\em \-Get analysis of one s\-R\-N\-A by one soft. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_ac24e301400d1bbcb1de2534a7015dddf}{
+{\bfseries combined}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_ac24e301400d1bbcb1de2534a7015dddf}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_a43f25327ac85031d8cd6057302188c67}{
+{\bfseries soft}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_a43f25327ac85031d8cd6057302188c67}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_a49831eaeb4968f936e41d112459995d9}{
+{\bfseries s\-R\-N\-A}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_a49831eaeb4968f936e41d112459995d9}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_a6ba5a66eaf0fd31e3d8b49b3ec1eec8b}{
+{\bfseries intercept}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_a6ba5a66eaf0fd31e3d8b49b3ec1eec8b}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_a6c7443232bce69fdc24d4123e863aec9}{
+{\bfseries slope}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_a6c7443232bce69fdc24d4123e863aec9}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_ab6a512ff4ed4ad02b18e4de9e37341a7}{
+{\bfseries unique\-\_\-soft}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_ab6a512ff4ed4ad02b18e4de9e37341a7}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_a00edfbe0847cfdce73d378a0086d3b9f}{
+\index{\-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data@{\-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data}!get\-Randinf@{get\-Randinf}}
+\index{get\-Randinf@{get\-Randinf}!Mycarn_stat::Rand_data::Rand_data@{\-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data}}
+\subsubsection[{get\-Randinf}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data\-::get\-Randinf (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{rand\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_a00edfbe0847cfdce73d378a0086d3b9f}
+
+
+\-Load soft parameters. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em rand\-\_\-file,\-:} & \-Random file \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn__stat_1_1Rand__data_1_1Rand__data_a5343a62e4b9581ed0fda9e8f843cf370}{
+\index{\-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data@{\-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data}!get\-Rand\-Rna@{get\-Rand\-Rna}}
+\index{get\-Rand\-Rna@{get\-Rand\-Rna}!Mycarn_stat::Rand_data::Rand_data@{\-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data}}
+\subsubsection[{get\-Rand\-Rna}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data\-::get\-Rand\-Rna (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{soft, }
+\item[{}]{s\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Rand__data_1_1Rand__data_a5343a62e4b9581ed0fda9e8f843cf370}
+
+
+\-Get analysis of one s\-R\-N\-A by one soft. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em soft,\-:} & software name \\
+\hline
+{\em s\-R\-N\-A,\-:} & s\-R\-N\-A name \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn\-\_\-stat/\-Rand\-\_\-data.\-py\end{DoxyCompactItemize}

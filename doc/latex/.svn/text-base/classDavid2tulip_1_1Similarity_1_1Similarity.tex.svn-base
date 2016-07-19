@@ -1,0 +1,89 @@
+\hypertarget{classDavid2tulip_1_1Similarity_1_1Similarity}{
+\section{\-David2tulip\-:\-:\-Similarity\-:\-:\-Similarity \-Class \-Reference}
+\label{classDavid2tulip_1_1Similarity_1_1Similarity}\index{\-David2tulip\-::\-Similarity\-::\-Similarity@{\-David2tulip\-::\-Similarity\-::\-Similarity}}
+}
+
+
+\-Inheritance diagram for \-David2tulip\-:\-:\-Similarity\-:\-:\-Similarity\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=238pt]{classDavid2tulip_1_1Similarity_1_1Similarity__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for \-David2tulip\-:\-:\-Similarity\-:\-:\-Similarity\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=238pt]{classDavid2tulip_1_1Similarity_1_1Similarity__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classDavid2tulip_1_1Similarity_1_1Similarity_ad0433eab59b9c71c62e51f387fca5dcb}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate similarity parser object. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Similarity_1_1Similarity_a3a1724a9a72a300d331ea339d812d7d6}{setdata}
+\begin{DoxyCompactList}\small\item\em \-Add s\-R\-N\-A -\/ s\-R\-N\-A edges based on their similarity. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classDavid2tulip_1_1Similarity_1_1Similarity_a08e5f7fb5d99e7a70982d5ff738acbd0}{
+{\bfseries similarity\-\_\-file}}
+\label{classDavid2tulip_1_1Similarity_1_1Similarity_a08e5f7fb5d99e7a70982d5ff738acbd0}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classDavid2tulip_1_1Similarity_1_1Similarity_ad0433eab59b9c71c62e51f387fca5dcb}{
+\index{\-David2tulip\-::\-Similarity\-::\-Similarity@{\-David2tulip\-::\-Similarity\-::\-Similarity}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!David2tulip::Similarity::Similarity@{\-David2tulip\-::\-Similarity\-::\-Similarity}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Similarity\-::\-Similarity\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{similarity\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Similarity_1_1Similarity_ad0433eab59b9c71c62e51f387fca5dcb}
+
+
+\-Instanciate similarity parser object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em similarity\-\_\-file,\-:} & \hyperlink{classDavid2tulip_1_1Similarity_1_1Similarity}{\-Similarity} file \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classDavid2tulip_1_1Similarity_1_1Similarity_a3a1724a9a72a300d331ea339d812d7d6}{
+\index{\-David2tulip\-::\-Similarity\-::\-Similarity@{\-David2tulip\-::\-Similarity\-::\-Similarity}!setdata@{setdata}}
+\index{setdata@{setdata}!David2tulip::Similarity::Similarity@{\-David2tulip\-::\-Similarity\-::\-Similarity}}
+\subsubsection[{setdata}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Similarity\-::\-Similarity\-::setdata (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{node\-\_\-objects, }
+\item[{}]{edge\-\_\-objects}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Similarity_1_1Similarity_a3a1724a9a72a300d331ea339d812d7d6}
+
+
+\-Add s\-R\-N\-A -\/ s\-R\-N\-A edges based on their similarity. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em node\-\_\-objects,\-:} & list of node objects \\
+\hline
+{\em edge\-\_\-objects,\-:} & list of edge objects \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-David2tulip/\-Similarity.\-py\end{DoxyCompactItemize}

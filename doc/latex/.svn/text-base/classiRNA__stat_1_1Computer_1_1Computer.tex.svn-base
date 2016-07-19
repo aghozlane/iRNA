@@ -1,0 +1,157 @@
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer}{
+\section{i\-R\-N\-A\-\_\-stat\-:\-:\-Computer\-:\-:\-Computer \-Class \-Reference}
+\label{classiRNA__stat_1_1Computer_1_1Computer}\index{i\-R\-N\-A\-\_\-stat\-::\-Computer\-::\-Computer@{i\-R\-N\-A\-\_\-stat\-::\-Computer\-::\-Computer}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__stat_1_1Computer_1_1Computer_a93bca318e3d8f6cdf2ef3817eb6d7857}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classiRNA__stat_1_1Computer_1_1Computer}{\-Computer} object. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a1b81bc3ce595d6a615c24b43342c0c4e}{
+{\bfseries ppv}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a1b81bc3ce595d6a615c24b43342c0c4e}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a54f921bc61ec2e4c71c5e8621aa4dd46}{
+{\bfseries sensitivity}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a54f921bc61ec2e4c71c5e8621aa4dd46}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a777a8cd95f12f4610736d111018d3fd5}{
+{\bfseries classtype}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a777a8cd95f12f4610736d111018d3fd5}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a1123f7734735ae9c8d49450df49e3a06}{
+{\bfseries curve\-\_\-param}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a1123f7734735ae9c8d49450df49e3a06}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a5567ae62be1bc8bfcaaff8c78e5a0c83}{
+{\bfseries softid}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a5567ae62be1bc8bfcaaff8c78e5a0c83}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_abdfd728bbb02719b67f09604b3bcd244}{
+{\bfseries numsoft}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_abdfd728bbb02719b67f09604b3bcd244}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a414c5e54b9481b410901f44c98d5dbfa}{
+{\bfseries name}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a414c5e54b9481b410901f44c98d5dbfa}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_ac9a73e545192a1cdc9c7b43addab9ad7}{
+{\bfseries cumneg}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_ac9a73e545192a1cdc9c7b43addab9ad7}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a8396be92d868ab75e1ac75e2a091ba0e}{
+{\bfseries type\-\_\-sol}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a8396be92d868ab75e1ac75e2a091ba0e}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a8048569f551b3a63424a54b0ca9c4388}{
+{\bfseries score\-\_\-type}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a8048569f551b3a63424a54b0ca9c4388}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a2064e5e3798cf196bbb7737f0628dc19}{
+{\bfseries p\-Value\-\_\-type}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a2064e5e3798cf196bbb7737f0628dc19}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a159ae8152e529a2fcefadd51c0c6b146}{
+{\bfseries nbinteract}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a159ae8152e529a2fcefadd51c0c6b146}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a019c258a4a0bec3950b6279819e9f35f}{
+{\bfseries interactions}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a019c258a4a0bec3950b6279819e9f35f}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a22761d5858282183c3e8b5d1ae10ed56}{
+{\bfseries s\-R\-N\-Aid\-\_\-tab}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a22761d5858282183c3e8b5d1ae10ed56}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a9113072dc7a4d3a100462e9913d7c5f9}{
+{\bfseries unique\-\_\-s\-R\-N\-Aidinint}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a9113072dc7a4d3a100462e9913d7c5f9}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a30d37bab423d448c5b75f9dec7e86d5b}{
+{\bfseries norm\-\_\-score}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a30d37bab423d448c5b75f9dec7e86d5b}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_ac44e4507c1a2c84cb484be1861f3732a}{
+{\bfseries pos}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_ac44e4507c1a2c84cb484be1861f3732a}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a74a4bdb4d94ee044207396696a60c0c4}{
+{\bfseries p\-Value}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a74a4bdb4d94ee044207396696a60c0c4}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a548a0474da2a0319cd1ad3425759293e}{
+{\bfseries select}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a548a0474da2a0319cd1ad3425759293e}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a68a8cf6ac102852d3f1ddc39abe7134c}{
+{\bfseries interact}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a68a8cf6ac102852d3f1ddc39abe7134c}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classiRNA__stat_1_1Computer_1_1Computer_a93bca318e3d8f6cdf2ef3817eb6d7857}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Computer\-::\-Computer@{i\-R\-N\-A\-\_\-stat\-::\-Computer\-::\-Computer}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!iRNA_stat::Computer::Computer@{i\-R\-N\-A\-\_\-stat\-::\-Computer\-::\-Computer}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Computer\-::\-Computer\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{softid, }
+\item[{}]{name, }
+\item[{}]{numsoft, }
+\item[{}]{type\-\_\-sol, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{dbmanage, }
+\item[{}]{args}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Computer_1_1Computer_a93bca318e3d8f6cdf2ef3817eb6d7857}
+
+
+\-Instanciate \hyperlink{classiRNA__stat_1_1Computer_1_1Computer}{\-Computer} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em softid,\-:} & \-Id of the software \\
+\hline
+{\em name,\-:} & \-Name of the software \\
+\hline
+{\em numsoft,\-:} & \-Corresponding numsoft in soft\-\_\-inf \\
+\hline
+{\em type\-\_\-sol,\-:} & \-Type of solution \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+{\em args,\-:} & \-Arguments \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-stat/\-Computer.\-py\end{DoxyCompactItemize}

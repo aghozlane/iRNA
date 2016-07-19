@@ -1,0 +1,128 @@
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data}{
+\section{i\-R\-N\-A\-\_\-stat\-:\-:\-Exp\-\_\-data\-:\-:\-Exp\-\_\-data \-Class \-Reference}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data}\index{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data@{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data}}
+}
+
+
+\-Inheritance diagram for i\-R\-N\-A\-\_\-stat\-:\-:\-Exp\-\_\-data\-:\-:\-Exp\-\_\-data\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=236pt]{classiRNA__stat_1_1Exp__data_1_1Exp__data__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for i\-R\-N\-A\-\_\-stat\-:\-:\-Exp\-\_\-data\-:\-:\-Exp\-\_\-data\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=236pt]{classiRNA__stat_1_1Exp__data_1_1Exp__data__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_a57499f8e7fb154163a423c62412333cb}{
+def \hyperlink{classiRNA__stat_1_1Exp__data_1_1Exp__data_a57499f8e7fb154163a423c62412333cb}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_a57499f8e7fb154163a423c62412333cb}
+
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classiRNA__stat_1_1Exp__data_1_1Exp__data}{\-Exp\-\_\-data} object. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Exp__data_1_1Exp__data_af46acae1fc1e3aeebb30f7b44afe3853}{get\-Expinf}
+\begin{DoxyCompactList}\small\item\em \-Parse experiment file. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Exp__data_1_1Exp__data_a3199f1165285f745375f92839ff8ea62}{get\-Exp\-Pair}
+\begin{DoxyCompactList}\small\item\em \-Get the experimental experience for one s\-R\-N\-A-\/m\-R\-N\-A interaction. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_a6d46e04a20aa9d21f2688dabbc6c595d}{
+{\bfseries combined}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_a6d46e04a20aa9d21f2688dabbc6c595d}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_a6ea1b4794587aca779e3be0152dd8a2b}{
+{\bfseries s\-R\-N\-A}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_a6ea1b4794587aca779e3be0152dd8a2b}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_acc8433fff7059360881f5aa4aa5c9a80}{
+{\bfseries m\-R\-N\-A}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_acc8433fff7059360881f5aa4aa5c9a80}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_a37832f256a2cae118a5c3fcd86cbfbc1}{
+{\bfseries s\-R\-N\-A\-\_\-deb}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_a37832f256a2cae118a5c3fcd86cbfbc1}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_a7e30d8ea9816fd3025f5ec7cfe5279d6}{
+{\bfseries s\-R\-N\-A\-\_\-fin}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_a7e30d8ea9816fd3025f5ec7cfe5279d6}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_abff74526666d20eadad47639c06e77ab}{
+{\bfseries m\-R\-N\-A\-\_\-deb}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_abff74526666d20eadad47639c06e77ab}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_ac101a3b4d08f3cd6386ca8a10adcfa85}{
+{\bfseries m\-R\-N\-A\-\_\-fin}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_ac101a3b4d08f3cd6386ca8a10adcfa85}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_a640ebd465c78de95b0885b42a357e702}{
+{\bfseries lenexp\-\_\-data}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_a640ebd465c78de95b0885b42a357e702}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_af46acae1fc1e3aeebb30f7b44afe3853}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data@{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data}!get\-Expinf@{get\-Expinf}}
+\index{get\-Expinf@{get\-Expinf}!iRNA_stat::Exp_data::Exp_data@{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data}}
+\subsubsection[{get\-Expinf}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data\-::get\-Expinf (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{exp\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_af46acae1fc1e3aeebb30f7b44afe3853}
+
+
+\-Parse experiment file. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em exp\-\_\-file,\-:} & \-Experiment file \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__stat_1_1Exp__data_1_1Exp__data_a3199f1165285f745375f92839ff8ea62}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data@{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data}!get\-Exp\-Pair@{get\-Exp\-Pair}}
+\index{get\-Exp\-Pair@{get\-Exp\-Pair}!iRNA_stat::Exp_data::Exp_data@{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data}}
+\subsubsection[{get\-Exp\-Pair}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data\-::get\-Exp\-Pair (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{s\-R\-N\-A, }
+\item[{}]{m\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Exp__data_1_1Exp__data_a3199f1165285f745375f92839ff8ea62}
+
+
+\-Get the experimental experience for one s\-R\-N\-A-\/m\-R\-N\-A interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em s\-R\-N\-A,\-:} & name of s\-R\-N\-A \\
+\hline
+{\em m\-R\-N\-A,\-:} & name of m\-R\-N\-A \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-stat/\-Exp\-\_\-data.\-py\end{DoxyCompactItemize}

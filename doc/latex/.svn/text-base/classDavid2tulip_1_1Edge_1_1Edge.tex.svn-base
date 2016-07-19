@@ -1,0 +1,144 @@
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge}{
+\section{\-David2tulip\-:\-:\-Edge\-:\-:\-Edge \-Class \-Reference}
+\label{classDavid2tulip_1_1Edge_1_1Edge}\index{\-David2tulip\-::\-Edge\-::\-Edge@{\-David2tulip\-::\-Edge\-::\-Edge}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classDavid2tulip_1_1Edge_1_1Edge_a65e8d9fd17b81971c7aba3f6766cdab7}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classDavid2tulip_1_1Edge_1_1Edge}{\-Edge} object. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Edge_1_1Edge_a58e48290ac5f50c00a251994f53d2381}{println}
+\begin{DoxyCompactList}\small\item\em \-Print edge value. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Edge_1_1Edge_a2ae07b94fb26586708d7e675f93d312a}{\-\_\-\-\_\-cmp\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-General method to compare edge based on the name of nodes. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a1a55e3c411b269e1e7d954bfc760ad63}{
+{\bfseries node1}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a1a55e3c411b269e1e7d954bfc760ad63}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_ae14ff180af1a3aaca20c30ff84ba9b8d}{
+{\bfseries node2}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_ae14ff180af1a3aaca20c30ff84ba9b8d}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_ae040c68ba01c81fad8a4b52f66e7487d}{
+{\bfseries p\-Value}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_ae040c68ba01c81fad8a4b52f66e7487d}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a0284ea110a2c31748290cf14f689ab2e}{
+{\bfseries similarity}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a0284ea110a2c31748290cf14f689ab2e}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a5a9063d9fa26738a310b825e5d0cab96}{
+{\bfseries category}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a5a9063d9fa26738a310b825e5d0cab96}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_af1cd665da5641252f313da22cd9b2753}{
+{\bfseries category\-Name}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_af1cd665da5641252f313da22cd9b2753}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_ab1bf7c230a1470f8a6e0c2d6be7a12b8}{
+{\bfseries term\-Name}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_ab1bf7c230a1470f8a6e0c2d6be7a12b8}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a1309ae29ee550894b6ec91aa67aecf78}{
+{\bfseries s\-R\-N\-A\-\_\-deb}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a1309ae29ee550894b6ec91aa67aecf78}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a42bebca6de29511aeea46f6f6be2656b}{
+{\bfseries s\-R\-N\-A\-\_\-end}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a42bebca6de29511aeea46f6f6be2656b}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_ae60f63d022a5f3ce7e70143a7211bf59}{
+{\bfseries m\-R\-N\-A\-\_\-deb}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_ae60f63d022a5f3ce7e70143a7211bf59}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a63c138f39eb35262d7fbd7234121913f}{
+{\bfseries m\-R\-N\-A\-\_\-end}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a63c138f39eb35262d7fbd7234121913f}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a137d84a9720e1e090cca788d7cfc639a}{
+{\bfseries dbrec}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a137d84a9720e1e090cca788d7cfc639a}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a65e8d9fd17b81971c7aba3f6766cdab7}{
+\index{\-David2tulip\-::\-Edge\-::\-Edge@{\-David2tulip\-::\-Edge\-::\-Edge}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!David2tulip::Edge::Edge@{\-David2tulip\-::\-Edge\-::\-Edge}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Edge\-::\-Edge\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{node1, }
+\item[{}]{node2}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a65e8d9fd17b81971c7aba3f6766cdab7}
+
+
+\-Instanciate \hyperlink{classDavid2tulip_1_1Edge_1_1Edge}{\-Edge} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em node1,\-:} & s\-R\-N\-A node \\
+\hline
+{\em node2,\-:} & m\-R\-N\-A node \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a2ae07b94fb26586708d7e675f93d312a}{
+\index{\-David2tulip\-::\-Edge\-::\-Edge@{\-David2tulip\-::\-Edge\-::\-Edge}!\-\_\-\-\_\-cmp\-\_\-\-\_\-@{\-\_\-\-\_\-cmp\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-cmp\-\_\-\-\_\-@{\-\_\-\-\_\-cmp\-\_\-\-\_\-}!David2tulip::Edge::Edge@{\-David2tulip\-::\-Edge\-::\-Edge}}
+\subsubsection[{\-\_\-\-\_\-cmp\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Edge\-::\-Edge\-::\-\_\-\-\_\-cmp\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{other}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a2ae07b94fb26586708d7e675f93d312a}
+
+
+\-General method to compare edge based on the name of nodes. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em other,\-:} & \-Compared value \\
+\hline
+\end{DoxyParams}
+\hypertarget{classDavid2tulip_1_1Edge_1_1Edge_a58e48290ac5f50c00a251994f53d2381}{
+\index{\-David2tulip\-::\-Edge\-::\-Edge@{\-David2tulip\-::\-Edge\-::\-Edge}!println@{println}}
+\index{println@{println}!David2tulip::Edge::Edge@{\-David2tulip\-::\-Edge\-::\-Edge}}
+\subsubsection[{println}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Edge\-::\-Edge\-::println (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Edge_1_1Edge_a58e48290ac5f50c00a251994f53d2381}
+
+
+\-Print edge value. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-String converted values 
+\end{DoxyReturn}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-David2tulip/\-Edge.\-py\end{DoxyCompactItemize}

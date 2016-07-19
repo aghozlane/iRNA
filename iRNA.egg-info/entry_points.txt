@@ -1,0 +1,6 @@
+[console_scripts]
+iRNA_seq = irna.iRNA_seq.iRNA_seq:main
+David2tulip = irna.David2tulip.David2tulip:main
+iRNA_pred = irna.iRNA_pred.iRNA_pred:main
+iRNA_stat = irna.iRNA_stat.iRNA_stat:main
+

@@ -1,0 +1,342 @@
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction}{
+\section{i\-R\-N\-A\-\_\-stat\-:\-:\-Interaction\-:\-:\-Interaction \-Class \-Reference}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction}\index{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+}
+
+
+\-Inheritance diagram for i\-R\-N\-A\-\_\-stat\-:\-:\-Interaction\-:\-:\-Interaction\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=246pt]{classiRNA__stat_1_1Interaction_1_1Interaction__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for i\-R\-N\-A\-\_\-stat\-:\-:\-Interaction\-:\-:\-Interaction\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=246pt]{classiRNA__stat_1_1Interaction_1_1Interaction__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_a490729883ceb1b60c46df9cdbf7577de}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction}{\-Interaction} object. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a3d64b947b2e30140767277368dbaf825}{
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_a3d64b947b2e30140767277368dbaf825}{defintefunction}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a3d64b947b2e30140767277368dbaf825}
+
+\begin{DoxyCompactList}\small\item\em \-Determine the function to apply depending of the type of solution. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_ad9db056d06beb2de5fc2b01f50437fba}{intebestsol}
+\begin{DoxyCompactList}\small\item\em \-Case best solution. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_a24e9413a3db0e64e373cdb06f6a52610}{inteseveralcontact}
+\begin{DoxyCompactList}\small\item\em \-Case several contacts score -\/ several contacts energy. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_a36be82cec36aa6873c82e4b452f75d14}{inteonesol}
+\begin{DoxyCompactList}\small\item\em \-Case \-: one solution. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_a5c7aaf6595b7346b631445e9d30cf14b}{get\-Interaction}
+\begin{DoxyCompactList}\small\item\em \-Compute interaction position. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a8b12af4e9cadf2826f39eae185ea2548}{
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_a8b12af4e9cadf2826f39eae185ea2548}{ncbp}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a8b12af4e9cadf2826f39eae185ea2548}
+
+\begin{DoxyCompactList}\small\item\em \-Compute the number of correctly predicted base pairings. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_ab9af77d67e6c335684748dbe0efcc3d3}{compute\-\_\-ppv}
+\begin{DoxyCompactList}\small\item\em \-Compute \-P\-P\-V. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_af643f7427d7e773181b61f1af23d4324}{compute\-\_\-sensitivity}
+\begin{DoxyCompactList}\small\item\em \-Compute sensitivity. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a0f344b2522f2709903c600d9baacf643}{
+def {\bfseries compute\-\_\-sens\-\_\-ppv}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a0f344b2522f2709903c600d9baacf643}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_ad1f075f420129c18cd90063dac71779e}{
+def {\bfseries \-Interaction\-\_\-data}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_ad1f075f420129c18cd90063dac71779e}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a692572d98fa71eeee7d57499d66dcb09}{
+def \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction_a692572d98fa71eeee7d57499d66dcb09}{run}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a692572d98fa71eeee7d57499d66dcb09}
+
+\begin{DoxyCompactList}\small\item\em \-Compute interaction precision and sensitivity. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a5d2e32f93c0ca9227c598d49351b3517}{
+{\bfseries intefuncmap}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a5d2e32f93c0ca9227c598d49351b3517}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a5589025eaa5392275bb556718d522fbb}{
+{\bfseries interactions}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a5589025eaa5392275bb556718d522fbb}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a30cb6ec9f9f49337b173f7e1eb9227af}{
+{\bfseries type\-\_\-sol}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a30cb6ec9f9f49337b173f7e1eb9227af}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a237f20934ef14d0e7e9b677c5c27c117}{
+{\bfseries pos}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a237f20934ef14d0e7e9b677c5c27c117}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_af700794857d9e1575a525cdf62fffc1d}{
+{\bfseries exp\-\_\-inf}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_af700794857d9e1575a525cdf62fffc1d}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a8a5f1c7f4623275885a36b4b3b16b160}{
+{\bfseries dbmanage}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a8a5f1c7f4623275885a36b4b3b16b160}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_ad6c9f8129a3ead26e46b4351c84a5dc7}{
+{\bfseries ppv}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_ad6c9f8129a3ead26e46b4351c84a5dc7}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a5cb8f122d65cba82cee299e252da0bae}{
+{\bfseries sensitivity}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a5cb8f122d65cba82cee299e252da0bae}
+
+\item 
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a26ad02b4c1e1d94b1a959b7136ecb39d}{
+{\bfseries classtype}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a26ad02b4c1e1d94b1a959b7136ecb39d}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a490729883ceb1b60c46df9cdbf7577de}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!iRNA_stat::Interaction::Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{dbmanage, }
+\item[{}]{exp\-\_\-inf}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a490729883ceb1b60c46df9cdbf7577de}
+
+
+\-Instanciate \hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction}{\-Interaction} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Communication object \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+{\em exp\-\_\-inf,\-:} & \-Exp\-\_\-inf object \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_ab9af77d67e6c335684748dbe0efcc3d3}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}!compute\-\_\-ppv@{compute\-\_\-ppv}}
+\index{compute\-\_\-ppv@{compute\-\_\-ppv}!iRNA_stat::Interaction::Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{compute\-\_\-ppv}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction\-::compute\-\_\-ppv (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-Pinteract, }
+\item[{}]{\-Rinteract}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_ab9af77d67e6c335684748dbe0efcc3d3}
+
+
+\-Compute \-P\-P\-V. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-Pinteract,\-:} & \-Predicted interaction position \\
+\hline
+{\em \-Rinteract,\-:} & \-Real interaction position \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-P\-P\-V of one interation 
+\end{DoxyReturn}
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_af643f7427d7e773181b61f1af23d4324}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}!compute\-\_\-sensitivity@{compute\-\_\-sensitivity}}
+\index{compute\-\_\-sensitivity@{compute\-\_\-sensitivity}!iRNA_stat::Interaction::Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{compute\-\_\-sensitivity}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction\-::compute\-\_\-sensitivity (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-Pinteract, }
+\item[{}]{\-Rinteract}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_af643f7427d7e773181b61f1af23d4324}
+
+
+\-Compute sensitivity. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-Pinteract,\-:} & \-Predicted interaction position \\
+\hline
+{\em \-Rinteract,\-:} & \-Real interaction position \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: sensitivity of one interation 
+\end{DoxyReturn}
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a5c7aaf6595b7346b631445e9d30cf14b}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}!get\-Interaction@{get\-Interaction}}
+\index{get\-Interaction@{get\-Interaction}!iRNA_stat::Interaction::Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{get\-Interaction}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction\-::get\-Interaction (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{posit, }
+\item[{}]{s\-R\-N\-A\-\_\-deb, }
+\item[{}]{s\-R\-N\-A\-\_\-end, }
+\item[{}]{m\-R\-N\-A\-\_\-deb, }
+\item[{}]{m\-R\-N\-A\-\_\-end, }
+\item[{}]{predict, }
+\item[{}]{intefuncpoint}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a5c7aaf6595b7346b631445e9d30cf14b}
+
+
+\-Compute interaction position. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em posit,\-:} & \-Position in the list \\
+\hline
+{\em s\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em s\-R\-N\-A\-\_\-end,\-:} & s\-R\-N\-A end list \\
+\hline
+{\em m\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em m\-R\-N\-A\-\_\-end,\-:} & m\-R\-N\-A end list \\
+\hline
+{\em predict,\-:} & \-Flag \-Predict position \\
+\hline
+{\em intefuncpoint,\-:} & \-Function pointer to analysis function \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position selected and normalised 
+\end{DoxyReturn}
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_ad9db056d06beb2de5fc2b01f50437fba}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}!intebestsol@{intebestsol}}
+\index{intebestsol@{intebestsol}!iRNA_stat::Interaction::Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{intebestsol}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction\-::intebestsol (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{posit, }
+\item[{}]{s\-R\-N\-A\-\_\-deb, }
+\item[{}]{s\-R\-N\-A\-\_\-end, }
+\item[{}]{m\-R\-N\-A\-\_\-deb, }
+\item[{}]{m\-R\-N\-A\-\_\-end}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_ad9db056d06beb2de5fc2b01f50437fba}
+
+
+\-Case best solution. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em posit,\-:} & \-Position in the list \\
+\hline
+{\em s\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em s\-R\-N\-A\-\_\-end,\-:} & s\-R\-N\-A end list \\
+\hline
+{\em m\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em m\-R\-N\-A\-\_\-end,\-:} & m\-R\-N\-A end list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position selected and normalised 
+\end{DoxyReturn}
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a36be82cec36aa6873c82e4b452f75d14}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}!inteonesol@{inteonesol}}
+\index{inteonesol@{inteonesol}!iRNA_stat::Interaction::Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{inteonesol}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction\-::inteonesol (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{posit, }
+\item[{}]{s\-R\-N\-A\-\_\-deb, }
+\item[{}]{s\-R\-N\-A\-\_\-end, }
+\item[{}]{m\-R\-N\-A\-\_\-deb, }
+\item[{}]{m\-R\-N\-A\-\_\-end}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a36be82cec36aa6873c82e4b452f75d14}
+
+
+\-Case \-: one solution. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em posit,\-:} & \-Position in the list \\
+\hline
+{\em s\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em s\-R\-N\-A\-\_\-end,\-:} & s\-R\-N\-A end list \\
+\hline
+{\em m\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em m\-R\-N\-A\-\_\-end,\-:} & m\-R\-N\-A end list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position selected and normalised 
+\end{DoxyReturn}
+\hypertarget{classiRNA__stat_1_1Interaction_1_1Interaction_a24e9413a3db0e64e373cdb06f6a52610}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}!inteseveralcontact@{inteseveralcontact}}
+\index{inteseveralcontact@{inteseveralcontact}!iRNA_stat::Interaction::Interaction@{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction}}
+\subsubsection[{inteseveralcontact}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction\-::inteseveralcontact (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{posit, }
+\item[{}]{s\-R\-N\-A\-\_\-deb, }
+\item[{}]{s\-R\-N\-A\-\_\-end, }
+\item[{}]{m\-R\-N\-A\-\_\-deb, }
+\item[{}]{m\-R\-N\-A\-\_\-end}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1Interaction_1_1Interaction_a24e9413a3db0e64e373cdb06f6a52610}
+
+
+\-Case several contacts score -\/ several contacts energy. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em posit,\-:} & \-Position in the list \\
+\hline
+{\em s\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em s\-R\-N\-A\-\_\-end,\-:} & s\-R\-N\-A end list \\
+\hline
+{\em m\-R\-N\-A\-\_\-deb,\-:} & s\-R\-N\-A begin list \\
+\hline
+{\em m\-R\-N\-A\-\_\-end,\-:} & m\-R\-N\-A end list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Position selected and normalised 
+\end{DoxyReturn}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-stat/\-Interaction.\-py\end{DoxyCompactItemize}

@@ -1,0 +1,1386 @@
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager}{
+\section{irna\-:\-:i\-R\-N\-A\-\_\-pred\-:\-:\-Sqlite\-\_\-manager\-:\-:\-Sqlite\-\_\-manager \-Class \-Reference}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager}\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+}
+
+
+\-: \-Handle database connection, disconnection and querying.  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a0626c7c5d29ac000f76cc2bac969fcf7}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager}{\-Sqlite\-\_\-manager} object. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9c02981f33d88fab7686f779e5c73d3a}{create\-S\-Q\-Ldb}
+\begin{DoxyCompactList}\small\item\em \-Create the database. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a28389195c38f5d98643cb9aa56eaa537}{connect\-D\-B}
+\begin{DoxyCompactList}\small\item\em \-Connect to the database. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a6821f956aeea2d6b8ba4ab2d102465b5}{disconnect\-D\-B}
+\begin{DoxyCompactList}\small\item\em \-Disconnect the database. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4eba5f3b304c37b90dd6b8870c08f454}{disconnect\-D\-B2}
+\begin{DoxyCompactList}\small\item\em \-Disconnect the database and copy on to the disk. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a50f7762786d30d3c900f895d88f515d3}{set\-Soft}
+\begin{DoxyCompactList}\small\item\em \-Insert soft name. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5bf16670032a84a8a6238420d0761e7e}{set\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Insert \-R\-N\-A. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ab06ddf69854a39667ab111c373c439af}{set\-Interact}
+\begin{DoxyCompactList}\small\item\em \-Insert interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9bbd6d43a4dd7c5f4b8523b4775d8b86}{commit\-Retry}
+\begin{DoxyCompactList}\small\item\em \-Retry the commit operation. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a1d82da10d0bd3cd3575e0b0e054c367c}{set\-Contact}
+\begin{DoxyCompactList}\small\item\em \-Insert contacts. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2ba8e2f9c607a6d47d721971e4a90ac7}{get\-Soft}
+\begin{DoxyCompactList}\small\item\em \-Get if software exist by its id. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2951f4e1cc909ad25dc98dd48d69d80c}{get\-Softname}
+\begin{DoxyCompactList}\small\item\em \-Get if software exist by its id. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_afa3cb8e393e3f44fe793d41af380018c}{getid\-Softsbyname}
+\begin{DoxyCompactList}\small\item\em \-Get id of softwares corresponding to one name. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ab30274419c653cbdb86bf7dab28984a1}{getall\-R\-N\-Alength}
+\begin{DoxyCompactList}\small\item\em \-Get all \-R\-N\-A length. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a17a8ea894e0504f561ea4e60d658c047}{getall\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Get all \-R\-N\-A name from one type. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_add58966c3f2add065d7d586153a55e5f}{get\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Get an \-R\-N\-A by its name and type. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_af68a2718981b5e1efd9daab3e0a509f6}{gets\-R\-N\-Alenby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get an s\-R\-N\-A length from an interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aed7105da89f02d8dcddd2a2faa5e276f}{get\-Alls\-R\-N\-Alenby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get an s\-R\-N\-A length from an interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a72b35aa253f17047b8dddf3d7fcb5843}{gets\-R\-N\-Aidby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get an s\-R\-N\-Aid from an interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9b654f967762afb4523faec2bc46ecd5}{get\-Alls\-R\-N\-Aidby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get an s\-R\-N\-Aid from an interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4b7c3e61ec03142f8e54eb958ec000db}{getm\-R\-N\-Alenby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get an m\-R\-N\-A from an interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_add4f439129ee312e04fa573192140778}{get\-Allm\-R\-N\-Alenby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get an m\-R\-N\-A from an interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a107cbbe309c1483e7f444a062d8723fd}{get\-Nb\-Interact}
+\begin{DoxyCompactList}\small\item\em \-Count the number of interaction for one software. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5d66b1a8ab3fec8350c0f74c12e1725a}{get\-Interact}
+\begin{DoxyCompactList}\small\item\em \-Get interactions of one software. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a47cd2b34913c85a5ac361642cbd0c3c5}{get\-Score}
+\begin{DoxyCompactList}\small\item\em \-Get the score of an interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a22b2b76603b0fdcde8ec3a0cae539f48}{get\-All\-Score}
+\begin{DoxyCompactList}\small\item\em \-Get the score for several interactions. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a7a74bfefd9d86308304d10ddf3c69529}{get\-All\-Soft}
+\begin{DoxyCompactList}\small\item\em \-Get all the software. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a40c44e207ad15c15c430d8cb0d50e938}{gets\-R\-N\-Aby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get the name of an s\-R\-N\-A from interaction key. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a500a555058cd9e9158ef11483160cc6e}{getm\-R\-N\-Aby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get the name of an m\-R\-N\-A from interaction key. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5b5305e80ea802d9aba503ec807b077b}{listit}
+\begin{DoxyCompactList}\small\item\em \-Convert fetchall result into list of list. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad27f82c334375719c81effd16623c95a}{listscore}
+\begin{DoxyCompactList}\small\item\em \-Unlist score. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a3fe31821704f4cead42df8d64a65fccd}{get\-Positionsby\-Intid}
+\begin{DoxyCompactList}\small\item\em \-Get position for one interaction. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a56d7243e633ecb59b93ecfc577a61f67}{getalls\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Get all s\-R\-N\-A. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a160a7d719623d2c4801d66b91f7438af}{getalls\-R\-N\-Aname}
+\begin{DoxyCompactList}\small\item\em \-Get an s\-R\-N\-A name and unlist. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a0261a3823fdbe0c3aa86106260ea77d5}{get\-Intbys\-R\-N\-Aid}
+\begin{DoxyCompactList}\small\item\em \-Get the interactid for an s\-R\-N\-A. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a7406ef84f08d71df5e7ff47297512f0b}{\-Index\-Interactid\-On\-Contact}
+\begin{DoxyCompactList}\small\item\em \-Create index on interactid for contact. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a3c1414f56c3477f5473a82db551160f9}{\-Index\-Srnaid\-On\-Interact}
+\begin{DoxyCompactList}\small\item\em \-Create index on srnaid for interact. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a248263f42ffb07448b67cfdf62f7a769}{\-Index\-Mrnaid\-On\-Interact}
+\begin{DoxyCompactList}\small\item\em \-Create index on mrnaid for interact. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aaf8ac726c0412ccf835a933e1c1b0651}{create\-Indexes}
+\begin{DoxyCompactList}\small\item\em \-Create index for most use connection. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2b57feee9cdabf2ea396ff827737c3fe}{db\-\_\-path}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aacef37f4f6945d8676b524b8c50e227b}{db\-\_\-file}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad637e4dc91f2eaa43ddfe25d1236a775}{fastmode}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad0b959a24ff11ec813d46f1fc61ec96f}{conn2}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4bfee60ded8574f01d14edb8c64c9725}{conn}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a6757d0d89fd278edd50e3aeef4884166}{cur}
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Handle database connection, disconnection and querying. 
+
+\-Definition at line 16 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a0626c7c5d29ac000f76cc2bac969fcf7}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{result, }
+\item[{}]{db\-\_\-file, }
+\item[{}]{fastmode}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a0626c7c5d29ac000f76cc2bac969fcf7}
+
+
+\-Instanciate \hyperlink{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager}{\-Sqlite\-\_\-manager} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em result,\-:} & \-Path where to write the database \\
+\hline
+{\em db\-\_\-file,\-:} & \-S\-Qlite db file \\
+\hline
+{\em fastmode,\-:} & fastmode flag \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 25 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9bbd6d43a4dd7c5f4b8523b4775d8b86}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!commit\-Retry@{commit\-Retry}}
+\index{commit\-Retry@{commit\-Retry}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{commit\-Retry}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::commit\-Retry (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9bbd6d43a4dd7c5f4b8523b4775d8b86}
+
+
+\-Retry the commit operation. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-State of the commit 
+\end{DoxyReturn}
+
+
+\-Definition at line 154 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-Contact(), set\-Contact(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-Interact(), set\-Interact(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-R\-N\-A(), set\-R\-N\-A(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-Soft(), and set\-Soft().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a28389195c38f5d98643cb9aa56eaa537}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!connect\-D\-B@{connect\-D\-B}}
+\index{connect\-D\-B@{connect\-D\-B}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{connect\-D\-B}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::connect\-D\-B (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a28389195c38f5d98643cb9aa56eaa537}
+
+
+\-Connect to the database. 
+
+
+
+\-Definition at line 48 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by create\-S\-Q\-Ldb().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aaf8ac726c0412ccf835a933e1c1b0651}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!create\-Indexes@{create\-Indexes}}
+\index{create\-Indexes@{create\-Indexes}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{create\-Indexes}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::create\-Indexes (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aaf8ac726c0412ccf835a933e1c1b0651}
+
+
+\-Create index for most use connection. 
+
+
+
+\-Definition at line 531 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by getalls\-R\-N\-Aname().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9c02981f33d88fab7686f779e5c73d3a}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!create\-S\-Q\-Ldb@{create\-S\-Q\-Ldb}}
+\index{create\-S\-Q\-Ldb@{create\-S\-Q\-Ldb}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{create\-S\-Q\-Ldb}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::create\-S\-Q\-Ldb (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9c02981f33d88fab7686f779e5c73d3a}
+
+
+\-Create the database. 
+
+
+
+\-Definition at line 34 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::conn2, conn2, connect\-D\-B(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::db\-\_\-file, db\-\_\-file, irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::db\-\_\-path, and db\-\_\-path.
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a6821f956aeea2d6b8ba4ab2d102465b5}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!disconnect\-D\-B@{disconnect\-D\-B}}
+\index{disconnect\-D\-B@{disconnect\-D\-B}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{disconnect\-D\-B}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::disconnect\-D\-B (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a6821f956aeea2d6b8ba4ab2d102465b5}
+
+
+\-Disconnect the database. 
+
+
+
+\-Definition at line 63 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::conn, conn, irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::conn2, conn2, disconnect\-D\-B2(), irna\-::\-David2tulip\-::\-Files\-::\-Files\-::fastmode, irna\-::i\-R\-N\-A\-\_\-pred\-::\-Files\-::\-Files\-::fastmode, irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::fastmode, and fastmode.
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4eba5f3b304c37b90dd6b8870c08f454}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!disconnect\-D\-B2@{disconnect\-D\-B2}}
+\index{disconnect\-D\-B2@{disconnect\-D\-B2}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{disconnect\-D\-B2}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::disconnect\-D\-B2 (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4eba5f3b304c37b90dd6b8870c08f454}
+
+
+\-Disconnect the database and copy on to the disk. 
+
+
+
+\-Definition at line 74 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::cur, cur, and set\-Soft().
+
+
+
+\-Referenced by disconnect\-D\-B().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_add4f439129ee312e04fa573192140778}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Allm\-R\-N\-Alenby\-Intid@{get\-Allm\-R\-N\-Alenby\-Intid}}
+\index{get\-Allm\-R\-N\-Alenby\-Intid@{get\-Allm\-R\-N\-Alenby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Allm\-R\-N\-Alenby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Allm\-R\-N\-Alenby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{table\-\_\-interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_add4f439129ee312e04fa573192140778}
+
+
+\-Get an m\-R\-N\-A from an interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em table\-\_\-interactid,\-:} & table of interaction id \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of m\-R\-N\-A length 
+\end{DoxyReturn}
+
+
+\-Definition at line 341 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-Score().
+
+
+
+\-Referenced by get\-Alls\-R\-N\-Aidby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a17a8ea894e0504f561ea4e60d658c047}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!getall\-R\-N\-A@{getall\-R\-N\-A}}
+\index{getall\-R\-N\-A@{getall\-R\-N\-A}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{getall\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getall\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{type\-\_\-\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a17a8ea894e0504f561ea4e60d658c047}
+
+
+\-Get all \-R\-N\-A name from one type. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em type\-\_\-\-R\-N\-A,\-:} & \-Type of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: list of \-R\-N\-A 
+\end{DoxyReturn}
+
+
+\-Definition at line 240 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References gets\-R\-N\-Alenby\-Intid().
+
+
+
+\-Referenced by getid\-Softsbyname().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ab30274419c653cbdb86bf7dab28984a1}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!getall\-R\-N\-Alength@{getall\-R\-N\-Alength}}
+\index{getall\-R\-N\-Alength@{getall\-R\-N\-Alength}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{getall\-R\-N\-Alength}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getall\-R\-N\-Alength (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{type\-\_\-\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ab30274419c653cbdb86bf7dab28984a1}
+
+
+\-Get all \-R\-N\-A length. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em type\-\_\-\-R\-N\-A,\-:} & \-Type of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: list of \-R\-N\-A with their length 
+\end{DoxyReturn}
+
+
+\-Definition at line 228 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-R\-N\-A().
+
+
+
+\-Referenced by get\-Softname().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a22b2b76603b0fdcde8ec3a0cae539f48}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-All\-Score@{get\-All\-Score}}
+\index{get\-All\-Score@{get\-All\-Score}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-All\-Score}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-All\-Score (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{table\-\_\-interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a22b2b76603b0fdcde8ec3a0cae539f48}
+
+
+\-Get the score for several interactions. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em table\-\_\-interactid,\-:} & list of interaction key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of score 
+\end{DoxyReturn}
+
+
+\-Definition at line 395 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References getm\-R\-N\-Aby\-Intid(), and listit().
+
+
+
+\-Referenced by get\-Nb\-Interact().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a7a74bfefd9d86308304d10ddf3c69529}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-All\-Soft@{get\-All\-Soft}}
+\index{get\-All\-Soft@{get\-All\-Soft}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-All\-Soft}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-All\-Soft (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a7a74bfefd9d86308304d10ddf3c69529}
+
+
+\-Get all the software. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of software 
+\end{DoxyReturn}
+
+
+\-Definition at line 409 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::listit(), listit(), and listscore().
+
+
+
+\-Referenced by get\-Interact().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a56d7243e633ecb59b93ecfc577a61f67}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!getalls\-R\-N\-A@{getalls\-R\-N\-A}}
+\index{getalls\-R\-N\-A@{getalls\-R\-N\-A}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{getalls\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getalls\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a56d7243e633ecb59b93ecfc577a61f67}
+
+
+\-Get all s\-R\-N\-A. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of rnaid 
+\end{DoxyReturn}
+
+
+\-Definition at line 474 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References \-Index\-Mrnaid\-On\-Interact().
+
+
+
+\-Referenced by getm\-R\-N\-Aby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9b654f967762afb4523faec2bc46ecd5}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Alls\-R\-N\-Aidby\-Intid@{get\-Alls\-R\-N\-Aidby\-Intid}}
+\index{get\-Alls\-R\-N\-Aidby\-Intid@{get\-Alls\-R\-N\-Aidby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Alls\-R\-N\-Aidby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Alls\-R\-N\-Aidby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{table\-\_\-interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a9b654f967762afb4523faec2bc46ecd5}
+
+
+\-Get an s\-R\-N\-Aid from an interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & \hyperlink{namespaceirna_1_1iRNA__pred_1_1Interaction}{\-Interaction} id \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of s\-R\-N\-Aid 
+\end{DoxyReturn}
+
+
+\-Definition at line 310 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-Allm\-R\-N\-Alenby\-Intid(), getm\-R\-N\-Aby\-Intid(), and irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getm\-R\-N\-Aby\-Intid().
+
+
+
+\-Referenced by get\-Alls\-R\-N\-Alenby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aed7105da89f02d8dcddd2a2faa5e276f}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Alls\-R\-N\-Alenby\-Intid@{get\-Alls\-R\-N\-Alenby\-Intid}}
+\index{get\-Alls\-R\-N\-Alenby\-Intid@{get\-Alls\-R\-N\-Alenby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Alls\-R\-N\-Alenby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Alls\-R\-N\-Alenby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{table\-\_\-interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aed7105da89f02d8dcddd2a2faa5e276f}
+
+
+\-Get an s\-R\-N\-A length from an interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em table\-\_\-interactid,\-:} & table of interaction id \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: list of s\-R\-N\-A length 
+\end{DoxyReturn}
+
+
+\-Definition at line 280 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-Alls\-R\-N\-Aidby\-Intid().
+
+
+
+\-Referenced by get\-R\-N\-A().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a160a7d719623d2c4801d66b91f7438af}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!getalls\-R\-N\-Aname@{getalls\-R\-N\-Aname}}
+\index{getalls\-R\-N\-Aname@{getalls\-R\-N\-Aname}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{getalls\-R\-N\-Aname}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getalls\-R\-N\-Aname (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a160a7d719623d2c4801d66b91f7438af}
+
+
+\-Get an s\-R\-N\-A name and unlist. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of rnaid 
+\end{DoxyReturn}
+
+
+\-Definition at line 485 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References create\-Indexes(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::\-Index\-Interactid\-On\-Contact(), \-Index\-Interactid\-On\-Contact(), \-Index\-Mrnaid\-On\-Interact(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::\-Index\-Mrnaid\-On\-Interact(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::\-Index\-Srnaid\-On\-Interact(), and \-Index\-Srnaid\-On\-Interact().
+
+
+
+\-Referenced by listit().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_afa3cb8e393e3f44fe793d41af380018c}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!getid\-Softsbyname@{getid\-Softsbyname}}
+\index{getid\-Softsbyname@{getid\-Softsbyname}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{getid\-Softsbyname}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getid\-Softsbyname (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{name}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_afa3cb8e393e3f44fe793d41af380018c}
+
+
+\-Get id of softwares corresponding to one name. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em name,\-:} & name of a software \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: list of softid 
+\end{DoxyReturn}
+
+
+\-Definition at line 216 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References getall\-R\-N\-A().
+
+
+
+\-Referenced by get\-Soft().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a0261a3823fdbe0c3aa86106260ea77d5}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Intbys\-R\-N\-Aid@{get\-Intbys\-R\-N\-Aid}}
+\index{get\-Intbys\-R\-N\-Aid@{get\-Intbys\-R\-N\-Aid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Intbys\-R\-N\-Aid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Intbys\-R\-N\-Aid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{srnaid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a0261a3823fdbe0c3aa86106260ea77d5}
+
+
+\-Get the interactid for an s\-R\-N\-A. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em srnaid,\-:} & rna key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of interactid 
+\end{DoxyReturn}
+
+
+\-Definition at line 497 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by listscore().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5d66b1a8ab3fec8350c0f74c12e1725a}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Interact@{get\-Interact}}
+\index{get\-Interact@{get\-Interact}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Interact}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Interact (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{softid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5d66b1a8ab3fec8350c0f74c12e1725a}
+
+
+\-Get interactions of one software. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em softid,\-:} & soft key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of interactid 
+\end{DoxyReturn}
+
+
+\-Definition at line 371 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-All\-Soft(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::listscore(), and listscore().
+
+
+
+\-Referenced by getm\-R\-N\-Alenby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a500a555058cd9e9158ef11483160cc6e}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!getm\-R\-N\-Aby\-Intid@{getm\-R\-N\-Aby\-Intid}}
+\index{getm\-R\-N\-Aby\-Intid@{getm\-R\-N\-Aby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{getm\-R\-N\-Aby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getm\-R\-N\-Aby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a500a555058cd9e9158ef11483160cc6e}
+
+
+\-Get the name of an m\-R\-N\-A from interaction key. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & interaction key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: name of the m\-R\-N\-A 
+\end{DoxyReturn}
+
+
+\-Definition at line 433 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References getalls\-R\-N\-A().
+
+
+
+\-Referenced by get\-All\-Score(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Alls\-R\-N\-Aidby\-Intid(), and get\-Alls\-R\-N\-Aidby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4b7c3e61ec03142f8e54eb958ec000db}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!getm\-R\-N\-Alenby\-Intid@{getm\-R\-N\-Alenby\-Intid}}
+\index{getm\-R\-N\-Alenby\-Intid@{getm\-R\-N\-Alenby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{getm\-R\-N\-Alenby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getm\-R\-N\-Alenby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4b7c3e61ec03142f8e54eb958ec000db}
+
+
+\-Get an m\-R\-N\-A from an interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & \hyperlink{namespaceirna_1_1iRNA__pred_1_1Interaction}{\-Interaction} id \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: m\-R\-N\-A length 
+\end{DoxyReturn}
+
+
+\-Definition at line 327 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-Interact(), and get\-Nb\-Interact().
+
+
+
+\-Referenced by gets\-R\-N\-Aidby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a107cbbe309c1483e7f444a062d8723fd}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Nb\-Interact@{get\-Nb\-Interact}}
+\index{get\-Nb\-Interact@{get\-Nb\-Interact}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Nb\-Interact}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Nb\-Interact (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{softid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a107cbbe309c1483e7f444a062d8723fd}
+
+
+\-Count the number of interaction for one software. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em softid,\-:} & soft key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Number of interaction 
+\end{DoxyReturn}
+
+
+\-Definition at line 358 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-All\-Score(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::listscore(), and listscore().
+
+
+
+\-Referenced by getm\-R\-N\-Alenby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a3fe31821704f4cead42df8d64a65fccd}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Positionsby\-Intid@{get\-Positionsby\-Intid}}
+\index{get\-Positionsby\-Intid@{get\-Positionsby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Positionsby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Positionsby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a3fe31821704f4cead42df8d64a65fccd}
+
+
+\-Get position for one interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & interact key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of position 
+\end{DoxyReturn}
+
+
+\-Definition at line 463 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References \-Index\-Interactid\-On\-Contact(), and \-Index\-Srnaid\-On\-Interact().
+
+
+
+\-Referenced by gets\-R\-N\-Aby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_add58966c3f2add065d7d586153a55e5f}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-R\-N\-A@{get\-R\-N\-A}}
+\index{get\-R\-N\-A@{get\-R\-N\-A}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{name, }
+\item[{}]{type\-\_\-\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_add58966c3f2add065d7d586153a55e5f}
+
+
+\-Get an \-R\-N\-A by its name and type. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em name,\-:} & \-R\-N\-A name \\
+\hline
+{\em type,\-:} & \-R\-N\-A type \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-A rnaid 
+\end{DoxyReturn}
+
+
+\-Definition at line 254 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-Alls\-R\-N\-Alenby\-Intid().
+
+
+
+\-Referenced by getall\-R\-N\-Alength().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a47cd2b34913c85a5ac361642cbd0c3c5}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Score@{get\-Score}}
+\index{get\-Score@{get\-Score}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Score}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Score (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a47cd2b34913c85a5ac361642cbd0c3c5}
+
+
+\-Get the score of an interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & interaction key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of score 
+\end{DoxyReturn}
+
+
+\-Definition at line 383 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References gets\-R\-N\-Aby\-Intid().
+
+
+
+\-Referenced by get\-Allm\-R\-N\-Alenby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2ba8e2f9c607a6d47d721971e4a90ac7}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Soft@{get\-Soft}}
+\index{get\-Soft@{get\-Soft}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Soft}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Soft (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{softid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2ba8e2f9c607a6d47d721971e4a90ac7}
+
+
+\-Get if software exist by its id. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em softid,\-:} & \-Soft key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-A softid 
+\end{DoxyReturn}
+
+
+\-Definition at line 192 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References getid\-Softsbyname().
+
+
+
+\-Referenced by set\-Contact().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2951f4e1cc909ad25dc98dd48d69d80c}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!get\-Softname@{get\-Softname}}
+\index{get\-Softname@{get\-Softname}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{get\-Softname}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Softname (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{softid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2951f4e1cc909ad25dc98dd48d69d80c}
+
+
+\-Get if software exist by its id. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em softid,\-:} & \-Soft key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-A software name 
+\end{DoxyReturn}
+
+
+\-Definition at line 204 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References getall\-R\-N\-Alength(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::listscore(), and listscore().
+
+
+
+\-Referenced by set\-Contact().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a40c44e207ad15c15c430d8cb0d50e938}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!gets\-R\-N\-Aby\-Intid@{gets\-R\-N\-Aby\-Intid}}
+\index{gets\-R\-N\-Aby\-Intid@{gets\-R\-N\-Aby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{gets\-R\-N\-Aby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::gets\-R\-N\-Aby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a40c44e207ad15c15c430d8cb0d50e938}
+
+
+\-Get the name of an s\-R\-N\-A from interaction key. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & interaction key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: name of the s\-R\-N\-A 
+\end{DoxyReturn}
+
+
+\-Definition at line 421 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-Positionsby\-Intid().
+
+
+
+\-Referenced by get\-Score(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::gets\-R\-N\-Alenby\-Intid(), and gets\-R\-N\-Alenby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a72b35aa253f17047b8dddf3d7fcb5843}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!gets\-R\-N\-Aidby\-Intid@{gets\-R\-N\-Aidby\-Intid}}
+\index{gets\-R\-N\-Aidby\-Intid@{gets\-R\-N\-Aidby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{gets\-R\-N\-Aidby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::gets\-R\-N\-Aidby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a72b35aa253f17047b8dddf3d7fcb5843}
+
+
+\-Get an s\-R\-N\-Aid from an interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & \hyperlink{namespaceirna_1_1iRNA__pred_1_1Interaction}{\-Interaction} id \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 296 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References getm\-R\-N\-Alenby\-Intid().
+
+
+
+\-Referenced by gets\-R\-N\-Alenby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_af68a2718981b5e1efd9daab3e0a509f6}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!gets\-R\-N\-Alenby\-Intid@{gets\-R\-N\-Alenby\-Intid}}
+\index{gets\-R\-N\-Alenby\-Intid@{gets\-R\-N\-Alenby\-Intid}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{gets\-R\-N\-Alenby\-Intid}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::gets\-R\-N\-Alenby\-Intid (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interactid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_af68a2718981b5e1efd9daab3e0a509f6}
+
+
+\-Get an s\-R\-N\-A length from an interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & \hyperlink{namespaceirna_1_1iRNA__pred_1_1Interaction}{\-Interaction} id \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: s\-R\-N\-A length 
+\end{DoxyReturn}
+
+
+\-Definition at line 266 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::gets\-R\-N\-Aby\-Intid(), gets\-R\-N\-Aby\-Intid(), and gets\-R\-N\-Aidby\-Intid().
+
+
+
+\-Referenced by getall\-R\-N\-A().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a7406ef84f08d71df5e7ff47297512f0b}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!\-Index\-Interactid\-On\-Contact@{\-Index\-Interactid\-On\-Contact}}
+\index{\-Index\-Interactid\-On\-Contact@{\-Index\-Interactid\-On\-Contact}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{\-Index\-Interactid\-On\-Contact}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::\-Index\-Interactid\-On\-Contact (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a7406ef84f08d71df5e7ff47297512f0b}
+
+
+\-Create index on interactid for contact. 
+
+
+
+\-Definition at line 507 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getalls\-R\-N\-Aname(), getalls\-R\-N\-Aname(), and get\-Positionsby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a248263f42ffb07448b67cfdf62f7a769}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!\-Index\-Mrnaid\-On\-Interact@{\-Index\-Mrnaid\-On\-Interact}}
+\index{\-Index\-Mrnaid\-On\-Interact@{\-Index\-Mrnaid\-On\-Interact}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{\-Index\-Mrnaid\-On\-Interact}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::\-Index\-Mrnaid\-On\-Interact (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a248263f42ffb07448b67cfdf62f7a769}
+
+
+\-Create index on mrnaid for interact. 
+
+
+
+\-Definition at line 523 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by getalls\-R\-N\-A(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getalls\-R\-N\-Aname(), and getalls\-R\-N\-Aname().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a3c1414f56c3477f5473a82db551160f9}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!\-Index\-Srnaid\-On\-Interact@{\-Index\-Srnaid\-On\-Interact}}
+\index{\-Index\-Srnaid\-On\-Interact@{\-Index\-Srnaid\-On\-Interact}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{\-Index\-Srnaid\-On\-Interact}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::\-Index\-Srnaid\-On\-Interact (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a3c1414f56c3477f5473a82db551160f9}
+
+
+\-Create index on srnaid for interact. 
+
+
+
+\-Definition at line 515 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::getalls\-R\-N\-Aname(), getalls\-R\-N\-Aname(), and get\-Positionsby\-Intid().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5b5305e80ea802d9aba503ec807b077b}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!listit@{listit}}
+\index{listit@{listit}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{listit}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::listit (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{t}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5b5305e80ea802d9aba503ec807b077b}
+
+
+\-Convert fetchall result into list of list. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of list 
+\end{DoxyReturn}
+
+
+\-Definition at line 444 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References getalls\-R\-N\-Aname().
+
+
+
+\-Referenced by get\-All\-Score(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-All\-Soft(), and get\-All\-Soft().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad27f82c334375719c81effd16623c95a}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!listscore@{listscore}}
+\index{listscore@{listscore}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{listscore}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::listscore (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad27f82c334375719c81effd16623c95a}
+
+
+\-Unlist score. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of score 
+\end{DoxyReturn}
+
+
+\-Definition at line 452 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References get\-Intbys\-R\-N\-Aid(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::listscore(), and listscore().
+
+
+
+\-Referenced by get\-All\-Soft(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Interact(), get\-Interact(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Nb\-Interact(), get\-Nb\-Interact(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::get\-Softname(), get\-Softname(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::listscore(), and listscore().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a1d82da10d0bd3cd3575e0b0e054c367c}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!set\-Contact@{set\-Contact}}
+\index{set\-Contact@{set\-Contact}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{set\-Contact}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-Contact (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interactid, }
+\item[{}]{tab}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a1d82da10d0bd3cd3575e0b0e054c367c}
+
+
+\-Insert contacts. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interactid,\-:} & \hyperlink{namespaceirna_1_1iRNA__pred_1_1Interaction}{\-Interaction} key \\
+\hline
+{\em tab,\-:} & \-Table of contact \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 169 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::commit\-Retry(), commit\-Retry(), get\-Soft(), and get\-Softname().
+
+
+
+\-Referenced by set\-Interact().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ab06ddf69854a39667ab111c373c439af}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!set\-Interact@{set\-Interact}}
+\index{set\-Interact@{set\-Interact}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{set\-Interact}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-Interact (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{s\-R\-N\-Aid, }
+\item[{}]{m\-R\-N\-Aid, }
+\item[{}]{softid}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ab06ddf69854a39667ab111c373c439af}
+
+
+\-Insert interaction. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em s\-R\-N\-Aid,\-:} & s\-R\-N\-A key \\
+\hline
+{\em m\-R\-N\-Aid,\-:} & m\-R\-N\-A key \\
+\hline
+{\em softid,\-:} & soft key \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Last insert id 
+\end{DoxyReturn}
+
+
+\-Definition at line 137 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References commit\-Retry(), and set\-Contact().
+
+
+
+\-Referenced by set\-R\-N\-A().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5bf16670032a84a8a6238420d0761e7e}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!set\-R\-N\-A@{set\-R\-N\-A}}
+\index{set\-R\-N\-A@{set\-R\-N\-A}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{set\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-R\-N\-Atab}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a5bf16670032a84a8a6238420d0761e7e}
+
+
+\-Insert \-R\-N\-A. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-R\-N\-Atab,\-:} & \-Table of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 107 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::commit\-Retry(), commit\-Retry(), irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::cur, cur, and set\-Interact().
+
+
+
+\-Referenced by set\-Soft().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a50f7762786d30d3c900f895d88f515d3}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!set\-Soft@{set\-Soft}}
+\index{set\-Soft@{set\-Soft}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{set\-Soft}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-Soft (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{name}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a50f7762786d30d3c900f895d88f515d3}
+
+
+\-Insert soft name. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em name,\-:} & \-Soft name \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Last insert id 
+\end{DoxyReturn}
+
+
+\-Definition at line 90 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-References irna\-::\-David2tulip\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::commit\-Retry(), commit\-Retry(), and set\-R\-N\-A().
+
+
+
+\-Referenced by disconnect\-D\-B2().
+
+
+
+\subsection{\-Member \-Data \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4bfee60ded8574f01d14edb8c64c9725}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!conn@{conn}}
+\index{conn@{conn}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{conn}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::conn}}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a4bfee60ded8574f01d14edb8c64c9725}
+
+
+\-Definition at line 48 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::disconnect\-D\-B(), and disconnect\-D\-B().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad0b959a24ff11ec813d46f1fc61ec96f}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!conn2@{conn2}}
+\index{conn2@{conn2}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{conn2}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::conn2}}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad0b959a24ff11ec813d46f1fc61ec96f}
+
+
+\-Definition at line 48 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::create\-S\-Q\-Ldb(), create\-S\-Q\-Ldb(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::disconnect\-D\-B(), and disconnect\-D\-B().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a6757d0d89fd278edd50e3aeef4884166}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!cur@{cur}}
+\index{cur@{cur}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{cur}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::cur}}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a6757d0d89fd278edd50e3aeef4884166}
+
+
+\-Definition at line 48 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::disconnect\-D\-B2(), disconnect\-D\-B2(), irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::set\-R\-N\-A(), and set\-R\-N\-A().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aacef37f4f6945d8676b524b8c50e227b}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!db\-\_\-file@{db\-\_\-file}}
+\index{db\-\_\-file@{db\-\_\-file}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{db\-\_\-file}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::db\-\_\-file}}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_aacef37f4f6945d8676b524b8c50e227b}
+
+
+\-Definition at line 25 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::create\-S\-Q\-Ldb(), and create\-S\-Q\-Ldb().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2b57feee9cdabf2ea396ff827737c3fe}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!db\-\_\-path@{db\-\_\-path}}
+\index{db\-\_\-path@{db\-\_\-path}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{db\-\_\-path}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::db\-\_\-path}}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_a2b57feee9cdabf2ea396ff827737c3fe}
+
+
+\-Definition at line 25 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::create\-S\-Q\-Ldb(), and create\-S\-Q\-Ldb().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad637e4dc91f2eaa43ddfe25d1236a775}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}!fastmode@{fastmode}}
+\index{fastmode@{fastmode}!irna::iRNA_pred::Sqlite_manager::Sqlite_manager@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager}}
+\subsubsection[{fastmode}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::fastmode}}}
+\label{classirna_1_1iRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager_ad637e4dc91f2eaa43ddfe25d1236a775}
+
+
+\-Definition at line 25 of file \-Sqlite\-\_\-manager.\-py.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-stat\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager\-::disconnect\-D\-B(), disconnect\-D\-B(), and irna\-::i\-R\-N\-A\-\_\-stat\-::\-Files\-::\-Files\-::getfiles().
+
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/i\-R\-N\-A/irna/i\-R\-N\-A\-\_\-pred/\hyperlink{iRNA__pred_2Sqlite__manager_8py}{\-Sqlite\-\_\-manager.\-py}\end{DoxyCompactItemize}

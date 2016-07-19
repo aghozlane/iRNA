@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mycarn/!svn/ver/770/Mycarn_v3/irna/iRNA_stat
+END
+Sqlite_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mycarn/!svn/ver/872/Mycarn_v3/irna/iRNA_stat/Sqlite_manager.py
+END
+Parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Parser.py
+END
+Threshold.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Threshold.py
+END
+pValue.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/pValue.py
+END
+Computer.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Computer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mycarn/!svn/ver/763/Mycarn_v3/irna/iRNA_stat/__init__.py
+END
+Pickling.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Pickling.py
+END
+pValue_selection.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/pValue_selection.py
+END
+Ecdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Ecdf.py
+END
+Execute.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mycarn/!svn/ver/871/Mycarn_v3/irna/iRNA_stat/Execute.py
+END
+Files.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mycarn/!svn/ver/871/Mycarn_v3/irna/iRNA_stat/Files.py
+END
+Communication.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Communication.py
+END
+NormScore.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/NormScore.py
+END
+Soft.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Soft.py
+END
+Rand_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Rand_data.py
+END
+Interaction.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Interaction.py
+END
+Regression.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Regression.py
+END
+Analysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Analysis.py
+END
+iRNA_stat.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mycarn/!svn/ver/872/Mycarn_v3/irna/iRNA_stat/iRNA_stat.py
+END
+Mpi.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Mpi.py
+END
+Exp_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_stat/Exp_data.py
+END
+Draw_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mycarn/!svn/ver/922/Mycarn_v3/irna/iRNA_stat/Draw_data.py
+END

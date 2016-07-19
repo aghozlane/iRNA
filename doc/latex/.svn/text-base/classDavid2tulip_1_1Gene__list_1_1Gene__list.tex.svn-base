@@ -1,0 +1,62 @@
+\hypertarget{classDavid2tulip_1_1Gene__list_1_1Gene__list}{
+\section{\-David2tulip\-:\-:\-Gene\-\_\-list\-:\-:\-Gene\-\_\-list \-Class \-Reference}
+\label{classDavid2tulip_1_1Gene__list_1_1Gene__list}\index{\-David2tulip\-::\-Gene\-\_\-list\-::\-Gene\-\_\-list@{\-David2tulip\-::\-Gene\-\_\-list\-::\-Gene\-\_\-list}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classDavid2tulip_1_1Gene__list_1_1Gene__list_a4fcdd30c062d54bec6f3b4d7e69aa63b}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classDavid2tulip_1_1Gene__list_1_1Gene__list}{\-Gene\-\_\-list} object. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classDavid2tulip_1_1Gene__list_1_1Gene__list_ae1e8423d5da16187686159593401a126}{
+{\bfseries s\-R\-N\-A}}
+\label{classDavid2tulip_1_1Gene__list_1_1Gene__list_ae1e8423d5da16187686159593401a126}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Gene__list_1_1Gene__list_a19e62a6c65bdd24bb6b22154c9034b5d}{
+{\bfseries category\-Name}}
+\label{classDavid2tulip_1_1Gene__list_1_1Gene__list_a19e62a6c65bdd24bb6b22154c9034b5d}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Gene__list_1_1Gene__list_ae3c301b61039281f8af284bc8816993a}{
+{\bfseries gene\-Ids}}
+\label{classDavid2tulip_1_1Gene__list_1_1Gene__list_ae3c301b61039281f8af284bc8816993a}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Gene__list_1_1Gene__list_a48dd85498e5daf9020cf23441282598a}{
+{\bfseries term\-Name}}
+\label{classDavid2tulip_1_1Gene__list_1_1Gene__list_a48dd85498e5daf9020cf23441282598a}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classDavid2tulip_1_1Gene__list_1_1Gene__list_a4fcdd30c062d54bec6f3b4d7e69aa63b}{
+\index{\-David2tulip\-::\-Gene\-\_\-list\-::\-Gene\-\_\-list@{\-David2tulip\-::\-Gene\-\_\-list\-::\-Gene\-\_\-list}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!David2tulip::Gene_list::Gene_list@{\-David2tulip\-::\-Gene\-\_\-list\-::\-Gene\-\_\-list}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Gene\-\_\-list\-::\-Gene\-\_\-list\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{sudsobject, }
+\item[{}]{s\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Gene__list_1_1Gene__list_a4fcdd30c062d54bec6f3b4d7e69aa63b}
+
+
+\-Instanciate \hyperlink{classDavid2tulip_1_1Gene__list_1_1Gene__list}{\-Gene\-\_\-list} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em sudsobject,\-:} & suds object \\
+\hline
+{\em s\-R\-N\-A,\-:} & \-Name of the s\-R\-N\-A \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-David2tulip/\-Gene\-\_\-list.\-py\end{DoxyCompactItemize}

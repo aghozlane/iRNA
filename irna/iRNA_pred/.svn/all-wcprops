@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mycarn/!svn/ver/770/Mycarn_v3/irna/iRNA_pred
+END
+Comparison.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mycarn/!svn/ver/763/Mycarn_v3/irna/iRNA_pred/Comparison.py
+END
+Parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_pred/Parse.py
+END
+Sqlite_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mycarn/!svn/ver/872/Mycarn_v3/irna/iRNA_pred/Sqlite_manager.py
+END
+Stat.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_pred/Stat.py
+END
+Fasta.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_pred/Fasta.py
+END
+Interaction.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_pred/Interaction.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mycarn/!svn/ver/763/Mycarn_v3/irna/iRNA_pred/__init__.py
+END
+Merger.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mycarn/!svn/ver/918/Mycarn_v3/irna/iRNA_pred/Merger.py
+END
+RanRNA.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mycarn/!svn/ver/871/Mycarn_v3/irna/iRNA_pred/RanRNA.py
+END
+Files.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mycarn/!svn/ver/871/Mycarn_v3/irna/iRNA_pred/Files.py
+END
+iRNA_pred.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mycarn/!svn/ver/871/Mycarn_v3/irna/iRNA_pred/iRNA_pred.py
+END
+Mpi.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mycarn/!svn/ver/872/Mycarn_v3/irna/iRNA_pred/Mpi.py
+END

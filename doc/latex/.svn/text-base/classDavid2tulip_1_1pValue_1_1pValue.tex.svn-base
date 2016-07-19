@@ -1,0 +1,89 @@
+\hypertarget{classDavid2tulip_1_1pValue_1_1pValue}{
+\section{\-David2tulip\-:\-:p\-Value\-:\-:p\-Value \-Class \-Reference}
+\label{classDavid2tulip_1_1pValue_1_1pValue}\index{\-David2tulip\-::p\-Value\-::p\-Value@{\-David2tulip\-::p\-Value\-::p\-Value}}
+}
+
+
+\-Inheritance diagram for \-David2tulip\-:\-:p\-Value\-:\-:p\-Value\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=216pt]{classDavid2tulip_1_1pValue_1_1pValue__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for \-David2tulip\-:\-:p\-Value\-:\-:p\-Value\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=216pt]{classDavid2tulip_1_1pValue_1_1pValue__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classDavid2tulip_1_1pValue_1_1pValue_a193b68d2e55c2d20b3727c7b6ef45973}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classDavid2tulip_1_1pValue_1_1pValue}{p\-Value} object. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1pValue_1_1pValue_a091913a7aa6274210338248dacc91cba}{setdata}
+\begin{DoxyCompactList}\small\item\em \-Add \hyperlink{classDavid2tulip_1_1pValue_1_1pValue}{p\-Value} information to edges. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classDavid2tulip_1_1pValue_1_1pValue_add5ad98ed8c3ea52a97b2f4277186b32}{
+{\bfseries p\-Value\-\_\-file}}
+\label{classDavid2tulip_1_1pValue_1_1pValue_add5ad98ed8c3ea52a97b2f4277186b32}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classDavid2tulip_1_1pValue_1_1pValue_a193b68d2e55c2d20b3727c7b6ef45973}{
+\index{\-David2tulip\-::p\-Value\-::p\-Value@{\-David2tulip\-::p\-Value\-::p\-Value}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!David2tulip::pValue::pValue@{\-David2tulip\-::p\-Value\-::p\-Value}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::p\-Value\-::p\-Value\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{p\-Value\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1pValue_1_1pValue_a193b68d2e55c2d20b3727c7b6ef45973}
+
+
+\-Instanciate \hyperlink{classDavid2tulip_1_1pValue_1_1pValue}{p\-Value} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em p\-Value\-\_\-file,\-:} & \hyperlink{classDavid2tulip_1_1pValue_1_1pValue}{p\-Value} file \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classDavid2tulip_1_1pValue_1_1pValue_a091913a7aa6274210338248dacc91cba}{
+\index{\-David2tulip\-::p\-Value\-::p\-Value@{\-David2tulip\-::p\-Value\-::p\-Value}!setdata@{setdata}}
+\index{setdata@{setdata}!David2tulip::pValue::pValue@{\-David2tulip\-::p\-Value\-::p\-Value}}
+\subsubsection[{setdata}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::p\-Value\-::p\-Value\-::setdata (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{node\-\_\-objects, }
+\item[{}]{edge\-\_\-objects}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1pValue_1_1pValue_a091913a7aa6274210338248dacc91cba}
+
+
+\-Add \hyperlink{classDavid2tulip_1_1pValue_1_1pValue}{p\-Value} information to edges. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em node\-\_\-objects,\-:} & \-List of node objects \\
+\hline
+{\em edge\-\_\-objects,\-:} & \-List of edge objects \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-David2tulip/p\-Value.\-py\end{DoxyCompactItemize}

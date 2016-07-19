@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: iRNA
+Version: 0.1dev
+Summary: iRNA is an integrative pipeline for genome wide detection of sRNA targets
+Home-page: http://www.cbib.u-bordeaux2.fr/fr/content/iRNA
+Author: Amine Ghozlane
+Author-email: amineghozlane@gmail.com
+License: LGPL
+Description: iRNA provide an analysis based sequence analysis and enrichment analysis. iRNA result files can be visualized through iRNA_vis software.
+Keywords: sRNA targets,enrichment analysis,intaRNA,bioinformatics
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)

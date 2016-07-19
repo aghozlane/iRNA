@@ -1,0 +1,189 @@
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA}{
+\section{\-Mycarn\-:\-:\-Ran\-R\-N\-A\-:\-:\-Ran\-R\-N\-A \-Class \-Reference}
+\label{classMycarn_1_1RanRNA_1_1RanRNA}\index{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+}
+
+
+\-: \-Generate \-Random \-Sequences  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classMycarn_1_1RanRNA_1_1RanRNA_a729c9e1c2cb7f564ac9e7a2c0ad7177d}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\item 
+def \hyperlink{classMycarn_1_1RanRNA_1_1RanRNA_a3328ad689ac39d0cedbbd7a33aba7914}{\-Get\-Values}
+\begin{DoxyCompactList}\small\item\em \-Get double random values. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1RanRNA_1_1RanRNA_aa4e33c32518cdf3a68bd3a086045b35a}{\-Get\-Int\-Values}
+\begin{DoxyCompactList}\small\item\em \-Get integer random values. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1RanRNA_1_1RanRNA_a9737fc25086e2e2398acd80059c4a052}{\-Set\-Letters}
+\begin{DoxyCompactList}\small\item\em \-Set the nucleotide. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1RanRNA_1_1RanRNA_a046f4aec30f99500cb9d5aaa8e66f17b}{\-Generate\-Seq}
+\begin{DoxyCompactList}\small\item\em \-Generate a random sequence. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1RanRNA_1_1RanRNA_a155c58a964194e2c6df00f29a440c546}{\-Write\-Fasta}
+\begin{DoxyCompactList}\small\item\em \-Write the fasta. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a5716cad587c3c6477ee377b8da7be62c}{
+def \hyperlink{classMycarn_1_1RanRNA_1_1RanRNA_a5716cad587c3c6477ee377b8da7be62c}{\-Generate\-File}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a5716cad587c3c6477ee377b8da7be62c}
+
+\begin{DoxyCompactList}\small\item\em \-Generate a multifasta with random sequences. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a2e336f49faafe0c35f284beba11921da}{
+{\bfseries \-G\-C}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a2e336f49faafe0c35f284beba11921da}
+
+\item 
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a8948a10433700f90fa85bfc72b9dd646}{
+{\bfseries \-Seq\-Length}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a8948a10433700f90fa85bfc72b9dd646}
+
+\item 
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a06cabde4f5a2389ff5080c4f7da3d1f0}{
+{\bfseries \-Nb\-Seq}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a06cabde4f5a2389ff5080c4f7da3d1f0}
+
+\item 
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a4a28e3f5316fdd969e7fa5b16502476e}{
+{\bfseries \-Out\-Rep}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a4a28e3f5316fdd969e7fa5b16502476e}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Generate \-Random \-Sequences 
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a729c9e1c2cb7f564ac9e7a2c0ad7177d}{
+\index{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!Mycarn::RanRNA::RanRNA@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-G\-C, }
+\item[{}]{\-Seq\-Length, }
+\item[{}]{\-Nb\-Seq, }
+\item[{}]{\-Out\-Rep}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a729c9e1c2cb7f564ac9e7a2c0ad7177d}
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-G\-C,\-:} & \-G\-C percentage \\
+\hline
+{\em \-Seq\-Length,\-:} & \-Length of sequences \\
+\hline
+{\em \-Nb\-Seq,\-:} & \-Number of sequences \\
+\hline
+{\em \-Out\-Rep,\-:} & \-Output repertory \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a046f4aec30f99500cb9d5aaa8e66f17b}{
+\index{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Generate\-Seq@{\-Generate\-Seq}}
+\index{\-Generate\-Seq@{\-Generate\-Seq}!Mycarn::RanRNA::RanRNA@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Generate\-Seq}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Generate\-Seq (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{seqlength}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a046f4aec30f99500cb9d5aaa8e66f17b}
+
+
+\-Generate a random sequence. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: a random sequence 
+\end{DoxyReturn}
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_aa4e33c32518cdf3a68bd3a086045b35a}{
+\index{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Get\-Int\-Values@{\-Get\-Int\-Values}}
+\index{\-Get\-Int\-Values@{\-Get\-Int\-Values}!Mycarn::RanRNA::RanRNA@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Get\-Int\-Values}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Get\-Int\-Values (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{val, }
+\item[{}]{nbseq}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_aa4e33c32518cdf3a68bd3a086045b35a}
+
+
+\-Get integer random values. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Table of integer random values 
+\end{DoxyReturn}
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a3328ad689ac39d0cedbbd7a33aba7914}{
+\index{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Get\-Values@{\-Get\-Values}}
+\index{\-Get\-Values@{\-Get\-Values}!Mycarn::RanRNA::RanRNA@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Get\-Values}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Get\-Values (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{seqlength}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a3328ad689ac39d0cedbbd7a33aba7914}
+
+
+\-Get double random values. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Table of double random \-Values 
+\end{DoxyReturn}
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a9737fc25086e2e2398acd80059c4a052}{
+\index{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Set\-Letters@{\-Set\-Letters}}
+\index{\-Set\-Letters@{\-Set\-Letters}!Mycarn::RanRNA::RanRNA@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Set\-Letters}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Set\-Letters (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{\-L1, }
+\item[{}]{\-L2}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a9737fc25086e2e2398acd80059c4a052}
+
+
+\-Set the nucleotide. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-L1,\-:} & \-Nucleotide 1 \\
+\hline
+{\em \-L2,\-:} & \-Nucleotide 1 \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Nucleotide 
+\end{DoxyReturn}
+\hypertarget{classMycarn_1_1RanRNA_1_1RanRNA_a155c58a964194e2c6df00f29a440c546}{
+\index{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}!\-Write\-Fasta@{\-Write\-Fasta}}
+\index{\-Write\-Fasta@{\-Write\-Fasta}!Mycarn::RanRNA::RanRNA@{\-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A}}
+\subsubsection[{\-Write\-Fasta}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Write\-Fasta (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{fastafile, }
+\item[{}]{seq}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1RanRNA_1_1RanRNA_a155c58a964194e2c6df00f29a440c546}
+
+
+\-Write the fasta. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em fastafile,\-:} & \-Name of the fasta file \\
+\hline
+{\em seq,\-:} & \-Generated sequence \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn/\-Ran\-R\-N\-A.\-py\end{DoxyCompactItemize}

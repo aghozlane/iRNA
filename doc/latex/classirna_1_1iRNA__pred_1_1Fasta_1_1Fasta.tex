@@ -1,0 +1,266 @@
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta}{
+\section{irna\-:\-:i\-R\-N\-A\-\_\-pred\-:\-:\-Fasta\-:\-:\-Fasta \-Class \-Reference}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta}\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+}
+
+
+\-: \-Write fasta needed for the different software from a multifasta  
+
+
+
+
+\-Inheritance diagram for irna\-:\-:i\-R\-N\-A\-\_\-pred\-:\-:\-Fasta\-:\-:\-Fasta\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=228pt]{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for irna\-:\-:i\-R\-N\-A\-\_\-pred\-:\-:\-Fasta\-:\-:\-Fasta\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=228pt]{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ada3895733bac146ebeed0ed16664276f}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Build fasta object. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a801dd574dc79ccaae741fc5bb5f992ec}{\-Write\-Fasta}
+\begin{DoxyCompactList}\small\item\em \-Write the fasta. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a54f9131171e47763bd69e40e945453ac}{\-Empty\-Rep}
+\begin{DoxyCompactList}\small\item\em \-Empty the folder of fasta files. \end{DoxyCompactList}\item 
+def \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae603f02598a3d1c957405b4ca30902b4}{\-Extract\-Fasta}
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ac05256ad571855ecdd1ff4e8eeaa9803}{cache\-Fasta}
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae664b5739a04db19c16e425f47a035af}{fastafile}
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+tuple \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a55b271085fb4580e9020e5b5f56839f0}{regex} = re.\-compile(\char`\"{}$^\wedge$$>$($\backslash$\-S+)$\backslash$s$\ast$$\backslash$\-S$\ast$\char`\"{})
+\item 
+tuple \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a346e52c2005a75d59cf0aa55928766f3}{regex\-\_\-seq} = re.\-compile(\char`\"{}$^\wedge$\mbox{[}\-A\-T\-G\-Catgc\mbox{]}+$\backslash$\-S$\ast$\char`\"{})
+\item 
+tuple \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_aa844f87b8fb7e618f3d948d0ee0bfd36}{multifasta} = open(mf, \char`\"{}r\char`\"{})
+\item 
+\hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ab5a767c5eafaa89945d545e6f76abb41}{cache\-Data} = \-False
+\item 
+tuple \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae1a5d5e2a5c856ffd0927db279c09653}{a} = regex.\-match(i)
+\item 
+tuple \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_af2a4acf2fd3a504ec7de90149e906d1a}{seqname} = a.\-group(1)
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Write fasta needed for the different software from a multifasta 
+
+\-Definition at line 15 of file \-Fasta.\-py.
+
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ada3895733bac146ebeed0ed16664276f}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ada3895733bac146ebeed0ed16664276f}
+
+
+\-Build fasta object. 
+
+
+
+\-Reimplemented from \hyperlink{classirna_1_1iRNA__pred_1_1Stat_1_1Stat_a254861ef1e86e7645095b0177684a13f}{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat}.
+
+
+
+\-Definition at line 21 of file \-Fasta.\-py.
+
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a54f9131171e47763bd69e40e945453ac}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!\-Empty\-Rep@{\-Empty\-Rep}}
+\index{\-Empty\-Rep@{\-Empty\-Rep}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{\-Empty\-Rep}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::\-Empty\-Rep (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{fasta\-\_\-out}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a54f9131171e47763bd69e40e945453ac}
+
+
+\-Empty the folder of fasta files. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em fasta\-\_\-out,\-:} & \hyperlink{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta}{\-Fasta} repertory \\
+\hline
+\end{DoxyParams}
+
+
+\-Definition at line 49 of file \-Fasta.\-py.
+
+
+
+\-References \-Extract\-Fasta().
+
+
+
+\-Referenced by \-Extract\-Fasta(), and \-Write\-Fasta().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae603f02598a3d1c957405b4ca30902b4}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!\-Extract\-Fasta@{\-Extract\-Fasta}}
+\index{\-Extract\-Fasta@{\-Extract\-Fasta}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{\-Extract\-Fasta}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::\-Extract\-Fasta (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{mf, }
+\item[{}]{fasta\-\_\-out}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae603f02598a3d1c957405b4ca30902b4}
+
+
+\-Definition at line 64 of file \-Fasta.\-py.
+
+
+
+\-References \-Empty\-Rep(), irna\-::i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-G\-C, irna\-::i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Nb\-Seq, and irna\-::i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat\-::open\-Seq\-Inf().
+
+
+
+\-Referenced by \-Empty\-Rep().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a801dd574dc79ccaae741fc5bb5f992ec}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!\-Write\-Fasta@{\-Write\-Fasta}}
+\index{\-Write\-Fasta@{\-Write\-Fasta}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{\-Write\-Fasta}]{\setlength{\rightskip}{0pt plus 5cm}def irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::\-Write\-Fasta (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a801dd574dc79ccaae741fc5bb5f992ec}
+
+
+\-Write the fasta. 
+
+
+
+\-Definition at line 33 of file \-Fasta.\-py.
+
+
+
+\-References cache\-Fasta, \-Empty\-Rep(), and fastafile.
+
+
+
+\-Referenced by irna\-::i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Write\-Fasta().
+
+
+
+\subsection{\-Member \-Data \-Documentation}
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae1a5d5e2a5c856ffd0927db279c09653}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!a@{a}}
+\index{a@{a}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{a}]{\setlength{\rightskip}{0pt plus 5cm}tuple {\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::a} = regex.\-match(i)\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae1a5d5e2a5c856ffd0927db279c09653}
+
+
+\-Definition at line 89 of file \-Fasta.\-py.
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ab5a767c5eafaa89945d545e6f76abb41}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!cache\-Data@{cache\-Data}}
+\index{cache\-Data@{cache\-Data}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{cache\-Data}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::cache\-Data} = \-False\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ab5a767c5eafaa89945d545e6f76abb41}
+
+
+\-Definition at line 87 of file \-Fasta.\-py.
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ac05256ad571855ecdd1ff4e8eeaa9803}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!cache\-Fasta@{cache\-Fasta}}
+\index{cache\-Fasta@{cache\-Fasta}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{cache\-Fasta}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::cache\-Fasta}}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ac05256ad571855ecdd1ff4e8eeaa9803}
+
+
+\-Definition at line 21 of file \-Fasta.\-py.
+
+
+
+\-Referenced by \-Write\-Fasta().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae664b5739a04db19c16e425f47a035af}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!fastafile@{fastafile}}
+\index{fastafile@{fastafile}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{fastafile}]{\setlength{\rightskip}{0pt plus 5cm}{\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::fastafile}}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_ae664b5739a04db19c16e425f47a035af}
+
+
+\-Definition at line 21 of file \-Fasta.\-py.
+
+
+
+\-Referenced by \-Write\-Fasta(), and irna\-::i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A\-::\-Write\-Fasta().
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_aa844f87b8fb7e618f3d948d0ee0bfd36}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!multifasta@{multifasta}}
+\index{multifasta@{multifasta}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{multifasta}]{\setlength{\rightskip}{0pt plus 5cm}tuple {\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::multifasta} = open(mf, \char`\"{}r\char`\"{})\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_aa844f87b8fb7e618f3d948d0ee0bfd36}
+
+
+\-Definition at line 85 of file \-Fasta.\-py.
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a55b271085fb4580e9020e5b5f56839f0}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!regex@{regex}}
+\index{regex@{regex}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{regex}]{\setlength{\rightskip}{0pt plus 5cm}tuple {\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::regex} = re.\-compile(\char`\"{}$^\wedge$$>$($\backslash$\-S+)$\backslash$s$\ast$$\backslash$\-S$\ast$\char`\"{})\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a55b271085fb4580e9020e5b5f56839f0}
+\begin{DoxyVerb}
+Extract multifasta to fasta.
+@param mf: Multifasta file
+@param fasta_out: Fasta repertory
+\end{DoxyVerb}
+ 
+
+\-Definition at line 81 of file \-Fasta.\-py.
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a346e52c2005a75d59cf0aa55928766f3}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!regex\-\_\-seq@{regex\-\_\-seq}}
+\index{regex\-\_\-seq@{regex\-\_\-seq}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{regex\-\_\-seq}]{\setlength{\rightskip}{0pt plus 5cm}tuple {\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::regex\-\_\-seq} = re.\-compile(\char`\"{}$^\wedge$\mbox{[}\-A\-T\-G\-Catgc\mbox{]}+$\backslash$\-S$\ast$\char`\"{})\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_a346e52c2005a75d59cf0aa55928766f3}
+
+
+\-Definition at line 82 of file \-Fasta.\-py.
+
+\hypertarget{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_af2a4acf2fd3a504ec7de90149e906d1a}{
+\index{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}!seqname@{seqname}}
+\index{seqname@{seqname}!irna::iRNA_pred::Fasta::Fasta@{irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{seqname}]{\setlength{\rightskip}{0pt plus 5cm}tuple {\bf irna\-::i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta\-::seqname} = a.\-group(1)\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classirna_1_1iRNA__pred_1_1Fasta_1_1Fasta_af2a4acf2fd3a504ec7de90149e906d1a}
+
+
+\-Definition at line 91 of file \-Fasta.\-py.
+
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/i\-R\-N\-A/irna/i\-R\-N\-A\-\_\-pred/\hyperlink{Fasta_8py}{\-Fasta.\-py}\end{DoxyCompactItemize}

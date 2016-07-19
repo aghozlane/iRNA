@@ -1,0 +1,187 @@
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph}{
+\section{\-David2tulip\-:\-:\-Graph\-:\-:\-Graph \-Class \-Reference}
+\label{classDavid2tulip_1_1Graph_1_1Graph}\index{\-David2tulip\-::\-Graph\-::\-Graph@{\-David2tulip\-::\-Graph\-::\-Graph}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_a159bcf3eda413f2b7622ae3b7e1dcc7c}{
+def \hyperlink{classDavid2tulip_1_1Graph_1_1Graph_a159bcf3eda413f2b7622ae3b7e1dcc7c}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_a159bcf3eda413f2b7622ae3b7e1dcc7c}
+
+\begin{DoxyCompactList}\small\item\em \-Instanciate graph object. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Graph_1_1Graph_abc130d2d08f6f21d5c579d68e77434d1}{parse}
+\begin{DoxyCompactList}\small\item\em \-Parse and information to node and edge objects. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Graph_1_1Graph_aaeceef60da5743141b38aafbcb848d1c}{printnodes}
+\begin{DoxyCompactList}\small\item\em \-Write nodes csv. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Graph_1_1Graph_ab3d0d91bfab7bcd38fc7356c12390cef}{get\-Categories}
+\begin{DoxyCompactList}\small\item\em \-Get active categories. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Graph_1_1Graph_aed7fc5d4da283dc6760ffd0e72b5980d}{get\-Num\-Category}
+\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_a48ffd92bab4f6025bd2772cfa5509015}{
+def \hyperlink{classDavid2tulip_1_1Graph_1_1Graph_a48ffd92bab4f6025bd2772cfa5509015}{verif}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_a48ffd92bab4f6025bd2772cfa5509015}
+
+\begin{DoxyCompactList}\small\item\em \-Verif value for s\-R\-N\-A\-\_\-100. \end{DoxyCompactList}\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_ab721ae66c751b5567cf9353cc9190f73}{
+def {\bfseries filter\-Term\-Name}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_ab721ae66c751b5567cf9353cc9190f73}
+
+\item 
+def \hyperlink{classDavid2tulip_1_1Graph_1_1Graph_a79875c70c53389b5345d17069db3468d}{printedges}
+\begin{DoxyCompactList}\small\item\em \-Write edges csv. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Graph_1_1Graph_a3e0ea1d33033ea604e525f5b170b645c}{writefile}
+\begin{DoxyCompactList}\small\item\em \-Write node and edge csv. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_ad25da7eaef46c7bdfb3bbf77dd0bdba7}{
+{\bfseries node\-\_\-objects}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_ad25da7eaef46c7bdfb3bbf77dd0bdba7}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_a9dfdf324f6722fb06dff045c71f7d439}{
+{\bfseries edge\-\_\-objects}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_a9dfdf324f6722fb06dff045c71f7d439}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_a4894cc4c04dd2e041bf3933fc2c5b358}{
+{\bfseries fcategoryid}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_a4894cc4c04dd2e041bf3933fc2c5b358}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_a8d0fde23cf33c12522e1c7dfe2adac82}{
+{\bfseries gocategoryid}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_a8d0fde23cf33c12522e1c7dfe2adac82}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_a46a9689ff970e519689201dbe2ae9bd1}{
+{\bfseries fregex}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_a46a9689ff970e519689201dbe2ae9bd1}
+
+\item 
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_ab39c209a726024983fe69bfb1b79d50e}{
+{\bfseries goregex}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_ab39c209a726024983fe69bfb1b79d50e}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_ab3d0d91bfab7bcd38fc7356c12390cef}{
+\index{\-David2tulip\-::\-Graph\-::\-Graph@{\-David2tulip\-::\-Graph\-::\-Graph}!get\-Categories@{get\-Categories}}
+\index{get\-Categories@{get\-Categories}!David2tulip::Graph::Graph@{\-David2tulip\-::\-Graph\-::\-Graph}}
+\subsubsection[{get\-Categories}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Graph\-::\-Graph\-::get\-Categories (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_ab3d0d91bfab7bcd38fc7356c12390cef}
+
+
+\-Get active categories. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Unique categories 
+\end{DoxyReturn}
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_aed7fc5d4da283dc6760ffd0e72b5980d}{
+\index{\-David2tulip\-::\-Graph\-::\-Graph@{\-David2tulip\-::\-Graph\-::\-Graph}!get\-Num\-Category@{get\-Num\-Category}}
+\index{get\-Num\-Category@{get\-Num\-Category}!David2tulip::Graph::Graph@{\-David2tulip\-::\-Graph\-::\-Graph}}
+\subsubsection[{get\-Num\-Category}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Graph\-::\-Graph\-::get\-Num\-Category (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{element, }
+\item[{}]{liste}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_aed7fc5d4da283dc6760ffd0e72b5980d}
+
+\begin{DoxyParams}{\-Parameters}
+{\em element,\-:} & \\
+\hline
+{\em liste,\-:} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_abc130d2d08f6f21d5c579d68e77434d1}{
+\index{\-David2tulip\-::\-Graph\-::\-Graph@{\-David2tulip\-::\-Graph\-::\-Graph}!parse@{parse}}
+\index{parse@{parse}!David2tulip::Graph::Graph@{\-David2tulip\-::\-Graph\-::\-Graph}}
+\subsubsection[{parse}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Graph\-::\-Graph\-::parse (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{obj}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_abc130d2d08f6f21d5c579d68e77434d1}
+
+
+\-Parse and information to node and edge objects. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em obj,\-:} & \-Parser-\/linked object \\
+\hline
+\end{DoxyParams}
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_a79875c70c53389b5345d17069db3468d}{
+\index{\-David2tulip\-::\-Graph\-::\-Graph@{\-David2tulip\-::\-Graph\-::\-Graph}!printedges@{printedges}}
+\index{printedges@{printedges}!David2tulip::Graph::Graph@{\-David2tulip\-::\-Graph\-::\-Graph}}
+\subsubsection[{printedges}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Graph\-::\-Graph\-::printedges (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{results}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_a79875c70c53389b5345d17069db3468d}
+
+
+\-Write edges csv. 
+
+\begin{DoxyRefDesc}{\-Todo}
+\item[\hyperlink{todo__todo000002}{\-Todo}]\-: cas où il y a plusieurs fois la meme categorie à debugger \end{DoxyRefDesc}
+
+\begin{DoxyParams}{\-Parameters}
+{\em results,\-:} & \-Path to result repertory \\
+\hline
+\end{DoxyParams}
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_aaeceef60da5743141b38aafbcb848d1c}{
+\index{\-David2tulip\-::\-Graph\-::\-Graph@{\-David2tulip\-::\-Graph\-::\-Graph}!printnodes@{printnodes}}
+\index{printnodes@{printnodes}!David2tulip::Graph::Graph@{\-David2tulip\-::\-Graph\-::\-Graph}}
+\subsubsection[{printnodes}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Graph\-::\-Graph\-::printnodes (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{results}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_aaeceef60da5743141b38aafbcb848d1c}
+
+
+\-Write nodes csv. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em results,\-:} & \-Path to result repertory \\
+\hline
+\end{DoxyParams}
+\hypertarget{classDavid2tulip_1_1Graph_1_1Graph_a3e0ea1d33033ea604e525f5b170b645c}{
+\index{\-David2tulip\-::\-Graph\-::\-Graph@{\-David2tulip\-::\-Graph\-::\-Graph}!writefile@{writefile}}
+\index{writefile@{writefile}!David2tulip::Graph::Graph@{\-David2tulip\-::\-Graph\-::\-Graph}}
+\subsubsection[{writefile}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Graph\-::\-Graph\-::writefile (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{results}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Graph_1_1Graph_a3e0ea1d33033ea604e525f5b170b645c}
+
+
+\-Write node and edge csv. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em results,\-:} & \-Path to result repertory \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-David2tulip/\-Graph.\-py\end{DoxyCompactItemize}

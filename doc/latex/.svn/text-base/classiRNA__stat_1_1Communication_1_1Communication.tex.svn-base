@@ -1,0 +1,17 @@
+\hypertarget{classiRNA__stat_1_1Communication_1_1Communication}{
+\section{i\-R\-N\-A\-\_\-stat\-:\-:\-Communication\-:\-:\-Communication \-Class \-Reference}
+\label{classiRNA__stat_1_1Communication_1_1Communication}\index{i\-R\-N\-A\-\_\-stat\-::\-Communication\-::\-Communication@{i\-R\-N\-A\-\_\-stat\-::\-Communication\-::\-Communication}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__stat_1_1Communication_1_1Communication_a4c3fa04628dd4d5947594ea7e6eec978}{
+def \hyperlink{classiRNA__stat_1_1Communication_1_1Communication_a4c3fa04628dd4d5947594ea7e6eec978}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classiRNA__stat_1_1Communication_1_1Communication_a4c3fa04628dd4d5947594ea7e6eec978}
+
+\begin{DoxyCompactList}\small\item\em \-Empty object used to send messages. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-stat/\-Communication.\-py\end{DoxyCompactItemize}

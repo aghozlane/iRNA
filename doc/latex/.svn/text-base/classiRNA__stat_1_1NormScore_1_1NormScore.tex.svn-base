@@ -1,0 +1,210 @@
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore}{
+\section{i\-R\-N\-A\-\_\-stat\-:\-:\-Norm\-Score\-:\-:\-Norm\-Score \-Class \-Reference}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore}\index{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore_abe1c329937eb488d437df8304fe11692}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore}{\-Norm\-Score} object. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_aa600f8ab5fdb76c41c0ba5a899c230a7}{
+def \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore_aa600f8ab5fdb76c41c0ba5a899c230a7}{defnormfunction}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_aa600f8ab5fdb76c41c0ba5a899c230a7}
+
+\begin{DoxyCompactList}\small\item\em \-Determine the function to apply depending on the type of software. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore_a0f07633c107b5ca811f61288017bf38c}{norm\-Several\-Score}
+\begin{DoxyCompactList}\small\item\em \-Compute normalised score in several score context. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore_a5fff9f0d14773910ee108c56d178aab1}{norm\-Several\-Energy}
+\begin{DoxyCompactList}\small\item\em \-Compute normalised energy in several energy context. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore_a12df92948f7f403f4f7f4df98137cf7f}{norm\-Several\-Contact\-Score}
+\begin{DoxyCompactList}\small\item\em \-Compute normalised energy in several energy context. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore_aae2c7a553462bf098abb6ee143804960}{norm\-Unique\-Solution}
+\begin{DoxyCompactList}\small\item\em \-Compute normalised score/energy in several contact context. \end{DoxyCompactList}\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_a7a752f084f426541afae13c6534060c3}{
+def \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore_a7a752f084f426541afae13c6534060c3}{run}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_a7a752f084f426541afae13c6534060c3}
+
+\begin{DoxyCompactList}\small\item\em \-Compute normalized score. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_a4c896509ee9e9ce7aaefcb5fe2e522c2}{
+{\bfseries normfuncmap}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_a4c896509ee9e9ce7aaefcb5fe2e522c2}
+
+\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_ac8ee31c736c87ab2b871acbcc1b25e3e}{
+{\bfseries interactions}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_ac8ee31c736c87ab2b871acbcc1b25e3e}
+
+\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_abfebe7fea5ec854189cde8cc510400ac}{
+{\bfseries type\-\_\-sol}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_abfebe7fea5ec854189cde8cc510400ac}
+
+\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_a951bd15d2f7a74eeec9acf1543f10173}{
+{\bfseries score\-\_\-type}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_a951bd15d2f7a74eeec9acf1543f10173}
+
+\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_aa19c52bab457c181ac686fefd81d9966}{
+{\bfseries dbmanage}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_aa19c52bab457c181ac686fefd81d9966}
+
+\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_a21076033e15d5312bdea1be5d2f2ef35}{
+{\bfseries norm\-\_\-score}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_a21076033e15d5312bdea1be5d2f2ef35}
+
+\item 
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_ade42896f1a7e36c18adf6ddd898dea43}{
+{\bfseries pos}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_ade42896f1a7e36c18adf6ddd898dea43}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_abe1c329937eb488d437df8304fe11692}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!iRNA_stat::NormScore::NormScore@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{dbmanage}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_abe1c329937eb488d437df8304fe11692}
+
+
+\-Instanciate \hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore}{\-Norm\-Score} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Communication object \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_a12df92948f7f403f4f7f4df98137cf7f}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!norm\-Several\-Contact\-Score@{norm\-Several\-Contact\-Score}}
+\index{norm\-Several\-Contact\-Score@{norm\-Several\-Contact\-Score}!iRNA_stat::NormScore::NormScore@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{norm\-Several\-Contact\-Score}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::norm\-Several\-Contact\-Score (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score, }
+\item[{}]{loglen, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{i}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_a12df92948f7f403f4f7f4df98137cf7f}
+
+
+\-Compute normalised energy in several energy context. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score \\
+\hline
+{\em loglen,\-:} & \-Log length value \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em i,\-:} & \-Position in the tab \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_a5fff9f0d14773910ee108c56d178aab1}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!norm\-Several\-Energy@{norm\-Several\-Energy}}
+\index{norm\-Several\-Energy@{norm\-Several\-Energy}!iRNA_stat::NormScore::NormScore@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{norm\-Several\-Energy}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::norm\-Several\-Energy (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score, }
+\item[{}]{loglen, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{i}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_a5fff9f0d14773910ee108c56d178aab1}
+
+
+\-Compute normalised energy in several energy context. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score \\
+\hline
+{\em loglen,\-:} & \-Log length value \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em i,\-:} & \-Position in the tab \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_a0f07633c107b5ca811f61288017bf38c}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!norm\-Several\-Score@{norm\-Several\-Score}}
+\index{norm\-Several\-Score@{norm\-Several\-Score}!iRNA_stat::NormScore::NormScore@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{norm\-Several\-Score}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::norm\-Several\-Score (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score, }
+\item[{}]{loglen, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{i}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_a0f07633c107b5ca811f61288017bf38c}
+
+
+\-Compute normalised score in several score context. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score \\
+\hline
+{\em loglen,\-:} & \-Log length value \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em i,\-:} & \-Position in the tab \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__stat_1_1NormScore_1_1NormScore_aae2c7a553462bf098abb6ee143804960}{
+\index{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!norm\-Unique\-Solution@{norm\-Unique\-Solution}}
+\index{norm\-Unique\-Solution@{norm\-Unique\-Solution}!iRNA_stat::NormScore::NormScore@{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{norm\-Unique\-Solution}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::norm\-Unique\-Solution (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score, }
+\item[{}]{loglen, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{i}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__stat_1_1NormScore_1_1NormScore_aae2c7a553462bf098abb6ee143804960}
+
+
+\-Compute normalised score/energy in several contact context. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score \\
+\hline
+{\em loglen,\-:} & \-Log length value \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em i,\-:} & \-Position in the tab \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-stat/\-Norm\-Score.\-py\end{DoxyCompactItemize}

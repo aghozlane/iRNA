@@ -1,0 +1,159 @@
+\hypertarget{classMycarn__stat_1_1Files_1_1Files}{
+\section{\-Mycarn\-\_\-stat\-:\-:\-Files\-:\-:\-Files \-Class \-Reference}
+\label{classMycarn__stat_1_1Files_1_1Files}\index{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files@{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a7cd67ad22381b2c123d45d5304beee54}{
+def \hyperlink{classMycarn__stat_1_1Files_1_1Files_a7cd67ad22381b2c123d45d5304beee54}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classMycarn__stat_1_1Files_1_1Files_a7cd67ad22381b2c123d45d5304beee54}
+
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classMycarn__stat_1_1Files_1_1Files}{\-Files} object. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Files_1_1Files_a1990cf7e7bb65bf6e1549e0664893791}{usage}
+\begin{DoxyCompactList}\small\item\em \-Give information to use \-Mycarn. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Files_1_1Files_a8441860b2a66df822dd34f19d2e38128}{case}
+\begin{DoxyCompactList}\small\item\em \-Test if necessary document are available. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_aa4515e3e6292da2a679b93fa42027af4}{
+def \hyperlink{classMycarn__stat_1_1Files_1_1Files_aa4515e3e6292da2a679b93fa42027af4}{data\-\_\-format}}
+\label{classMycarn__stat_1_1Files_1_1Files_aa4515e3e6292da2a679b93fa42027af4}
+
+\begin{DoxyCompactList}\small\item\em \-Check if information are correct. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Files_1_1Files_a8217f7f3f71d944565774a2f49683ce8}{getfiles}
+\begin{DoxyCompactList}\small\item\em \-Determine the files provided as arguments. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a0c73ebc1950e8cf2a6260d9c503d93c0}{
+{\bfseries mycarn\-\_\-db}}
+\label{classMycarn__stat_1_1Files_1_1Files_a0c73ebc1950e8cf2a6260d9c503d93c0}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a0bc6face80887bf4c036a9181aee96c1}{
+{\bfseries soft\-\_\-inf}}
+\label{classMycarn__stat_1_1Files_1_1Files_a0bc6face80887bf4c036a9181aee96c1}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a821b435dbde23484a7c8faec79b6c92a}{
+{\bfseries rand\-\_\-inf}}
+\label{classMycarn__stat_1_1Files_1_1Files_a821b435dbde23484a7c8faec79b6c92a}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a987bb81616475c678f707789691679f5}{
+{\bfseries exp\-\_\-inf}}
+\label{classMycarn__stat_1_1Files_1_1Files_a987bb81616475c678f707789691679f5}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_afa97e355f057acda0ec8d8f769344b8d}{
+{\bfseries random}}
+\label{classMycarn__stat_1_1Files_1_1Files_afa97e355f057acda0ec8d8f769344b8d}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a728d2be0b6d7d953f12ffa513dc8e77d}{
+{\bfseries save}}
+\label{classMycarn__stat_1_1Files_1_1Files_a728d2be0b6d7d953f12ffa513dc8e77d}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a035bb5438a3b927cd3b5a92a9d8b5d51}{
+{\bfseries results}}
+\label{classMycarn__stat_1_1Files_1_1Files_a035bb5438a3b927cd3b5a92a9d8b5d51}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a76c57c6cffce77b585a5004b24ae05c5}{
+{\bfseries exec\-\_\-inf}}
+\label{classMycarn__stat_1_1Files_1_1Files_a76c57c6cffce77b585a5004b24ae05c5}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_ada82da030897422418aaf6da20664cdd}{
+{\bfseries thres\-\_\-inf}}
+\label{classMycarn__stat_1_1Files_1_1Files_ada82da030897422418aaf6da20664cdd}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_ab002c0dfeaa81897b854a150836ac6f9}{
+{\bfseries myrank}}
+\label{classMycarn__stat_1_1Files_1_1Files_ab002c0dfeaa81897b854a150836ac6f9}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a5b6e4f3016c716e6239560e7f43ac04d}{
+{\bfseries overwrite}}
+\label{classMycarn__stat_1_1Files_1_1Files_a5b6e4f3016c716e6239560e7f43ac04d}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_ab3af0c79926b3fddab86d79068badc7a}{
+{\bfseries fastmode}}
+\label{classMycarn__stat_1_1Files_1_1Files_ab3af0c79926b3fddab86d79068badc7a}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a95569fdf84e572b9c7790daf1098ed46}{
+{\bfseries p\-Value}}
+\label{classMycarn__stat_1_1Files_1_1Files_a95569fdf84e572b9c7790daf1098ed46}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a8441860b2a66df822dd34f19d2e38128}{
+\index{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files@{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files}!case@{case}}
+\index{case@{case}!Mycarn_stat::Files::Files@{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files}}
+\subsubsection[{case}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Files\-::\-Files\-::case (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Files_1_1Files_a8441860b2a66df822dd34f19d2e38128}
+
+
+\-Test if necessary document are available. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em operation,\-:} & list of options called \\
+\hline
+{\em fasta,\-:} & list fasta related information \\
+\hline
+{\em predict,\-:} & list comparison related information \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a8217f7f3f71d944565774a2f49683ce8}{
+\index{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files@{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files}!getfiles@{getfiles}}
+\index{getfiles@{getfiles}!Mycarn_stat::Files::Files@{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files}}
+\subsubsection[{getfiles}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Files\-::\-Files\-::getfiles (
+\begin{DoxyParamCaption}
+\item[{}]{self}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Files_1_1Files_a8217f7f3f71d944565774a2f49683ce8}
+
+
+\-Determine the files provided as arguments. 
+
+\begin{DoxyReturn}{\-Returns}
+\-: \-Choosen options 
+\end{DoxyReturn}
+\hypertarget{classMycarn__stat_1_1Files_1_1Files_a1990cf7e7bb65bf6e1549e0664893791}{
+\index{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files@{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files}!usage@{usage}}
+\index{usage@{usage}!Mycarn_stat::Files::Files@{\-Mycarn\-\_\-stat\-::\-Files\-::\-Files}}
+\subsubsection[{usage}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Files\-::\-Files\-::usage (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{info}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Files_1_1Files_a1990cf7e7bb65bf6e1549e0664893791}
+
+
+\-Give information to use \-Mycarn. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em info,\-:} & \-Error texte \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Use of \-Mycarn 
+\end{DoxyReturn}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn\-\_\-stat/\-Files.\-py\end{DoxyCompactItemize}

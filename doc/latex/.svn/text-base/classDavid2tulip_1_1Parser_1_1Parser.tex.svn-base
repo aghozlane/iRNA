@@ -1,0 +1,227 @@
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser}{
+\section{\-David2tulip\-:\-:\-Parser\-:\-:\-Parser \-Class \-Reference}
+\label{classDavid2tulip_1_1Parser_1_1Parser}\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+}
+
+
+\-Inheritance diagram for \-David2tulip\-:\-:\-Parser\-:\-:\-Parser\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classDavid2tulip_1_1Parser_1_1Parser__inherit__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_a7ccf8f65fe9f171d8df392c3a6f3a9f4}{
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_a7ccf8f65fe9f171d8df392c3a6f3a9f4}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_a7ccf8f65fe9f171d8df392c3a6f3a9f4}
+
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classDavid2tulip_1_1Parser_1_1Parser}{\-Parser} object. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_a57a4013ab713df17998d9c88f9c26eb5}{createnodes}
+\begin{DoxyCompactList}\small\item\em \-Create the list of nodes. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_a18e916ce3787b119697943d2d6c2a613}{addelements}
+\begin{DoxyCompactList}\small\item\em \-Add an element in list of objects. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_acec604e89679083bba31b17b4f12fdd3}{getlinknode}
+\begin{DoxyCompactList}\small\item\em \-Get a node based on its name. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_ab99db5f3a741bc471f84b60c80f17936}{getlinkedge}
+\item 
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_a5356a6804fda74b46f884452ef930799}{gets\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Get list of s\-R\-N\-A. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_a7f652277bfdc31c2b8268605e0a2e125}{get\-Target}
+\begin{DoxyCompactList}\small\item\em \-Get targets of one s\-R\-N\-A if category. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_a95699de0f2ee8a726102268a75f81aa5}{load\-Object}
+\begin{DoxyCompactList}\small\item\em \-Load object. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Parser_1_1Parser_a1779646ade30aedf461a0069b0b2e4ed}{print\-Object}
+\begin{DoxyCompactList}\small\item\em \-Write object. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_a18e916ce3787b119697943d2d6c2a613}{
+\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}!addelements@{addelements}}
+\index{addelements@{addelements}!David2tulip::Parser::Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+\subsubsection[{addelements}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Parser\-::\-Parser\-::addelements (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{list\-\_\-objects, }
+\item[{}]{element}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_a18e916ce3787b119697943d2d6c2a613}
+
+
+\-Add an element in list of objects. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em list\-\_\-objects,\-:} & list of objects \\
+\hline
+{\em element,\-:} & object \\
+\hline
+\end{DoxyParams}
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_a57a4013ab713df17998d9c88f9c26eb5}{
+\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}!createnodes@{createnodes}}
+\index{createnodes@{createnodes}!David2tulip::Parser::Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+\subsubsection[{createnodes}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Parser\-::\-Parser\-::createnodes (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{list\-\_\-element, }
+\item[{}]{gender, }
+\item[{}]{number}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_a57a4013ab713df17998d9c88f9c26eb5}
+
+
+\-Create the list of nodes. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em list\-\_\-element,\-:} & \\
+\hline
+{\em gender,\-:} & \-Gender of the list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: list of nodes 
+\end{DoxyReturn}
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_ab99db5f3a741bc471f84b60c80f17936}{
+\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}!getlinkedge@{getlinkedge}}
+\index{getlinkedge@{getlinkedge}!David2tulip::Parser::Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+\subsubsection[{getlinkedge}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Parser\-::\-Parser\-::getlinkedge (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{edge\-\_\-objects, }
+\item[{}]{s\-R\-N\-A, }
+\item[{}]{m\-R\-N\-A}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_ab99db5f3a741bc471f84b60c80f17936}
+
+\begin{DoxyParams}{\-Parameters}
+{\em edge\-\_\-objects,\-:} & \-List of edge objects \\
+\hline
+{\em s\-R\-N\-A,\-:} & s\-R\-N\-A \\
+\hline
+{\em m\-R\-N\-A,\-:} & m\-R\-N\-A \\
+\hline
+\end{DoxyParams}
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_acec604e89679083bba31b17b4f12fdd3}{
+\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}!getlinknode@{getlinknode}}
+\index{getlinknode@{getlinknode}!David2tulip::Parser::Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+\subsubsection[{getlinknode}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Parser\-::\-Parser\-::getlinknode (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{node\-\_\-objects, }
+\item[{}]{name}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_acec604e89679083bba31b17b4f12fdd3}
+
+
+\-Get a node based on its name. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em node\-\_\-objects,\-:} & \-List of node objects \\
+\hline
+{\em name,\-:} & \-Name of searched object \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: node 
+\end{DoxyReturn}
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_a5356a6804fda74b46f884452ef930799}{
+\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}!gets\-R\-N\-A@{gets\-R\-N\-A}}
+\index{gets\-R\-N\-A@{gets\-R\-N\-A}!David2tulip::Parser::Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+\subsubsection[{gets\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Parser\-::\-Parser\-::gets\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{node\-\_\-objects}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_a5356a6804fda74b46f884452ef930799}
+
+
+\-Get list of s\-R\-N\-A. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em node\-\_\-objects,\-:} & \-List of node objects \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-List of s\-R\-N\-A 
+\end{DoxyReturn}
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_a7f652277bfdc31c2b8268605e0a2e125}{
+\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}!get\-Target@{get\-Target}}
+\index{get\-Target@{get\-Target}!David2tulip::Parser::Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+\subsubsection[{get\-Target}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Parser\-::\-Parser\-::get\-Target (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{s\-R\-N\-A, }
+\item[{}]{edge\-\_\-objects}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_a7f652277bfdc31c2b8268605e0a2e125}
+
+
+\-Get targets of one s\-R\-N\-A if category. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em s\-R\-N\-A,\-:} & s\-R\-N\-A name \\
+\hline
+{\em edge\-\_\-objects,\-:} & \-List of edge objects \\
+\hline
+\end{DoxyParams}
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_a95699de0f2ee8a726102268a75f81aa5}{
+\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}!load\-Object@{load\-Object}}
+\index{load\-Object@{load\-Object}!David2tulip::Parser::Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+\subsubsection[{load\-Object}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Parser\-::\-Parser\-::load\-Object (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{pickledump}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_a95699de0f2ee8a726102268a75f81aa5}
+
+
+\-Load object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em pickledump,\-:} & \-Filename \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: \-Object loaded 
+\end{DoxyReturn}
+\hypertarget{classDavid2tulip_1_1Parser_1_1Parser_a1779646ade30aedf461a0069b0b2e4ed}{
+\index{\-David2tulip\-::\-Parser\-::\-Parser@{\-David2tulip\-::\-Parser\-::\-Parser}!print\-Object@{print\-Object}}
+\index{print\-Object@{print\-Object}!David2tulip::Parser::Parser@{\-David2tulip\-::\-Parser\-::\-Parser}}
+\subsubsection[{print\-Object}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Parser\-::\-Parser\-::print\-Object (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{obj, }
+\item[{}]{pickledump}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Parser_1_1Parser_a1779646ade30aedf461a0069b0b2e4ed}
+
+
+\-Write object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em obj,\-:} & \-Object to dump \\
+\hline
+{\em pickledump,\-:} & \-Filename \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-David2tulip/\-Parser.\-py\end{DoxyCompactItemize}

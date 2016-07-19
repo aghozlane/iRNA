@@ -1,0 +1,89 @@
+\hypertarget{classDavid2tulip_1_1Interact_1_1Interact}{
+\section{\-David2tulip\-:\-:\-Interact\-:\-:\-Interact \-Class \-Reference}
+\label{classDavid2tulip_1_1Interact_1_1Interact}\index{\-David2tulip\-::\-Interact\-::\-Interact@{\-David2tulip\-::\-Interact\-::\-Interact}}
+}
+
+
+\-Inheritance diagram for \-David2tulip\-:\-:\-Interact\-:\-:\-Interact\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=222pt]{classDavid2tulip_1_1Interact_1_1Interact__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for \-David2tulip\-:\-:\-Interact\-:\-:\-Interact\-:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=222pt]{classDavid2tulip_1_1Interact_1_1Interact__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classDavid2tulip_1_1Interact_1_1Interact_a226bd36f45a638529ccd26bcb615c221}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate similarity parser object. \end{DoxyCompactList}\item 
+def \hyperlink{classDavid2tulip_1_1Interact_1_1Interact_a6a45365254830757c95a3d63f0eebcfb}{setdata}
+\begin{DoxyCompactList}\small\item\em \-Add s\-R\-N\-A -\/ s\-R\-N\-A edges based on their similarity. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classDavid2tulip_1_1Interact_1_1Interact_a7fe2f51b876b9aceb19336024a726168}{
+{\bfseries interact\-\_\-file}}
+\label{classDavid2tulip_1_1Interact_1_1Interact_a7fe2f51b876b9aceb19336024a726168}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classDavid2tulip_1_1Interact_1_1Interact_a226bd36f45a638529ccd26bcb615c221}{
+\index{\-David2tulip\-::\-Interact\-::\-Interact@{\-David2tulip\-::\-Interact\-::\-Interact}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!David2tulip::Interact::Interact@{\-David2tulip\-::\-Interact\-::\-Interact}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Interact\-::\-Interact\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{interact\-\_\-file}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Interact_1_1Interact_a226bd36f45a638529ccd26bcb615c221}
+
+
+\-Instanciate similarity parser object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em interact\-\_\-file,\-:} & interact file \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classDavid2tulip_1_1Interact_1_1Interact_a6a45365254830757c95a3d63f0eebcfb}{
+\index{\-David2tulip\-::\-Interact\-::\-Interact@{\-David2tulip\-::\-Interact\-::\-Interact}!setdata@{setdata}}
+\index{setdata@{setdata}!David2tulip::Interact::Interact@{\-David2tulip\-::\-Interact\-::\-Interact}}
+\subsubsection[{setdata}]{\setlength{\rightskip}{0pt plus 5cm}def \-David2tulip\-::\-Interact\-::\-Interact\-::setdata (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{node\-\_\-objects, }
+\item[{}]{edge\-\_\-objects}
+\end{DoxyParamCaption}
+)}}
+\label{classDavid2tulip_1_1Interact_1_1Interact_a6a45365254830757c95a3d63f0eebcfb}
+
+
+\-Add s\-R\-N\-A -\/ s\-R\-N\-A edges based on their similarity. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em node\-\_\-objects,\-:} & list of node objects \\
+\hline
+{\em edge\-\_\-objects,\-:} & list of edge objects \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-David2tulip/\-Interact.\-py\end{DoxyCompactItemize}

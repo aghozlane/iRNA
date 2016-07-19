@@ -1,0 +1,169 @@
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger}{
+\section{i\-R\-N\-A\-\_\-pred\-:\-:\-Merger\-:\-:\-Merger \-Class \-Reference}
+\label{classiRNA__pred_1_1Merger_1_1Merger}\index{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+}
+
+
+\-Merge the xml files in a sqlite database.  
+
+
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classiRNA__pred_1_1Merger_1_1Merger_a0f2f9d415603ddeeee3591089770e177}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Initiate the constructor. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Merger_1_1Merger_a3019ccafb5cf66298ada207560c25c17}{build\-Tree}
+\begin{DoxyCompactList}\small\item\em \-Read the xml tree and copy the data into the sqlite database. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Merger_1_1Merger_af734c687ae095708a05c21a6cb96e86c}{get\-Data}
+\begin{DoxyCompactList}\small\item\em \-Parse xml tree. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Merger_1_1Merger_a98ad097126d23303b1adbec11cda1995}{set\-R\-N\-A}
+\begin{DoxyCompactList}\small\item\em \-Parse \-R\-N\-A\-\_\-inf file. \end{DoxyCompactList}\item 
+def \hyperlink{classiRNA__pred_1_1Merger_1_1Merger_a67a92de6756d82a7920226d9506958ef}{merge}
+\begin{DoxyCompactList}\small\item\em \-Merge mycarn xml files into a sqlite database. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_af6a0d3bb86b46b3191a678950ab04993}{
+{\bfseries rep\-In}}
+\label{classiRNA__pred_1_1Merger_1_1Merger_af6a0d3bb86b46b3191a678950ab04993}
+
+\item 
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_ab60e747e81a4833293ec9a51d76e0472}{
+{\bfseries files}}
+\label{classiRNA__pred_1_1Merger_1_1Merger_ab60e747e81a4833293ec9a51d76e0472}
+
+\item 
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_a774d1bc397de7e892914d2c49c7518ba}{
+{\bfseries softprevious}}
+\label{classiRNA__pred_1_1Merger_1_1Merger_a774d1bc397de7e892914d2c49c7518ba}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_a1d867a10d82521fd066a320d793c9cb6}{
+tuple {\bfseries result\-\_\-data} = etree.\-Element(\char`\"{}result\char`\"{})}
+\label{classiRNA__pred_1_1Merger_1_1Merger_a1d867a10d82521fd066a320d793c9cb6}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-Merge the xml files in a sqlite database. 
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_a0f2f9d415603ddeeee3591089770e177}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!iRNA_pred::Merger::Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{rep\-In}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Merger_1_1Merger_a0f2f9d415603ddeeee3591089770e177}
+
+
+\-Initiate the constructor. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em rep\-In,\-:} & \-Result repertory \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_a3019ccafb5cf66298ada207560c25c17}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!build\-Tree@{build\-Tree}}
+\index{build\-Tree@{build\-Tree}!iRNA_pred::Merger::Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{build\-Tree}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::build\-Tree (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{tree, }
+\item[{}]{dbmanage}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Merger_1_1Merger_a3019ccafb5cf66298ada207560c25c17}
+
+
+\-Read the xml tree and copy the data into the sqlite database. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em tree,\-:} & xml tree parsed \\
+\hline
+{\em dbmanage,\-:} & \-Database manager \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_af734c687ae095708a05c21a6cb96e86c}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!get\-Data@{get\-Data}}
+\index{get\-Data@{get\-Data}!iRNA_pred::Merger::Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{get\-Data}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::get\-Data (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{file}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Merger_1_1Merger_af734c687ae095708a05c21a6cb96e86c}
+
+
+\-Parse xml tree. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em file,\-:} & \-Result part in \-Xml format \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{\-Returns}
+\-: resulting tree 
+\end{DoxyReturn}
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_a67a92de6756d82a7920226d9506958ef}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!merge@{merge}}
+\index{merge@{merge}!iRNA_pred::Merger::Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{merge}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::merge (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{dbmanage}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Merger_1_1Merger_a67a92de6756d82a7920226d9506958ef}
+
+
+\-Merge mycarn xml files into a sqlite database. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em dbmanage,\-:} & \-Database manager \\
+\hline
+\end{DoxyParams}
+\hypertarget{classiRNA__pred_1_1Merger_1_1Merger_a98ad097126d23303b1adbec11cda1995}{
+\index{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}!set\-R\-N\-A@{set\-R\-N\-A}}
+\index{set\-R\-N\-A@{set\-R\-N\-A}!iRNA_pred::Merger::Merger@{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger}}
+\subsubsection[{set\-R\-N\-A}]{\setlength{\rightskip}{0pt plus 5cm}def i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger\-::set\-R\-N\-A (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{dbmanage, }
+\item[{}]{\-R\-N\-A\-\_\-inf, }
+\item[{}]{type}
+\end{DoxyParamCaption}
+)}}
+\label{classiRNA__pred_1_1Merger_1_1Merger_a98ad097126d23303b1adbec11cda1995}
+
+
+\-Parse \-R\-N\-A\-\_\-inf file. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em \-R\-N\-A\-\_\-inf,\-:} & \-Path to \-R\-N\-A\-\_\-inf file \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+{\em type,\-:} & \-Type of \-R\-N\-A \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/i\-R\-N\-A\-\_\-pred/\-Merger.\-py\end{DoxyCompactItemize}

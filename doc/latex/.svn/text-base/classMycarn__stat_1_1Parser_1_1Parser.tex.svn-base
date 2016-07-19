@@ -1,0 +1,99 @@
+\hypertarget{classMycarn__stat_1_1Parser_1_1Parser}{
+\section{\-Mycarn\-\_\-stat\-:\-:\-Parser\-:\-:\-Parser \-Class \-Reference}
+\label{classMycarn__stat_1_1Parser_1_1Parser}\index{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser@{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser}}
+}
+
+
+\-Inheritance diagram for \-Mycarn\-\_\-stat\-:\-:\-Parser\-:\-:\-Parser\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classMycarn__stat_1_1Parser_1_1Parser__inherit__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Parser_1_1Parser_aee80b3010abd08ec5162f941ddecd0ff}{
+def \hyperlink{classMycarn__stat_1_1Parser_1_1Parser_aee80b3010abd08ec5162f941ddecd0ff}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classMycarn__stat_1_1Parser_1_1Parser_aee80b3010abd08ec5162f941ddecd0ff}
+
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classMycarn__stat_1_1Parser_1_1Parser}{\-Parser} object. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Parser_1_1Parser_a2b184eb51d2a4d8b1f9b96f2b137b54e}{sortdict}
+\begin{DoxyCompactList}\small\item\em \-Sort the dictionnary. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Parser_1_1Parser_ae12513aed013e9e87dbc41d278ddae77}{get\-Data}
+\begin{DoxyCompactList}\small\item\em \-Search name in input list. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Parser_1_1Parser_a7af5acaa2ab81d874074f38816a84cda}{get\-Unique}
+\begin{DoxyCompactList}\small\item\em \-Get unique data. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn__stat_1_1Parser_1_1Parser_ae12513aed013e9e87dbc41d278ddae77}{
+\index{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser@{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser}!get\-Data@{get\-Data}}
+\index{get\-Data@{get\-Data}!Mycarn_stat::Parser::Parser@{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser}}
+\subsubsection[{get\-Data}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser\-::get\-Data (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{input\-\_\-list, }
+\item[{}]{name}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Parser_1_1Parser_ae12513aed013e9e87dbc41d278ddae77}
+
+
+\-Search name in input list. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em input\-\_\-list,\-:} & \-List \\
+\hline
+{\em name,\-:} & \-Search criteria \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn__stat_1_1Parser_1_1Parser_a7af5acaa2ab81d874074f38816a84cda}{
+\index{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser@{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser}!get\-Unique@{get\-Unique}}
+\index{get\-Unique@{get\-Unique}!Mycarn_stat::Parser::Parser@{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser}}
+\subsubsection[{get\-Unique}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser\-::get\-Unique (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data\-\_\-list}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Parser_1_1Parser_a7af5acaa2ab81d874074f38816a84cda}
+
+
+\-Get unique data. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data\-\_\-list,\-:} & list of data \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn__stat_1_1Parser_1_1Parser_a2b184eb51d2a4d8b1f9b96f2b137b54e}{
+\index{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser@{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser}!sortdict@{sortdict}}
+\index{sortdict@{sortdict}!Mycarn_stat::Parser::Parser@{\-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser}}
+\subsubsection[{sortdict}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Parser\-::\-Parser\-::sortdict (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{dictionnary, }
+\item[{}]{criteria}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Parser_1_1Parser_a2b184eb51d2a4d8b1f9b96f2b137b54e}
+
+
+\-Sort the dictionnary. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em dictionnary,\-:} & \-Dictionnary list \\
+\hline
+{\em criteria,\-:} & \-Sort criteria \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn\-\_\-stat/\-Parser.\-py\end{DoxyCompactItemize}

@@ -1,0 +1,46 @@
+\section{\-Class \-List}
+\-Here are the classes, structs, unions and interfaces with brief descriptions\-:\begin{DoxyCompactList}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Analysis_1_1Analysis}{i\-R\-N\-A\-\_\-stat\-::\-Analysis\-::\-Analysis} }{\pageref{classiRNA__stat_1_1Analysis_1_1Analysis}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Communication_1_1Communication}{i\-R\-N\-A\-\_\-stat\-::\-Communication\-::\-Communication} }{\pageref{classiRNA__stat_1_1Communication_1_1Communication}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Comparison_1_1Comparaison}{i\-R\-N\-A\-\_\-pred\-::\-Comparison\-::\-Comparaison} \\*\-: \-Create coupled files and the list of comparison }{\pageref{classiRNA__pred_1_1Comparison_1_1Comparaison}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Computer_1_1Computer}{i\-R\-N\-A\-\_\-stat\-::\-Computer\-::\-Computer} }{\pageref{classiRNA__stat_1_1Computer_1_1Computer}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1David_1_1David}{\-David2tulip\-::\-David\-::\-David} }{\pageref{classDavid2tulip_1_1David_1_1David}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Davidconfig_1_1Davidconfig}{\-David2tulip\-::\-Davidconfig\-::\-Davidconfig} }{\pageref{classDavid2tulip_1_1Davidconfig_1_1Davidconfig}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Draw__data_1_1draw__data}{i\-R\-N\-A\-\_\-stat\-::\-Draw\-\_\-data\-::draw\-\_\-data} }{\pageref{classiRNA__stat_1_1Draw__data_1_1draw__data}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Ecdf_1_1Ecdf}{i\-R\-N\-A\-\_\-stat\-::\-Ecdf\-::\-Ecdf} }{\pageref{classiRNA__stat_1_1Ecdf_1_1Ecdf}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Edge_1_1Edge}{\-David2tulip\-::\-Edge\-::\-Edge} }{\pageref{classDavid2tulip_1_1Edge_1_1Edge}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Execute_1_1Execute}{i\-R\-N\-A\-\_\-stat\-::\-Execute\-::\-Execute} }{\pageref{classiRNA__stat_1_1Execute_1_1Execute}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Exp__data_1_1Exp__data}{i\-R\-N\-A\-\_\-stat\-::\-Exp\-\_\-data\-::\-Exp\-\_\-data} }{\pageref{classiRNA__stat_1_1Exp__data_1_1Exp__data}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Fasta_1_1Fasta}{i\-R\-N\-A\-\_\-pred\-::\-Fasta\-::\-Fasta} \\*\-: \-Write fasta needed for the different software from a multifasta }{\pageref{classiRNA__pred_1_1Fasta_1_1Fasta}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Files_1_1Files}{\-David2tulip\-::\-Files\-::\-Files} }{\pageref{classDavid2tulip_1_1Files_1_1Files}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Files_1_1Files}{i\-R\-N\-A\-\_\-stat\-::\-Files\-::\-Files} }{\pageref{classiRNA__stat_1_1Files_1_1Files}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Files_1_1Files}{i\-R\-N\-A\-\_\-pred\-::\-Files\-::\-Files} \\*\-: }{\pageref{classiRNA__pred_1_1Files_1_1Files}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Gene__list_1_1Gene__list}{\-David2tulip\-::\-Gene\-\_\-list\-::\-Gene\-\_\-list} }{\pageref{classDavid2tulip_1_1Gene__list_1_1Gene__list}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Graph_1_1Graph}{\-David2tulip\-::\-Graph\-::\-Graph} }{\pageref{classDavid2tulip_1_1Graph_1_1Graph}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Interact_1_1Interact}{\-David2tulip\-::\-Interact\-::\-Interact} }{\pageref{classDavid2tulip_1_1Interact_1_1Interact}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Interaction_1_1Interaction}{i\-R\-N\-A\-\_\-stat\-::\-Interaction\-::\-Interaction} }{\pageref{classiRNA__stat_1_1Interaction_1_1Interaction}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Interaction_1_1Interaction}{i\-R\-N\-A\-\_\-pred\-::\-Interaction\-::\-Interaction} \\*\-: \-Store information on interaction }{\pageref{classiRNA__pred_1_1Interaction_1_1Interaction}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Merger_1_1Merger}{i\-R\-N\-A\-\_\-pred\-::\-Merger\-::\-Merger} \\*\-Merge the xml files in a sqlite database }{\pageref{classiRNA__pred_1_1Merger_1_1Merger}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi}{i\-R\-N\-A\-\_\-pred\-::\-Mpi\-::\-Mpi} \\*\-: \-Manage \hyperlink{classiRNA__pred_1_1Mpi_1_1Mpi}{\-Mpi} run }{\pageref{classiRNA__pred_1_1Mpi_1_1Mpi}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi}{i\-R\-N\-A\-\_\-stat\-::\-Mpi\-::\-Mpi} \\*\-: \-Manage \hyperlink{classiRNA__stat_1_1Mpi_1_1Mpi}{\-Mpi} run }{\pageref{classiRNA__stat_1_1Mpi_1_1Mpi}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Multilist_1_1Multilist}{\-David2tulip\-::\-Multilist\-::\-Multilist} }{\pageref{classDavid2tulip_1_1Multilist_1_1Multilist}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Mycarn__data_1_1Mycarn__data}{\-David2tulip\-::\-Mycarn\-\_\-data\-::\-Mycarn\-\_\-data} }{\pageref{classDavid2tulip_1_1Mycarn__data_1_1Mycarn__data}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Name_1_1Name}{\-David2tulip\-::\-Name\-::\-Name} }{\pageref{classDavid2tulip_1_1Name_1_1Name}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Node_1_1Node}{\-David2tulip\-::\-Node\-::\-Node} }{\pageref{classDavid2tulip_1_1Node_1_1Node}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1NormScore_1_1NormScore}{i\-R\-N\-A\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score} }{\pageref{classiRNA__stat_1_1NormScore_1_1NormScore}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{i\-R\-N\-A\-\_\-pred\-::\-Parse\-::\-Parse} \\*\-: \hyperlink{classiRNA__pred_1_1Parse_1_1Parse}{\-Parse} data from the different software }{\pageref{classiRNA__pred_1_1Parse_1_1Parse}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Parser_1_1Parser}{i\-R\-N\-A\-\_\-stat\-::\-Parser\-::\-Parser} }{\pageref{classiRNA__stat_1_1Parser_1_1Parser}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Parser_1_1Parser}{\-David2tulip\-::\-Parser\-::\-Parser} }{\pageref{classDavid2tulip_1_1Parser_1_1Parser}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Pickling_1_1Pickling}{i\-R\-N\-A\-\_\-stat\-::\-Pickling\-::\-Pickling} }{\pageref{classiRNA__stat_1_1Pickling_1_1Pickling}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1pValue_1_1pValue}{\-David2tulip\-::p\-Value\-::p\-Value} }{\pageref{classDavid2tulip_1_1pValue_1_1pValue}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1pValue_1_1pValue}{i\-R\-N\-A\-\_\-stat\-::p\-Value\-::p\-Value} }{\pageref{classiRNA__stat_1_1pValue_1_1pValue}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1pValue__selection_1_1pValue__selection}{i\-R\-N\-A\-\_\-stat\-::p\-Value\-\_\-selection\-::p\-Value\-\_\-selection} }{\pageref{classiRNA__stat_1_1pValue__selection_1_1pValue__selection}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Rand__data_1_1Rand__data}{i\-R\-N\-A\-\_\-stat\-::\-Rand\-\_\-data\-::\-Rand\-\_\-data} }{\pageref{classiRNA__stat_1_1Rand__data_1_1Rand__data}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1RanRNA_1_1RanRNA}{i\-R\-N\-A\-\_\-pred\-::\-Ran\-R\-N\-A\-::\-Ran\-R\-N\-A} \\*\-: \-Generate \-Random \-Sequences }{\pageref{classiRNA__pred_1_1RanRNA_1_1RanRNA}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Regression_1_1Regression}{i\-R\-N\-A\-\_\-stat\-::\-Regression\-::\-Regression} }{\pageref{classiRNA__stat_1_1Regression_1_1Regression}}{}
+\item\contentsline{section}{\hyperlink{classDavid2tulip_1_1Similarity_1_1Similarity}{\-David2tulip\-::\-Similarity\-::\-Similarity} }{\pageref{classDavid2tulip_1_1Similarity_1_1Similarity}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Soft_1_1Soft}{i\-R\-N\-A\-\_\-stat\-::\-Soft\-::\-Soft} }{\pageref{classiRNA__stat_1_1Soft_1_1Soft}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager}{i\-R\-N\-A\-\_\-pred\-::\-Sqlite\-\_\-manager\-::\-Sqlite\-\_\-manager} \\*\-: \-Handle database connection, disconnection and querying }{\pageref{classiRNA__pred_1_1Sqlite__manager_1_1Sqlite__manager}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__pred_1_1Stat_1_1Stat}{i\-R\-N\-A\-\_\-pred\-::\-Stat\-::\-Stat} \\*\-: \-Compute different statistic on sequences \-: \-G\-C percent and mean length }{\pageref{classiRNA__pred_1_1Stat_1_1Stat}}{}
+\item\contentsline{section}{\hyperlink{classiRNA__stat_1_1Threshold_1_1Threshold}{i\-R\-N\-A\-\_\-stat\-::\-Threshold\-::\-Threshold} }{\pageref{classiRNA__stat_1_1Threshold_1_1Threshold}}{}
+\end{DoxyCompactList}

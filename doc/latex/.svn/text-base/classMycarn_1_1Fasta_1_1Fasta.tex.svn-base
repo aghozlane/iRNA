@@ -1,0 +1,135 @@
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta}{
+\section{\-Mycarn\-:\-:\-Fasta\-:\-:\-Fasta \-Class \-Reference}
+\label{classMycarn_1_1Fasta_1_1Fasta}\index{\-Mycarn\-::\-Fasta\-::\-Fasta@{\-Mycarn\-::\-Fasta\-::\-Fasta}}
+}
+
+
+\-: \-Write fasta needed for the different software from a multifasta  
+
+
+
+
+\-Inheritance diagram for \-Mycarn\-:\-:\-Fasta\-:\-:\-Fasta\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=190pt]{classMycarn_1_1Fasta_1_1Fasta__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for \-Mycarn\-:\-:\-Fasta\-:\-:\-Fasta\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=190pt]{classMycarn_1_1Fasta_1_1Fasta__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_a3aa5abf8c8cf8b1dfbadfe2521f95530}{
+def \hyperlink{classMycarn_1_1Fasta_1_1Fasta_a3aa5abf8c8cf8b1dfbadfe2521f95530}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classMycarn_1_1Fasta_1_1Fasta_a3aa5abf8c8cf8b1dfbadfe2521f95530}
+
+\begin{DoxyCompactList}\small\item\em \-Build fasta object. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_af07a46432a6d670ad5e47274f47d8ef4}{
+def \hyperlink{classMycarn_1_1Fasta_1_1Fasta_af07a46432a6d670ad5e47274f47d8ef4}{\-Write\-Fasta}}
+\label{classMycarn_1_1Fasta_1_1Fasta_af07a46432a6d670ad5e47274f47d8ef4}
+
+\begin{DoxyCompactList}\small\item\em \-Write the fasta. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn_1_1Fasta_1_1Fasta_ae48a19051f56985b3ccbf6706dc78409}{\-Empty\-Rep}
+\begin{DoxyCompactList}\small\item\em \-Empty the folder of fasta files. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_a77a08d76a0ecdb97905b3df3c2896d52}{
+def {\bfseries \-Extract\-Fasta}}
+\label{classMycarn_1_1Fasta_1_1Fasta_a77a08d76a0ecdb97905b3df3c2896d52}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_ae0a95f78e710d6dc4366bfec7d185ea8}{
+{\bfseries cache\-Fasta}}
+\label{classMycarn_1_1Fasta_1_1Fasta_ae0a95f78e710d6dc4366bfec7d185ea8}
+
+\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_ac222e54ebec9a0530974fa7331e2061b}{
+{\bfseries fastafile}}
+\label{classMycarn_1_1Fasta_1_1Fasta_ac222e54ebec9a0530974fa7331e2061b}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+tuple \hyperlink{classMycarn_1_1Fasta_1_1Fasta_a6d7f580bbb67f257d70b1628a80c6cab}{regex} = re.\-compile(\char`\"{}$^\wedge$$>$($\backslash$\-S+)$\backslash$s$\ast$$\backslash$\-S$\ast$\char`\"{})
+\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_a6cf1f75123c4f4759bf7e968c1a9fdd3}{
+tuple {\bfseries regex\-\_\-seq} = re.\-compile(\char`\"{}$^\wedge$\mbox{[}\-A\-T\-G\-Catgc\mbox{]}+$\backslash$\-S$\ast$\char`\"{})}
+\label{classMycarn_1_1Fasta_1_1Fasta_a6cf1f75123c4f4759bf7e968c1a9fdd3}
+
+\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_ac91375f2b3d328097188f987f06e751f}{
+tuple {\bfseries multifasta} = open(mf, \char`\"{}r\char`\"{})}
+\label{classMycarn_1_1Fasta_1_1Fasta_ac91375f2b3d328097188f987f06e751f}
+
+\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_abbbf460493c167217f0896618c85dd15}{
+{\bfseries cache\-Data} = \-False}
+\label{classMycarn_1_1Fasta_1_1Fasta_abbbf460493c167217f0896618c85dd15}
+
+\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_aecd71dafa2e63a4e32b3c0b3648ba63d}{
+tuple {\bfseries a} = regex.\-match(i)}
+\label{classMycarn_1_1Fasta_1_1Fasta_aecd71dafa2e63a4e32b3c0b3648ba63d}
+
+\item 
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_ab0e8fbe65a0e89de27c5200cfb331823}{
+tuple {\bfseries seqname} = a.\-group(1)}
+\label{classMycarn_1_1Fasta_1_1Fasta_ab0e8fbe65a0e89de27c5200cfb331823}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Detailed \-Description}
+\-: \-Write fasta needed for the different software from a multifasta 
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_ae48a19051f56985b3ccbf6706dc78409}{
+\index{\-Mycarn\-::\-Fasta\-::\-Fasta@{\-Mycarn\-::\-Fasta\-::\-Fasta}!\-Empty\-Rep@{\-Empty\-Rep}}
+\index{\-Empty\-Rep@{\-Empty\-Rep}!Mycarn::Fasta::Fasta@{\-Mycarn\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{\-Empty\-Rep}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-::\-Fasta\-::\-Fasta\-::\-Empty\-Rep (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{fasta\-\_\-out}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn_1_1Fasta_1_1Fasta_ae48a19051f56985b3ccbf6706dc78409}
+
+
+\-Empty the folder of fasta files. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em fasta\-\_\-out,\-:} & \hyperlink{classMycarn_1_1Fasta_1_1Fasta}{\-Fasta} repertory \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Data \-Documentation}
+\hypertarget{classMycarn_1_1Fasta_1_1Fasta_a6d7f580bbb67f257d70b1628a80c6cab}{
+\index{\-Mycarn\-::\-Fasta\-::\-Fasta@{\-Mycarn\-::\-Fasta\-::\-Fasta}!regex@{regex}}
+\index{regex@{regex}!Mycarn::Fasta::Fasta@{\-Mycarn\-::\-Fasta\-::\-Fasta}}
+\subsubsection[{regex}]{\setlength{\rightskip}{0pt plus 5cm}tuple {\bf \-Mycarn\-::\-Fasta\-::\-Fasta\-::regex} = re.\-compile(\char`\"{}$^\wedge$$>$($\backslash$\-S+)$\backslash$s$\ast$$\backslash$\-S$\ast$\char`\"{})\hspace{0.3cm}{\ttfamily  \mbox{[}static\mbox{]}}}}
+\label{classMycarn_1_1Fasta_1_1Fasta_a6d7f580bbb67f257d70b1628a80c6cab}
+\begin{DoxyVerb}
+Extract multifasta to fasta.
+@param mf: Multifasta file
+@param fasta_out: Fasta repertory
+\end{DoxyVerb}
+ 
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn/\-Fasta.\-py\end{DoxyCompactItemize}

@@ -1,0 +1,98 @@
+\hypertarget{classMycarn__stat_1_1Pickling_1_1Pickling}{
+\section{\-Mycarn\-\_\-stat\-:\-:\-Pickling\-:\-:\-Pickling \-Class \-Reference}
+\label{classMycarn__stat_1_1Pickling_1_1Pickling}\index{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling@{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classMycarn__stat_1_1Pickling_1_1Pickling_a21053727ea71032f29e5641b1931829e}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classMycarn__stat_1_1Pickling_1_1Pickling}{\-Pickling} object. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Pickling_1_1Pickling_a62b4ea0b88a2ba63ac126cec42c63046}{loadobj}
+\begin{DoxyCompactList}\small\item\em \-Load the pickling object of the software result. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Pickling_1_1Pickling_aeb4e937b459612766211b7a475d1f836}{saveobj}
+\begin{DoxyCompactList}\small\item\em \-Pickle the object. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Pickling_1_1Pickling_afac11ea49a879250cbf8de07b9e2d9e5}{
+{\bfseries path}}
+\label{classMycarn__stat_1_1Pickling_1_1Pickling_afac11ea49a879250cbf8de07b9e2d9e5}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classMycarn__stat_1_1Pickling_1_1Pickling_a21053727ea71032f29e5641b1931829e}{
+\index{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling@{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!Mycarn_stat::Pickling::Pickling@{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{path}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Pickling_1_1Pickling_a21053727ea71032f29e5641b1931829e}
+
+
+\-Instanciate \hyperlink{classMycarn__stat_1_1Pickling_1_1Pickling}{\-Pickling} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em path,\-:} & \-Path of pickling object \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn__stat_1_1Pickling_1_1Pickling_a62b4ea0b88a2ba63ac126cec42c63046}{
+\index{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling@{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling}!loadobj@{loadobj}}
+\index{loadobj@{loadobj}!Mycarn_stat::Pickling::Pickling@{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling}}
+\subsubsection[{loadobj}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling\-::loadobj (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{name, }
+\item[{}]{num}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Pickling_1_1Pickling_a62b4ea0b88a2ba63ac126cec42c63046}
+
+
+\-Load the pickling object of the software result. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em name,\-:} & \-Name of the software \\
+\hline
+{\em num,\-:} & \-Software id \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn__stat_1_1Pickling_1_1Pickling_aeb4e937b459612766211b7a475d1f836}{
+\index{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling@{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling}!saveobj@{saveobj}}
+\index{saveobj@{saveobj}!Mycarn_stat::Pickling::Pickling@{\-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling}}
+\subsubsection[{saveobj}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Pickling\-::\-Pickling\-::saveobj (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{obj, }
+\item[{}]{name, }
+\item[{}]{num}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Pickling_1_1Pickling_aeb4e937b459612766211b7a475d1f836}
+
+
+\-Pickle the object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em obj,\-:} & \-Computed object \\
+\hline
+{\em name,\-:} & \-Name of the software \\
+\hline
+{\em num,\-:} & \-Software id \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn\-\_\-stat/\-Pickling.\-py\end{DoxyCompactItemize}

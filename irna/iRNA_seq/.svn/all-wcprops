@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mycarn/!svn/ver/769/Mycarn_v3/irna/iRNA_seq
+END
+Sequences.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mycarn/!svn/ver/919/Mycarn_v3/irna/iRNA_seq/Sequences.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mycarn/!svn/ver/769/Mycarn_v3/irna/iRNA_seq/__init__.py
+END
+RNA.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mycarn/!svn/ver/916/Mycarn_v3/irna/iRNA_seq/RNA.py
+END
+iRNA_seq.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mycarn/!svn/ver/916/Mycarn_v3/irna/iRNA_seq/iRNA_seq.py
+END
+Files.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mycarn/!svn/ver/921/Mycarn_v3/irna/iRNA_seq/Files.py
+END
+Genbank.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mycarn/!svn/ver/807/Mycarn_v3/irna/iRNA_seq/Genbank.py
+END

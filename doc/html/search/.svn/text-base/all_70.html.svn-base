@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title></title>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="search.css"/>
+<script type="text/javascript" src="search.js"></script>
+</head>
+<body class="SRPage">
+<div id="SRIndex">
+<div class="SRStatus" id="Loading">Loading...</div>
+<div class="SRResult" id="SR_parse">
+ <div class="SREntry">
+  <a id="Item0" onkeydown="return searchResults.Nav(event,0)" onkeypress="return searchResults.Nav(event,0)" onkeyup="return searchResults.Nav(event,0)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html" target="_parent">Parse</a>
+  <span class="SRScope">iRNA_pred::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parse">
+ <div class="SREntry">
+  <a id="Item1" onkeydown="return searchResults.Nav(event,1)" onkeypress="return searchResults.Nav(event,1)" onkeyup="return searchResults.Nav(event,1)" class="SRSymbol" href="../classDavid2tulip_1_1Graph_1_1Graph.html#abc130d2d08f6f21d5c579d68e77434d1" target="_parent">parse</a>
+  <span class="SRScope">David2tulip::Graph::Graph</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsebistarna">
+ <div class="SREntry">
+  <a id="Item2" onkeydown="return searchResults.Nav(event,2)" onkeypress="return searchResults.Nav(event,2)" onkeyup="return searchResults.Nav(event,2)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#aac3b7ba2bdb122ff04732b2ac2792eda" target="_parent">parseBistaRNA</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parseblastall">
+ <div class="SREntry">
+  <a id="Item3" onkeydown="return searchResults.Nav(event,3)" onkeypress="return searchResults.Nav(event,3)" onkeyup="return searchResults.Nav(event,3)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a9524f5466c2f1540615c4a8e05e8181d" target="_parent">parseBlastall</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsechart">
+ <div class="SREntry">
+  <a id="Item4" onkeydown="return searchResults.Nav(event,4)" onkeypress="return searchResults.Nav(event,4)" onkeyup="return searchResults.Nav(event,4)" class="SRSymbol" href="../classDavid2tulip_1_1David_1_1David.html#a497780f2deb14003b4e135fb78057976" target="_parent">parseChart</a>
+  <span class="SRScope">David2tulip::David::David</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parseguugle">
+ <div class="SREntry">
+  <a id="Item5" onkeydown="return searchResults.Nav(event,5)" onkeypress="return searchResults.Nav(event,5)" onkeyup="return searchResults.Nav(event,5)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#aa5cd11121c872335e06c888018b4cb79" target="_parent">parseGuugle</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parseintarna">
+ <div class="SREntry">
+  <a id="Item6" onkeydown="return searchResults.Nav(event,6)" onkeypress="return searchResults.Nav(event,6)" onkeyup="return searchResults.Nav(event,6)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a60b8b530fe60753410195432c23287d0" target="_parent">parseIntaRNA</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsepairfold">
+ <div class="SREntry">
+  <a id="Item7" onkeydown="return searchResults.Nav(event,7)" onkeypress="return searchResults.Nav(event,7)" onkeyup="return searchResults.Nav(event,7)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#aadf336be25c2fb85af622f971f0627d2" target="_parent">parsePairfold</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parser">
+ <div class="SREntry">
+  <a id="Item8" onkeydown="return searchResults.Nav(event,8)" onkeypress="return searchResults.Nav(event,8)" onkeyup="return searchResults.Nav(event,8)" class="SRSymbol" href="../classiRNA__stat_1_1Parser_1_1Parser.html" target="_parent">Parser</a>
+  <span class="SRScope">iRNA_stat::Parser</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parser">
+ <div class="SREntry">
+  <a id="Item9" onkeydown="return searchResults.Nav(event,9)" onkeypress="return searchResults.Nav(event,9)" onkeyup="return searchResults.Nav(event,9)" class="SRSymbol" href="../classDavid2tulip_1_1Parser_1_1Parser.html" target="_parent">Parser</a>
+  <span class="SRScope">David2tulip::Parser</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parseractip">
+ <div class="SREntry">
+  <a id="Item10" onkeydown="return searchResults.Nav(event,10)" onkeypress="return searchResults.Nav(event,10)" onkeyup="return searchResults.Nav(event,10)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a13d5e22bcc9f4a4248d1985c4390f27a" target="_parent">parseRactip</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsernacofold">
+ <div class="SREntry">
+  <a id="Item11" onkeydown="return searchResults.Nav(event,11)" onkeypress="return searchResults.Nav(event,11)" onkeyup="return searchResults.Nav(event,11)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a3c6aa66a3b73da2fb7bb4023375f5c22" target="_parent">parseRNAcofold</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsernaduplex">
+ <div class="SREntry">
+  <a id="Item12" onkeydown="return searchResults.Nav(event,12)" onkeypress="return searchResults.Nav(event,12)" onkeyup="return searchResults.Nav(event,12)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a7b7cf48e50e03a0c7f86d162240a6ddb" target="_parent">parseRNAduplex</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsernahybrid">
+ <div class="SREntry">
+  <a id="Item13" onkeydown="return searchResults.Nav(event,13)" onkeypress="return searchResults.Nav(event,13)" onkeyup="return searchResults.Nav(event,13)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a212cfe27b13a34684a84b522dd5f0e44" target="_parent">parseRNAhybrid</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsernaplex">
+ <div class="SREntry">
+  <a id="Item14" onkeydown="return searchResults.Nav(event,14)" onkeypress="return searchResults.Nav(event,14)" onkeyup="return searchResults.Nav(event,14)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a709c700a9594fcbce765da4c4a73e750" target="_parent">parseRNAplex</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsernaup">
+ <div class="SREntry">
+  <a id="Item15" onkeydown="return searchResults.Nav(event,15)" onkeypress="return searchResults.Nav(event,15)" onkeyup="return searchResults.Nav(event,15)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a8d2cc6b645be3e7c4bee6753e0a98b3d" target="_parent">parseRNAup</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parsessearch">
+ <div class="SREntry">
+  <a id="Item16" onkeydown="return searchResults.Nav(event,16)" onkeypress="return searchResults.Nav(event,16)" onkeyup="return searchResults.Nav(event,16)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a553fbe48009fb2de55f956666c30e39a" target="_parent">parseSsearch</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_parseyass">
+ <div class="SREntry">
+  <a id="Item17" onkeydown="return searchResults.Nav(event,17)" onkeypress="return searchResults.Nav(event,17)" onkeyup="return searchResults.Nav(event,17)" class="SRSymbol" href="../classiRNA__pred_1_1Parse_1_1Parse.html#a920ca1dfc8b69fa94c23c71c17452c71" target="_parent">parseYass</a>
+  <span class="SRScope">iRNA_pred::Parse::Parse</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pickling">
+ <div class="SREntry">
+  <a id="Item18" onkeydown="return searchResults.Nav(event,18)" onkeypress="return searchResults.Nav(event,18)" onkeyup="return searchResults.Nav(event,18)" class="SRSymbol" href="../classiRNA__stat_1_1Pickling_1_1Pickling.html" target="_parent">Pickling</a>
+  <span class="SRScope">iRNA_stat::Pickling</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_plot">
+ <div class="SREntry">
+  <a id="Item19" onkeydown="return searchResults.Nav(event,19)" onkeypress="return searchResults.Nav(event,19)" onkeyup="return searchResults.Nav(event,19)" class="SRSymbol" href="../classiRNA__stat_1_1Draw__data_1_1draw__data.html#a53417d24b31e79f452d2549371ee7d30" target="_parent">plot</a>
+  <span class="SRScope">iRNA_stat::Draw_data::draw_data</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_plot_5flinear_5fregression">
+ <div class="SREntry">
+  <a id="Item20" onkeydown="return searchResults.Nav(event,20)" onkeypress="return searchResults.Nav(event,20)" onkeyup="return searchResults.Nav(event,20)" class="SRSymbol" href="../classiRNA__stat_1_1Draw__data_1_1draw__data.html#aed2d90f79db5dd9c366916c5ba7127a6" target="_parent">plot_linear_regression</a>
+  <span class="SRScope">iRNA_stat::Draw_data::draw_data</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_plot_5froc_5fcurves">
+ <div class="SREntry">
+  <a id="Item21" onkeydown="return searchResults.Nav(event,21)" onkeypress="return searchResults.Nav(event,21)" onkeyup="return searchResults.Nav(event,21)" class="SRSymbol" href="../classiRNA__stat_1_1Draw__data_1_1draw__data.html#a5c2b32193f1601bbc173ffb276265b3a" target="_parent">plot_roc_curves</a>
+  <span class="SRScope">iRNA_stat::Draw_data::draw_data</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_plot_5froc_5fcurves_5fstatistics">
+ <div class="SREntry">
+  <a id="Item22" onkeydown="return searchResults.Nav(event,22)" onkeypress="return searchResults.Nav(event,22)" onkeyup="return searchResults.Nav(event,22)" class="SRSymbol" href="../classiRNA__stat_1_1Draw__data_1_1draw__data.html#abbbb2bff662905cd5dd751b3194d6a5c" target="_parent">plot_roc_curves_statistics</a>
+  <span class="SRScope">iRNA_stat::Draw_data::draw_data</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pred_5fplot">
+ <div class="SREntry">
+  <a id="Item23" onkeydown="return searchResults.Nav(event,23)" onkeypress="return searchResults.Nav(event,23)" onkeyup="return searchResults.Nav(event,23)" class="SRSymbol" href="../classiRNA__stat_1_1Draw__data_1_1draw__data.html#a1405af4dc14fd782d40ee7894edce500" target="_parent">pred_plot</a>
+  <span class="SRScope">iRNA_stat::Draw_data::draw_data</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_preparecomparaison">
+ <div class="SREntry">
+  <a id="Item24" onkeydown="return searchResults.Nav(event,24)" onkeypress="return searchResults.Nav(event,24)" onkeyup="return searchResults.Nav(event,24)" class="SRSymbol" href="../classiRNA__pred_1_1Comparison_1_1Comparaison.html#a405dfb7ad2fe2e74fa60f47701730b00" target="_parent">prepareComparaison</a>
+  <span class="SRScope">iRNA_pred::Comparison::Comparaison</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_printedges">
+ <div class="SREntry">
+  <a id="Item25" onkeydown="return searchResults.Nav(event,25)" onkeypress="return searchResults.Nav(event,25)" onkeyup="return searchResults.Nav(event,25)" class="SRSymbol" href="../classDavid2tulip_1_1Graph_1_1Graph.html#a79875c70c53389b5345d17069db3468d" target="_parent">printedges</a>
+  <span class="SRScope">David2tulip::Graph::Graph</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_printgroupdata">
+ <div class="SREntry">
+  <a id="Item26" onkeydown="return searchResults.Nav(event,26)" onkeypress="return searchResults.Nav(event,26)" onkeyup="return searchResults.Nav(event,26)" class="SRSymbol" href="../classDavid2tulip_1_1Node_1_1Node.html#a1799f421bc095eea44d3c1cf30e5942b" target="_parent">printgroupdata</a>
+  <span class="SRScope">David2tulip::Node::Node</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_println">
+ <div class="SREntry">
+  <a id="Item27" onkeydown="return searchResults.Nav(event,27)" onkeypress="return searchResults.Nav(event,27)" onkeyup="return searchResults.Nav(event,27)" class="SRSymbol" href="javascript:searchResults.Toggle('SR_println')">println</a>
+  <div class="SRChildren">
+    <a id="Item27_c0" onkeydown="return searchResults.NavChild(event,27,0)" onkeypress="return searchResults.NavChild(event,27,0)" onkeyup="return searchResults.NavChild(event,27,0)" class="SRScope" href="../classDavid2tulip_1_1Edge_1_1Edge.html#a58e48290ac5f50c00a251994f53d2381" target="_parent">David2tulip::Edge::Edge::println()</a>
+    <a id="Item27_c1" onkeydown="return searchResults.NavChild(event,27,1)" onkeypress="return searchResults.NavChild(event,27,1)" onkeyup="return searchResults.NavChild(event,27,1)" class="SRScope" href="../classDavid2tulip_1_1Node_1_1Node.html#a1b74a4206857e8de1617dd9c1d9586d7" target="_parent">David2tulip::Node::Node::println()</a>
+    <a id="Item27_c2" onkeydown="return searchResults.NavChild(event,27,2)" onkeypress="return searchResults.NavChild(event,27,2)" onkeyup="return searchResults.NavChild(event,27,2)" class="SRScope" href="../classiRNA__pred_1_1Interaction_1_1Interaction.html#a8336dd6cdc25e8011edf6d2c02a6256a" target="_parent">iRNA_pred::Interaction::Interaction::println()</a>
+  </div>
+ </div>
+</div>
+<div class="SRResult" id="SR_printnodes">
+ <div class="SREntry">
+  <a id="Item28" onkeydown="return searchResults.Nav(event,28)" onkeypress="return searchResults.Nav(event,28)" onkeyup="return searchResults.Nav(event,28)" class="SRSymbol" href="../classDavid2tulip_1_1Graph_1_1Graph.html#aaeceef60da5743141b38aafbcb848d1c" target="_parent">printnodes</a>
+  <span class="SRScope">David2tulip::Graph::Graph</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_printobject">
+ <div class="SREntry">
+  <a id="Item29" onkeydown="return searchResults.Nav(event,29)" onkeypress="return searchResults.Nav(event,29)" onkeyup="return searchResults.Nav(event,29)" class="SRSymbol" href="../classDavid2tulip_1_1Parser_1_1Parser.html#a1779646ade30aedf461a0069b0b2e4ed" target="_parent">printObject</a>
+  <span class="SRScope">David2tulip::Parser::Parser</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pvalue">
+ <div class="SREntry">
+  <a id="Item30" onkeydown="return searchResults.Nav(event,30)" onkeypress="return searchResults.Nav(event,30)" onkeyup="return searchResults.Nav(event,30)" class="SRSymbol" href="../classDavid2tulip_1_1pValue_1_1pValue.html" target="_parent">pValue</a>
+  <span class="SRScope">David2tulip::pValue</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pvalue">
+ <div class="SREntry">
+  <a id="Item31" onkeydown="return searchResults.Nav(event,31)" onkeypress="return searchResults.Nav(event,31)" onkeyup="return searchResults.Nav(event,31)" class="SRSymbol" href="../classiRNA__stat_1_1pValue_1_1pValue.html" target="_parent">pValue</a>
+  <span class="SRScope">iRNA_stat::pValue</span>
+ </div>
+</div>
+<div class="SRResult" id="SR_pvalue_5fselection">
+ <div class="SREntry">
+  <a id="Item32" onkeydown="return searchResults.Nav(event,32)" onkeypress="return searchResults.Nav(event,32)" onkeyup="return searchResults.Nav(event,32)" class="SRSymbol" href="../classiRNA__stat_1_1pValue__selection_1_1pValue__selection.html" target="_parent">pValue_selection</a>
+  <span class="SRScope">iRNA_stat::pValue_selection</span>
+ </div>
+</div>
+<div class="SRStatus" id="Searching">Searching...</div>
+<div class="SRStatus" id="NoMatches">No Matches</div>
+<script type="text/javascript"><!--
+document.getElementById("Loading").style.display="none";
+document.getElementById("NoMatches").style.display="none";
+var searchResults = new SearchResults("searchResults");
+searchResults.Search();
+--></script>
+</div>
+</body>
+</html>

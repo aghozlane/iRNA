@@ -1,0 +1,75 @@
+\hypertarget{classMycarn__stat_1_1Threshold_1_1Threshold}{
+\section{\-Mycarn\-\_\-stat\-:\-:\-Threshold\-:\-:\-Threshold \-Class \-Reference}
+\label{classMycarn__stat_1_1Threshold_1_1Threshold}\index{\-Mycarn\-\_\-stat\-::\-Threshold\-::\-Threshold@{\-Mycarn\-\_\-stat\-::\-Threshold\-::\-Threshold}}
+}
+
+
+\-Inheritance diagram for \-Mycarn\-\_\-stat\-:\-:\-Threshold\-:\-:\-Threshold\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=248pt]{classMycarn__stat_1_1Threshold_1_1Threshold__inherit__graph}
+\end{center}
+\end{figure}
+
+
+\-Collaboration diagram for \-Mycarn\-\_\-stat\-:\-:\-Threshold\-:\-:\-Threshold\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=248pt]{classMycarn__stat_1_1Threshold_1_1Threshold__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Threshold_1_1Threshold_afc66366f78ed609e1fe2568479c96974}{
+def \hyperlink{classMycarn__stat_1_1Threshold_1_1Threshold_afc66366f78ed609e1fe2568479c96974}{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\label{classMycarn__stat_1_1Threshold_1_1Threshold_afc66366f78ed609e1fe2568479c96974}
+
+\begin{DoxyCompactList}\small\item\em \-Instanciate soft object. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1Threshold_1_1Threshold_a3f15387529cb1ef5c4327a35b411e4e2}{
+def \hyperlink{classMycarn__stat_1_1Threshold_1_1Threshold_a3f15387529cb1ef5c4327a35b411e4e2}{get\-Thresinf}}
+\label{classMycarn__stat_1_1Threshold_1_1Threshold_a3f15387529cb1ef5c4327a35b411e4e2}
+
+\begin{DoxyCompactList}\small\item\em \-Parse p\-Value threshold file. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1Threshold_1_1Threshold_a3f4b373f958d6c293717a77f14983e93}{get\-Softnum}
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1Threshold_1_1Threshold_a194cbc40c83aa85f8e7b9ba47e9addb9}{
+{\bfseries soft}}
+\label{classMycarn__stat_1_1Threshold_1_1Threshold_a194cbc40c83aa85f8e7b9ba47e9addb9}
+
+\item 
+\hypertarget{classMycarn__stat_1_1Threshold_1_1Threshold_a52d9fc0f76388015f4190ec3062a97a0}{
+{\bfseries threshold}}
+\label{classMycarn__stat_1_1Threshold_1_1Threshold_a52d9fc0f76388015f4190ec3062a97a0}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn__stat_1_1Threshold_1_1Threshold_a3f4b373f958d6c293717a77f14983e93}{
+\index{\-Mycarn\-\_\-stat\-::\-Threshold\-::\-Threshold@{\-Mycarn\-\_\-stat\-::\-Threshold\-::\-Threshold}!get\-Softnum@{get\-Softnum}}
+\index{get\-Softnum@{get\-Softnum}!Mycarn_stat::Threshold::Threshold@{\-Mycarn\-\_\-stat\-::\-Threshold\-::\-Threshold}}
+\subsubsection[{get\-Softnum}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Threshold\-::\-Threshold\-::get\-Softnum (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{soft}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1Threshold_1_1Threshold_a3f4b373f958d6c293717a77f14983e93}
+
+\begin{DoxyParams}{\-Parameters}
+{\em soft,\-:} & \-Name of asked software \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn\-\_\-stat/\-Threshold.\-py\end{DoxyCompactItemize}

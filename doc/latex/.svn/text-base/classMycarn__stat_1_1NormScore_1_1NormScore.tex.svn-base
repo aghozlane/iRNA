@@ -1,0 +1,210 @@
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore}{
+\section{\-Mycarn\-\_\-stat\-:\-:\-Norm\-Score\-:\-:\-Norm\-Score \-Class \-Reference}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore}\index{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+def \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore_a356e9e0570cb6260fc07e060a2b89473}{\-\_\-\-\_\-init\-\_\-\-\_\-}
+\begin{DoxyCompactList}\small\item\em \-Instanciate \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore}{\-Norm\-Score} object. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_adecaa88f3492f37db19569dfe587518d}{
+def \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore_adecaa88f3492f37db19569dfe587518d}{defnormfunction}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_adecaa88f3492f37db19569dfe587518d}
+
+\begin{DoxyCompactList}\small\item\em \-Determine the function to apply depending on the type of software. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore_aaa3e70e449dc264cc2eb18df109a1457}{norm\-Several\-Score}
+\begin{DoxyCompactList}\small\item\em \-Compute normalised score in several score context. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore_a77de4bd185d2aa6b047d515c8a6caccc}{norm\-Several\-Energy}
+\begin{DoxyCompactList}\small\item\em \-Compute normalised energy in several energy context. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore_a568602cecbe89859753dd87dddff33b1}{norm\-Several\-Contact\-Score}
+\begin{DoxyCompactList}\small\item\em \-Compute normalised energy in several energy context. \end{DoxyCompactList}\item 
+def \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore_ad0d2700f64c8cf3ab450f52e4919494d}{norm\-Unique\-Solution}
+\begin{DoxyCompactList}\small\item\em \-Compute normalised score/energy in several contact context. \end{DoxyCompactList}\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a14ed3bfae5bb566d730e04a1f4d8dc55}{
+def \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore_a14ed3bfae5bb566d730e04a1f4d8dc55}{run}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a14ed3bfae5bb566d730e04a1f4d8dc55}
+
+\begin{DoxyCompactList}\small\item\em \-Compute normalized score. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a6743f2c07eae86500733c4b3d82c97f0}{
+{\bfseries normfuncmap}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a6743f2c07eae86500733c4b3d82c97f0}
+
+\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a109b0d9140dc83e8981336793a2e039b}{
+{\bfseries interactions}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a109b0d9140dc83e8981336793a2e039b}
+
+\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a931f57469ae9e7e71bef056038e596e6}{
+{\bfseries type\-\_\-sol}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a931f57469ae9e7e71bef056038e596e6}
+
+\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a37ace8f07ec911b875507bad5751160a}{
+{\bfseries score\-\_\-type}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a37ace8f07ec911b875507bad5751160a}
+
+\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a222b7f21ea043d7dad00a9a805f8ace9}{
+{\bfseries dbmanage}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a222b7f21ea043d7dad00a9a805f8ace9}
+
+\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_afa259739580c1a7d33d85446d6aa2f46}{
+{\bfseries norm\-\_\-score}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_afa259739580c1a7d33d85446d6aa2f46}
+
+\item 
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a6accd05f95d674f39ea20a58450d8608}{
+{\bfseries pos}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a6accd05f95d674f39ea20a58450d8608}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{\-Constructor \& \-Destructor \-Documentation}
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a356e9e0570cb6260fc07e060a2b89473}{
+\index{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}}
+\index{\-\_\-\-\_\-init\-\_\-\-\_\-@{\-\_\-\-\_\-init\-\_\-\-\_\-}!Mycarn_stat::NormScore::NormScore@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{\-\_\-\-\_\-init\-\_\-\-\_\-}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::\-\_\-\-\_\-init\-\_\-\-\_\- (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{data, }
+\item[{}]{dbmanage}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a356e9e0570cb6260fc07e060a2b89473}
+
+
+\-Instanciate \hyperlink{classMycarn__stat_1_1NormScore_1_1NormScore}{\-Norm\-Score} object. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em data,\-:} & \-Communication object \\
+\hline
+{\em dbmanage,\-:} & \-Access to the database \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{\-Member \-Function \-Documentation}
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a568602cecbe89859753dd87dddff33b1}{
+\index{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!norm\-Several\-Contact\-Score@{norm\-Several\-Contact\-Score}}
+\index{norm\-Several\-Contact\-Score@{norm\-Several\-Contact\-Score}!Mycarn_stat::NormScore::NormScore@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{norm\-Several\-Contact\-Score}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::norm\-Several\-Contact\-Score (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score, }
+\item[{}]{loglen, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{i}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a568602cecbe89859753dd87dddff33b1}
+
+
+\-Compute normalised energy in several energy context. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score \\
+\hline
+{\em loglen,\-:} & \-Log length value \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em i,\-:} & \-Position in the tab \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_a77de4bd185d2aa6b047d515c8a6caccc}{
+\index{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!norm\-Several\-Energy@{norm\-Several\-Energy}}
+\index{norm\-Several\-Energy@{norm\-Several\-Energy}!Mycarn_stat::NormScore::NormScore@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{norm\-Several\-Energy}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::norm\-Several\-Energy (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score, }
+\item[{}]{loglen, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{i}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_a77de4bd185d2aa6b047d515c8a6caccc}
+
+
+\-Compute normalised energy in several energy context. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score \\
+\hline
+{\em loglen,\-:} & \-Log length value \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em i,\-:} & \-Position in the tab \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_aaa3e70e449dc264cc2eb18df109a1457}{
+\index{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!norm\-Several\-Score@{norm\-Several\-Score}}
+\index{norm\-Several\-Score@{norm\-Several\-Score}!Mycarn_stat::NormScore::NormScore@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{norm\-Several\-Score}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::norm\-Several\-Score (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score, }
+\item[{}]{loglen, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{i}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_aaa3e70e449dc264cc2eb18df109a1457}
+
+
+\-Compute normalised score in several score context. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score \\
+\hline
+{\em loglen,\-:} & \-Log length value \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em i,\-:} & \-Position in the tab \\
+\hline
+\end{DoxyParams}
+\hypertarget{classMycarn__stat_1_1NormScore_1_1NormScore_ad0d2700f64c8cf3ab450f52e4919494d}{
+\index{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}!norm\-Unique\-Solution@{norm\-Unique\-Solution}}
+\index{norm\-Unique\-Solution@{norm\-Unique\-Solution}!Mycarn_stat::NormScore::NormScore@{\-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score}}
+\subsubsection[{norm\-Unique\-Solution}]{\setlength{\rightskip}{0pt plus 5cm}def \-Mycarn\-\_\-stat\-::\-Norm\-Score\-::\-Norm\-Score\-::norm\-Unique\-Solution (
+\begin{DoxyParamCaption}
+\item[{}]{self, }
+\item[{}]{score, }
+\item[{}]{loglen, }
+\item[{}]{score\-\_\-type, }
+\item[{}]{i}
+\end{DoxyParamCaption}
+)}}
+\label{classMycarn__stat_1_1NormScore_1_1NormScore_ad0d2700f64c8cf3ab450f52e4919494d}
+
+
+\-Compute normalised score/energy in several contact context. 
+
+
+\begin{DoxyParams}{\-Parameters}
+{\em score,\-:} & \-Score \\
+\hline
+{\em loglen,\-:} & \-Log length value \\
+\hline
+{\em score\-\_\-type,\-:} & \-Type of score \\
+\hline
+{\em i,\-:} & \-Position in the tab \\
+\hline
+\end{DoxyParams}
+
+
+\-The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+/home/amine/workspace/\-Mycarn\-\_\-v3/src/\-Mycarn\-\_\-stat/\-Norm\-Score.\-py\end{DoxyCompactItemize}

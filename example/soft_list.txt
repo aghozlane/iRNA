@@ -1,0 +1,29 @@
+%soft/blast/bin/blastall -p blastn -W 4 -e 10000 -S 2 -m 8 -d %mf_mRNA -i %sRNA
+%soft/blast/bin/blastall -p blastn -W 4 -e 10000 -S 2 -m 8 -d %mf_mRNA -i %sRNA -r 4 -q 5 -G 11 -E 11
+#%soft/guugle/guugle -d 7 %mRNA %sRNA
+%soft/guugle/guugle -d 3 %mRNA %sRNA
+%soft/ssearch/bin/ssearch35_t -Q -B -H -m 9 -E 10000 -d 0 -f 0 -g -11 -i -n -a -s /projets/mycarn/Mycarn/data/dna_bis.mat %sRNA  %mf_mRNA
+%soft/ViennaRNA/bin/RNAduplex -noPS < %couples
+#%soft/ViennaRNA/bin/RNAduplex < %couples
+%soft/ViennaRNA/bin/RNAcofold -a -p -d2 -noPS -noLP < %couples-2
+#%soft/ViennaRNA/bin/RNAcofold -noPS < %couples-2
+%soft/ViennaRNA/bin/RNAup -b -d2 -noLP < %couples
+#%soft/ViennaRNA/bin/RNAup < %couples
+%soft/RNAhybrid/bin/RNAhybrid  -t %mRNA  -q %sRNA -m 10000 -n 10000 -s 3utr_human
+%soft/RNAhybrid/bin/RNAhybrid  -t %mRNA  -q %sRNA -m 10000 -n 10000 -d 1
+%soft/RNAplex/bin/RNAplex -e -10 -c 30  -l 20 -t %mRNA -q %sRNA
+%soft/RNAplex/bin/RNAplex -t %mRNA -q %sRNA
+%soft/bistaRNA/bistarna %couples
+%soft/bistaRNA/bistarna -w 5 %couples
+#%soft/bistaRNA/bistarna -w 15 %couples
+%soft/ractip/bin/ractip %mRNA %sRNA
+%soft/ractip/bin/ractip -m %mRNA %sRNA
+%soft/yass/yass-Linux64.bin -d 2 -r 1 -G -11,-11 -E 10000 -C 5,-11 -p "##-#,###" %sRNA %mRNA
+%soft/intaRNA/bin/IntaRNA -t %mRNA -m %sRNA -o -s 4 -w 140
+%soft/intaRNA/bin/IntaRNA -t %mRNA -m %sRNA -o -s 4
+%soft/pairfold/pairfold %sRNA %mRNA 
+#%soft/lara/lara -c -i %couples -o /home/thebault/Mycarn/soft/lara/lara.params
+#%soft/piRNA/partition -p 1 -q --NotAA --NotBB  %mRNA %sRNA
+#%soft/rip/bin/RNArip  -i %couples
+#%soft/interna/inteRNA %mRNA %sRNA
+#%soft/biRNA/birna %mRNA %sRNA

@@ -1,0 +1,115 @@
+                            iRNA
+			Amine Ghozlane
+
+  Please see the file ChangeLog for a log of recent changes in iRNA
+
+        More information about iRNA is available online at
+           	 http://www.cbib.u-bordeaux2.fr/irna/
+
+       Please report problems with iRNA using the tracker at
+          http://sourceforge.net/projects/irna/support
+
+  Mailing lists and online web forums for discussing MeTaBoFlux are at
+          http://sourceforge.net/projects/irna/forums
+
+    To contact iRNA developer directly, send email to
+                       amine.ghozlane@labri.fr
+
+   ,----------------------------------------------------------------.
+  | Table of contents                                               |
+  | 1. Quick start												    |
+  |	2. Documentation                                                |
+  | 3. Reporting bugs and other problems                            |
+  | 3. Mailing lists                                                |
+  | 4. Licensing and distribution                                   |
+   `----------------------------------------------------------------'
+         Date of last update to this file: 2011-01-12 18:00:00
+
+================
+=1. QUICK START=
+================
+
+==================
+1.1. Requirements
+==================
+  - Python >= 2.6 with package python-dev
+  - python-setuptools 
+  - openmpi (http://www.open-mpi.org/) with package openmpi-dev or libopenmpi-dev
+  -	R >= 2.14.0+ (http://www.r-project.org/) with packages pROC (http://web.expasy.org/pROC/) and Cairo (http://cran.r-project.org/web/packages/Cairo/index.html)
+   
+==================
+1.2. Installation
+==================
+To install iRNA, the setuptools mechanism can be used: 
+	
+	./python setup.py build
+	./python setup.py install
+	
+iRNA will download automatically the package = numpy, scipy, mpi4py, rpy2, sqlitebck, lxml and suds.
+In case of problem, use : 
+easy_install numpy scipy mpi4py rpy2 sqlitebck lxml suds
+and retry previous command. 
+
+======================================
+=2. Documentation                    = 
+======================================
+
+Documentation is available at:
+
+======================================
+=3. Reporting bugs and other problems= 
+======================================
+
+We invite you to report bugs and other problems using the issue
+tracker for iRNA on SourceForge.  The following URL will take you
+there directly:
+
+  http://sourceforge.net/projects/irna/support
+
+You can also ask questions on the 'irna-support@lists.sourceforge.net' mailing
+list, either over email or using the web forum interface (see below).
+
+==================
+=3. MAILING LISTS=
+==================
+
+=======================
+Discussion lists
+=======================
+
+All discussion lists, their web interfaces and their RSS feeds are at
+
+         http://sourceforge.net/projects/metaboflux/forums
+
+If you use MetaBoFLux, we encourage you to subscribe to 
+'metaboflux-support@lists.sourceforge.net' mailing
+list, where people discuss the development, use, and interoperability 
+of the software.
+
+If you are interested in helping to modify MetaBoFlux, or just want to
+know about deeper issues and technical topics, you are welcome to
+subscribe to the 'metaboflux-development@lists.sourceforge.net' mailing list.  
+Being a member of metaboflux-development will enable you to keep in touch with the
+latest developments in MetaBoFlux as well as to ask questions and share
+your experiences with fellow developers and users of MetaBoFlux.
+
+===============================
+=4. LICENSING AND DISTRIBUTION=
+===============================
+
+Licensing and Distribution Terms for iRNA:
+
+Copyright (C) 2010 Amine Ghozlane from LaBRI and University of Bordeaux 1   
+                                                                            
+iRNA is free software: you can redistribute it and/or modify          
+it under the terms of the GNU Lesser General Public License as published by        
+the Free Software Foundation, either version 3 of the License, or           
+(at your option) any later version.                                         
+                                                                            
+iRNA is distributed in the hope that it will be useful,               
+but WITHOUT ANY WARRANTY; without even the implied warranty of              
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the               
+GNU General Public License for more details.                                
+                                                                            
+You should have received a copy of the GNU Lesser General Public License           
+along with this program name "COPYING".  If not, see <http://www.gnu.org/licenses/>.
